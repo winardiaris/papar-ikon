@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3869"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="mail-signature-unknown.svg">
+  <defs
+     id="defs12030" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12028" />
+  <metadata
+     id="metadata3874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-326 -534.36)">
+    <path
+       id="rect4144"
+       style="fill:#4d4d4d"
+       d="m1 3v1 8 6 0.41406 0.586h1 6 3v-1h-3-6v-0.58594l0.46289-0.46289 6.2676-6.2676 1.4531 1.4512 0.81445 0.81445h0.002l0.81641-0.81445 1.4531-1.4512 1.317 1.316h1.414l-2.023-2.0234 5.752-5.7539 0.222-0.2227h0.049v0.2227 5.7773h1v-7h-0.049-0.951-0.463-17.074-0.463zm1 1h0.0488l0.2227 0.2227 5.7519 5.7539-6.0234 6.0234v-4-7.7773zm1.4629 0h15.074l-7.537 7.537z"
+       transform="translate(326 534.36)" />
+    <path
+       id="rect4139"
+       style="fill:#fdbc4b"
+       d="m19 11l-0.996 0.994-0.004-0.004-5 4.998 0.008 0.008-0.004 1.004h-0.004v0.99 0.01h2l0.006-0.006 0.004-0.004c0.004 0 0.006 0.002 0.01 0.002l-0.006-0.006 0.986-0.986 4-3.996-0.705-0.709-4.99 4.986-0.594-0.592 4.992-4.988 0.592 0.594 0.705 0.703 1-1-2-1.998z"
+       transform="translate(326 534.36)" />
+  </g>
+</svg>

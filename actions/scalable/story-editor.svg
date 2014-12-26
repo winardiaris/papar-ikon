@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="story-editor.svg">
+  <defs
+     id="defs19214" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview19212" />
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="rect3344-6"
+       style="fill:#4d4d4d"
+       d="m3 3v3 13h1 5v-1h-5v-12h12v4h1v-4-1-2h-2v1h-1v-1h-8v1h-1v-1zm14 8-0.99609 0.99414-0.0039-0.0039-5 4.998 0.0078 0.0078l-0.004 1.004h-0.004v0.99 0.01h2l0.0059-0.0059 0.0039-0.0039c0.004-0.00002 0.0058 0.002 0.0098 0.002l-0.0059-0.0059 0.986-0.986 4-3.9961-0.70508-0.70898-4.9902 4.9863-0.59375-0.5918 4.9922-4.9883 0.5918 0.59375 0.705 0.703 1-1z"
+       transform="translate(421.71 525.79)" />
+    <path
+       id="rect3383"
+       style="fill:#4d4d4d"
+       d="m426.71 532.79h10v1h-10z" />
+    <path
+       id="rect3390"
+       style="fill:#4d4d4d"
+       d="m426.71 535.79h10v1h-10z" />
+    <path
+       id="rect3392"
+       style="fill:#4d4d4d"
+       d="m426.71 538.79h7v1h-7z" />
+  </g>
+</svg>

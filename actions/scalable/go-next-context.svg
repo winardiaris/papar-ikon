@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3813"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="go-next-context.svg">
+  <defs
+     id="defs5980" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview5978" />
+  <metadata
+     id="metadata3818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-378.86 -540.08)">
+    <path
+       id="rect4109"
+       style="fill:#4d4d4d"
+       d="m2 3v16h14l4-8-4-8h-14zm5.4277 4v0.5918c-0.7107 0-0.7207 0.2392-0.7207 1.1055v1.0175c0 0.4152-0.1236 1.0332-0.7226 1.2892 0.599 0.256 0.7226 0.875 0.7226 1.291v1.008c0 0.866 0.01 1.105 0.7207 1.105v0.592c-1.0661 0-1.5136-0.352-1.5136-1.254v-1.223c0-0.556-0.0205-1.201-0.6094-1.201h-0.3047v-0.644h0.3047c0.5889 0 0.6094-0.645 0.6094-1.2014v-1.2227c0-0.9017 0.4475-1.2539 1.5136-1.2539zm3.1363 0c1.067 0 1.522 0.3522 1.522 1.2539v1.2227c0 0.5564 0.04 1.2014 0.619 1.2014h0.295v0.644h-0.295c-0.579 0-0.619 0.645-0.619 1.201v1.223c0 0.902-0.455 1.254-1.522 1.254v-0.592c0.711 0 0.729-0.239 0.729-1.105v-1.008c0-0.416 0.124-1.035 0.723-1.291-0.599-0.256-0.723-0.874-0.723-1.2892v-1.0175c0-0.8663-0.018-1.1055-0.729-1.1055v-0.5918z"
+       transform="translate(378.86 540.08)" />
+  </g>
+</svg>

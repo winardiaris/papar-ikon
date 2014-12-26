@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="22"
+   viewBox="0 0 22 22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="gtk-save-as.svg">
+  <defs
+     id="defs7929" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview7927" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0 -1030.4)">
+    <circle
+       id="path4140"
+       style="fill:#4d4d4d"
+       d="m 22,1036.3622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
+       cx="21"
+       cy="1036.4"
+       r="1" />
+    <circle
+       id="circle4142"
+       style="fill:#4d4d4d"
+       d="m 22,1041.3622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
+       cy="1041.4"
+       cx="21"
+       r="1" />
+    <circle
+       id="circle4144"
+       style="fill:#4d4d4d"
+       d="m 22,1046.3624 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
+       cx="21"
+       cy="1046.4"
+       r="1" />
+    <path
+       id="rect4069"
+       style="fill:#4d4d4d"
+       d="m0 1033.4v1 15h1 9v-1h-9v-8h3v-0.01l0.00781 0.01 2-2h8.9922v5h1v-8h-6.9922l-2-2-0.00781 0.01v-0.01h-6z" />
+    <path
+       id="rect4071"
+       style="fill:#4d4d4d"
+       d="m13.5 1049.6-0.20703-0.207-3.293-3.293 0.70703-0.707 2.293 2.2929v-4.2929h1v4.2929l2.293-2.2929 0.70703 0.707-3.293 3.293-0.20703 0.207z" />
+  </g>
+</svg>

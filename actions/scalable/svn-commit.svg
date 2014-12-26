@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="svn-commit.svg">
+  <defs
+     id="defs19271" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview19269" />
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="rect4144"
+       style="fill:#4d4d4d"
+       d="m432.21 528.79c-0.65424 0-1.2022 0.41808-1.4082 1h-4.0918-1v1 11.092c-0.58192 0.206-1 0.75396-1 1.4082 0 0.831 0.669 1.5 1.5 1.5s1.5-0.669 1.5-1.5c0-0.65424-0.41808-1.2022-1-1.4082v-11.092h4.0918c0.15034 0.4247 0.4835 0.75786 0.9082 0.9082v6.0918 1h1 0.0918c0.206 0.58192 0.75396 1 1.4082 1 0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5c-0.65424 0-1.2022 0.41808-1.4082 1h-0.0918v-6.0918c0.58192-0.206 1-0.75396 1-1.4082 0-0.831-0.669-1.5-1.5-1.5zm0 1c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5-0.5-0.223-0.5-0.5 0.223-0.5 0.5-0.5zm2 8c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5-0.5-0.223-0.5-0.5 0.223-0.5 0.5-0.5zm-8 5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5-0.5-0.223-0.5-0.5 0.223-0.5 0.5-0.5z" />
+    <path
+       id="rect4071"
+       style="fill:#4d4d4d"
+       d="m438.21 538.79-0.20703 0.207-3.293 3.293 0.70703 0.707 2.293-2.2929v4.2929h1v-4.2929l2.293 2.2929 0.70703-0.707-3.293-3.293-0.20703-0.207z" />
+  </g>
+</svg>

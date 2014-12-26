@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="view-calendar-birthday.svg">
+  <defs
+     id="defs20520" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview20518" />
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="rect4144"
+       style="fill:#4d4d4d"
+       d="m3.707 3c0.4534 0.0923 0.793 0.4912 0.793 0.9727 0 0.2888-0.1249 0.5454-0.3203 0.7265-0.1094-0.1296-0.1758-0.2948-0.1758-0.4785 0-0.0404 0.0017-0.0782 0.0117-0.1172-0.3027 0.1699-0.5078 0.4882-0.5078 0.8613 0 0.5503 0.4419 0.9942 0.9922 0.9942 0.5501 0 0.9941-0.4439 0.9941-0.9942 0-1.0315-0.7831-1.8634-1.7871-1.9648zm4 0c0.4534 0.0923 0.793 0.4912 0.793 0.9727 0 0.2888-0.1249 0.5454-0.3203 0.7265-0.1094-0.1296-0.1758-0.2948-0.1758-0.4785 0-0.0404 0.0017-0.0782 0.0117-0.1172-0.3027 0.1699-0.5078 0.4882-0.5078 0.8613 0 0.5503 0.4419 0.9942 0.9922 0.9942 0.5501 0 0.9941-0.4439 0.9941-0.9942 0-1.0315-0.7831-1.8634-1.7871-1.9648zm5 0c0.453 0.0923 0.793 0.4912 0.793 0.9727 0 0.2888-0.125 0.5454-0.32 0.7265-0.11-0.1296-0.176-0.2948-0.176-0.4785 0-0.0404 0.002-0.0782 0.012-0.1172-0.303 0.1699-0.508 0.4882-0.508 0.8613 0 0.5503 0.442 0.9942 0.992 0.9942s0.994-0.4439 0.994-0.9942c0-1.0315-0.783-1.8634-1.787-1.9648zm4 0c0.453 0.0923 0.793 0.4912 0.793 0.9727 0 0.2888-0.125 0.5454-0.32 0.7265-0.11-0.1296-0.176-0.2948-0.176-0.4785 0-0.0404 0.002-0.0782 0.012-0.1172-0.303 0.1699-0.508 0.4882-0.508 0.8613 0 0.5503 0.442 0.9942 0.992 0.9942s0.994-0.4439 0.994-0.9942c0-1.0315-0.783-1.8634-1.787-1.9648zm-12.707 4v2h-1v1 4 1 3 1h16v-1-3-1-4-1h-1v-2h-1v2h-3v-2h-1v2h-4v-2h-1v2h-3v-2h-1zm0 3h14v4h-0.545c-1.36 0-2.455-1.095-2.455-2.455v-0.545h-1v0.545c0 1.36-1.095 2.455-2.455 2.455h-1.09c-1.3598 0-2.455-1.095-2.455-2.455v-0.545h-1v0.545c0 1.36-1.0952 2.455-2.4551 2.455h-0.5449v-4zm3.5 3.658c0.5362 0.809 1.4525 1.342 2.5 1.342h2c1.048 0 1.964-0.533 2.5-1.342 0.536 0.809 1.452 1.342 2.5 1.342h1v1h-14v-1h1c1.0475 0 1.9638-0.533 2.5-1.342zm-3.5 3.342h14v1h-14v-1z"
+       transform="translate(421.71 525.79)" />
+  </g>
+</svg>

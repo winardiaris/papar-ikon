@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="24"
+   width="24"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="emblem-ubuntuone-unsynchronized.svg">
+  <defs
+     id="defs137853" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview137851" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0 -1028.4)">
+    <path
+       id="path3865"
+       d="m5.7943 1032.9v4.9024c0 4.0767 0.1432 5.0526 0.30264 5.7203 0.59939 2.5103 2.2119 3.9494 4.8104 4.2968 1.4067 0.188 4.2477-0.03 6.482-0.4965l0.8164-0.1676v-14.255l-4.1371-0.013v11.377h-4.1371v-8.0156h-1.5514l2.0686-3.3586z"
+       style="fill:#f1c40f" />
+  </g>
+</svg>

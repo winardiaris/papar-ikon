@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3813"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="debug-step-into.svg">
+  <defs
+     id="defs1671" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview1669" />
+  <metadata
+     id="metadata3818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-378.86 -540.08)">
+    <path
+       id="path4136-8"
+       style="fill:#4d4d4d"
+       d="m3 3v4 12h1 15v-1-11-2-2h-5v1 3h4v11h-14v-11h4v-3-1h-5zm6.4277 6c-1.0661 0-1.5136 0.3522-1.5136 1.254v1.223c0 0.556-0.0205 1.201-0.6094 1.201h-0.3047v0.644h0.3047c0.5889 0 0.6094 0.645 0.6094 1.201v1.223c0 0.902 0.4475 1.254 1.5136 1.254v-0.592c-0.7107 0-0.7207-0.239-0.7207-1.105v-1.008c0-0.416-0.1236-1.035-0.7226-1.291 0.599-0.256 0.7226-0.874 0.7226-1.289v-1.018c0-0.866 0.01-1.1052 0.7207-1.1052v-0.5918zm3.1363 0v0.5918c0.711 0 0.729 0.2392 0.729 1.1052v1.018c0 0.415 0.124 1.033 0.723 1.289-0.599 0.256-0.723 0.875-0.723 1.291v1.008c0 0.866-0.018 1.105-0.729 1.105v0.592c1.067 0 1.522-0.352 1.522-1.254v-1.223c0-0.556 0.04-1.201 0.619-1.201h0.295v-0.644h-0.295c-0.579 0-0.619-0.645-0.619-1.201v-1.223c0-0.9018-0.455-1.254-1.522-1.254z"
+       transform="translate(378.86 540.08)" />
+    <path
+       id="path4133"
+       style="fill:#f60;fill-rule:evenodd"
+       d="m387.86 543.08 2 3 2-3z" />
+  </g>
+</svg>

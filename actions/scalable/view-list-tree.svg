@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="view-list-tree.svg">
+  <defs
+     id="defs10649" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10647" />
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="rect4094"
+       style="fill:#4d4d4d"
+       d="m3 3v7h7v-7h-7zm1 1h5v5h-5v-5z"
+       transform="translate(421.71 525.79)" />
+    <rect
+       id="rect4214"
+       style="fill:#4d4d4d"
+       height="6"
+       width="1"
+       y="535.79"
+       x="430.71" />
+    <rect
+       id="rect4216"
+       style="fill:#4d4d4d"
+       height="1"
+       width="2"
+       y="531.79"
+       x="431.71" />
+    <rect
+       id="rect4218"
+       style="fill:#4d4d4d"
+       height="1"
+       width="2"
+       y="540.79"
+       x="431.71" />
+    <path
+       id="path4220"
+       style="fill:#4d4d4d"
+       d="m433.71 528.79v7h7v-7h-7zm1 1h5v5h-5v-5z" />
+    <path
+       id="path4226"
+       style="fill:#4d4d4d"
+       d="m433.71 537.79v7h7v-7h-7z" />
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="speaker.svg">
+  <defs
+     id="defs16984" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16982" />
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="rect3344"
+       style="fill:#4d4d4d"
+       d="m11 3c-1.9163 0-3.6683 0.6696-5.043 1.7852-0.1002-0.4467-0.4792-0.7852-0.957-0.7852-0.554 0-1 0.446-1 1 0 0.4778 0.3385 0.8568 0.7852 0.957-1.1156 1.3747-1.7852 3.1267-1.7852 5.043 0 1.916 0.6696 3.668 1.7852 5.043-0.4467 0.1-0.7852 0.479-0.7852 0.957 0 0.554 0.446 1 1 1 0.4778 0 0.8568-0.338 0.957-0.785 1.3747 1.115 3.1267 1.785 5.043 1.785 1.916 0 3.668-0.67 5.043-1.785 0.1 0.447 0.479 0.785 0.957 0.785 0.554 0 1-0.446 1-1 0-0.478-0.338-0.857-0.785-0.957 1.115-1.375 1.785-3.127 1.785-5.043 0-1.9163-0.67-3.6683-1.785-5.043 0.447-0.1002 0.785-0.4792 0.785-0.957 0-0.554-0.446-1-1-1-0.478 0-0.857 0.3385-0.957 0.7852-1.375-1.1156-3.127-1.7852-5.043-1.7852zm-1 1l0.047 0.0723c0.312-0.0424 0.628-0.0723 0.953-0.0723 3.878 0 7 3.122 7 7s-3.122 7-7 7-7-3.122-7-7c0-3.4836 2.5222-6.35 5.8457-6.8984l0.1543-0.1016zm1 5c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2z"
+       transform="translate(421.71 525.79)" />
+  </g>
+</svg>

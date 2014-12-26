@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="fileview-preview.svg">
+  <defs
+     id="defs4191" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4189" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     id="rect4082"
+     style="fill:#4d4d4d"
+     d="m3 3v16h16v-16h-16zm1 1h14v14h-14v-14z" />
+  <path
+     id="rect4155"
+     style="fill:#4d4d4d"
+     d="m7.5 5c-1.385 0-2.5 1.115-2.5 2.5s1.115 2.5 2.5 2.5 2.5-1.115 2.5-2.5-1.115-2.5-2.5-2.5zm0 1c0.831 0 1.5 0.669 1.5 1.5s-0.669 1.5-1.5 1.5-1.5-0.669-1.5-1.5 0.669-1.5 1.5-1.5z" />
+  <rect
+     id="rect4161"
+     style="fill:#4d4d4d"
+     transform="rotate(-45)"
+     ry="0"
+     height="1"
+     width="6.071"
+     y="15.056"
+     x="-7.9853" />
+  <path
+     id="rect4167"
+     style="fill:#4d4d4d"
+     d="m9.3066 12l-0.707 0.707 2.0484 2.051 0.707-0.707-2.0484-2.051z" />
+  <path
+     id="rect4169"
+     style="fill:#4d4d4d"
+     d="m13.994 10l-4.0526 4.051 0.7066 0.707 4.053-4.051-0.707-0.707z" />
+  <path
+     id="rect4171"
+     style="fill:#4d4d4d"
+     d="m14.008 10-0.70703 0.70703 2.9922 2.9922l0.707-0.707z" />
+</svg>

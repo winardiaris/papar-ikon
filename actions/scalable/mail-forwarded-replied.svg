@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="mail-forwarded-replied.svg">
+  <defs
+     id="defs11483" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview11481" />
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="path10260"
+       style="fill:#4d4d4d"
+       d="m428.02 541.08c1.6673-1.6493 2.8015-2.5217 4.2873-3.814 0.006 0.80426 0.0109 1.6085 0.0164 2.4128l0.80659-0.0199c1.2927-0.0318 2.2908-0.18869 3.0989-0.48716 1.6047-0.78844 2.5146-1.8206 3.0218-3.1848-0.11782 1.8694-0.96171 3.8221-2.1289 4.8074-1.0677 0.87187-2.5737 1.4395-4.2269 1.5932l-0.57154 0.0531c-0.006 0.78257-0.0109 1.5651-0.0164 2.3477-1.4414-1.2831-3.0569-2.5986-4.2873-3.7084zm1.1023-8.8655c0.98818-0.5656 2.2054-0.93167 3.4513-1.038 0.17725-0.0141 0.35419-0.0307 0.53199-0.0313 0.006-0.78564 0.0109-1.5713 0.0164-2.3569 1.4783 1.287 2.8621 2.4672 4.3171 3.7341 0.0198 0.0174-4.2314 3.7252-4.3077 3.757-0.0386-0.83839-0.025-1.4794-0.025-2.3854l-0.7913 0.018c-0.87813 0.0199-1.4083 0.0735-2.1023 0.21227-0.93683 0.18737-1.7386 0.52484-2.3794 1.0015-0.87578 0.77544-1.2914 1.4943-1.6564 2.4281 0.13944-2.2066 1.4331-4.4356 2.9453-5.3394z" />
+  </g>
+</svg>

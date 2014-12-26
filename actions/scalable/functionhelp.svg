@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3049"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="functionhelp.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4844" />
+  <defs
+     id="defs3051">
+    <filter
+       id="filter3174"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3176"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3794"
+       height="1.384"
+       width="1.384"
+       color-interpolation-filters="sRGB"
+       y="-.192"
+       x="-.192">
+      <feGaussianBlur
+         id="feGaussianBlur3796"
+         stdDeviation="5.28" />
+    </filter>
+    <clipPath
+       id="clipPath4355">
+      <rect
+         id="rect4357"
+         style="fill:#fff"
+         rx="6"
+         ry="6"
+         height="80"
+         width="84"
+         y="6"
+         x="6" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-421.71 -525.79)">
+    <path
+       id="path10314"
+       style="fill:#4d4d4d"
+       d="m426.02 544.76c-0.26159-0.0834-0.44639-0.2719-0.52448-0.53485-0.0505-0.17017-0.0505-0.25749 0-0.42766 0.0849-0.28583 0.26467-0.45615 0.59592-0.56453 1.0755-0.35189 1.8101-1.331 2.3184-3.09 0.24141-0.83554 0.36926-1.463 0.78819-3.8682 0.30922-1.7753 0.56478-2.8541 0.89266-3.7681 0.6131-1.7091 1.5065-2.8182 2.7508-3.4151 0.76824-0.36849 1.1508-0.39462 1.476-0.10082 0.0579 0.0523 0.13529 0.15217 0.17196 0.2219 0.0579 0.11002 0.0667 0.15656 0.0667 0.35211 0.00005 0.25586-0.0453 0.37472-0.2088 0.54663-0.11259 0.11841-0.16562 0.14659-0.48544 0.25791-0.13977 0.0487-0.31106 0.11694-0.38064 0.15175-0.70471 0.3526-1.3042 1.0566-1.712 2.0106-0.43223 1.011-0.66548 1.9463-1.0834 4.344-0.49776 2.8561-0.73964 3.8444-1.2154 4.9661-0.617 1.4546-1.5996 2.4534-2.8132 2.8595-0.28617 0.0958-0.46844 0.11258-0.6372 0.0587z" />
+    <path
+       id="path10592"
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       d="m435.67 534.74c-2.7614 0-5 2.2386-5 5s2.2386 5 5 5 5-2.2386 5-5-2.2386-5-5-5zm0.0521 1.6146c0.60841 0.00001 1.1366 0.17197 1.5625 0.4948 0.4624 0.35328 0.67709 0.81542 0.67709 1.4062 0 0.45683-0.1368 0.869-0.41667 1.1979-0.0852 0.10964-0.32933 0.31604-0.75521 0.65104-0.27987 0.22538-0.41666 0.4301-0.41666 0.625v0.33855h-1.6927v-0.52084c0-0.34719 0.12292-0.66507 0.39062-0.96354 0.006-0.0122 0.26848-0.23852 0.75521-0.67708 0.2677-0.23755 0.39063-0.47608 0.39063-0.67709 0-0.134-0.0528-0.22722-0.15625-0.3125-0.10344-0.0914-0.22465-0.1302-0.36459-0.1302-0.18252 0-0.32541 0.0482-0.41666 0.18229-0.0913 0.134-0.1363 0.30597-0.13021 0.49479h-1.6146v-0.15625c0-0.60301 0.20691-1.0729 0.65105-1.4323 0.40764-0.335 0.92195-0.52083 1.5364-0.52084zm-0.18229 5.4167c0.27379 0 0.50673 0.0838 0.67709 0.26042 0.17643 0.17664 0.2604 0.40298 0.26041 0.67708-0.00001 0.27409-0.084 0.50653-0.26041 0.67708-0.17036 0.17664-0.4033 0.26042-0.67709 0.26042-0.27378 0-0.50064-0.0838-0.67708-0.26042-0.17036-0.17055-0.26043-0.40299-0.26042-0.67708-0.00001-0.2741 0.0901-0.50044 0.26042-0.67708 0.17644-0.17664 0.4033-0.26042 0.67708-0.26042z" />
+    <rect
+       id="rect3745"
+       style="opacity:.9;filter:url(#filter3174);display:none;fill:#fff"
+       transform="matrix(.36331 0 0 .36331 451.7 524.24)"
+       rx="6"
+       ry="6"
+       height="85"
+       width="86"
+       y="7"
+       x="5" />
+    <rect
+       id="rect3171"
+       style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#fff"
+       transform="matrix(.36331 0 0 .36331 451.7 524.24)"
+       clip-path="url(#clipPath4355)"
+       rx="12"
+       ry="12"
+       height="62"
+       width="66"
+       y="15"
+       x="15" />
+  </g>
+</svg>
