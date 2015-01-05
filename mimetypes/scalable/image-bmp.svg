@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg11037"
@@ -15,7 +14,7 @@
    width="96"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="image-x-win-bitmap.svg">
+   sodipodi:docname="gnome-mime-image-bmp.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="717"
      id="namedview41066"
      showgrid="false"
      inkscape:zoom="1.7383042"
      inkscape:cx="-29.416597"
      inkscape:cy="67.208276"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11037" />
   <defs
@@ -49,16 +48,6 @@
          offset="1"
          style="stop-color:#3e3e3e;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       gradientTransform="translate(-3.5146484e-6,-1.9567871e-6)"
-       y2="87.597977"
-       x2="51.230446"
-       y1="8.7555733"
-       x1="49.012192"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4632"
-       xlink:href="#linearGradient3811"
-       inkscape:collect="always" />
     <style
        type="text/css"
        id="style1115-7">.fil0 {fill:#1F1A17}</style>
@@ -91,7 +80,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.98999999;fill:url(#linearGradient4632);fill-opacity:1;stroke:none"
+     style="opacity:0.98999999000000005;fill:#c87137;fill-opacity:1;stroke:none"
      id="rect2985"
      width="80"
      height="80"
@@ -100,13 +89,8 @@
      rx="10.769231"
      ry="10.769231" />
   <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 7.9999995,75.1962 0,2.0133 C 7.9999995,83.1755 12.793062,88 18.75895,88 l 58.45064,0 C 83.17548,88 88,83.1755 88,77.2095 l 0,-2.0133 c 0,5.9659 -4.82452,10.7904 -10.79041,10.7904 l -58.45064,0 c -5.965888,0 -10.7589505,-4.8245 -10.7589505,-10.7904 z"
-     id="rect3755"
-     inkscape:connector-curvature="0" />
-  <path
      d="M 23.000001,19 V 69 H 72.999999 V 19 H 23.000001 z m 5,5 H 67.999999 V 64 H 28.000001 V 24 z M 55.923333,40.604833 44.071166,56.408834 36.004833,52.375667 29.667,59.6185 v 1.230467 c 0,0.822916 0.661483,1.484383 1.484366,1.484383 h 8.473334 16.298833 8.925833 c 0.822867,0 1.484383,-0.661467 1.484383,-1.484383 V 52.375633 L 55.923583,40.6048 z"
-     style="fill:#e6e6e6;fill-opacity:1"
+     style="fill:#ffffff;fill-opacity:1"
      id="path4187"
      inkscape:connector-curvature="0" />
   <g
@@ -124,19 +108,19 @@
          x="134.35001"
          height="189.5" /></flowRegion><flowPara
        id="flowPara4919" /></flowRoot>  <g
-     style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
      id="text3240">
     <path
        d="m 32.798685,83.343994 2.928,0 c 1.583999,0 2.480001,-0.176 3.232,-0.624 0.832,-0.511999 1.328,-1.552001 1.328,-2.768 0,-1.439998 -0.608001,-2.352 -1.984,-2.912 0.912,-0.511999 1.312,-1.280001 1.312,-2.448 0,-1.023999 -0.384,-1.888 -1.056,-2.384 -0.671999,-0.479999 -1.552001,-0.688 -2.992,-0.688 l -2.768,0 0,11.824 m 1.184,-1.072 0,-4.592 1.408,0 c 1.391999,0 2.096001,0.096 2.592,0.336 0.704,0.352 1.104,1.056001 1.104,2 0,0.815999 -0.368,1.536 -0.928,1.824 -0.559999,0.304 -1.360001,0.432 -2.56,0.432 l -1.616,0 m 0,-5.664 0,-4.016 1.424,0 c 1.215999,0 1.872001,0.112 2.32,0.416 0.416,0.272 0.688,0.912001 0.688,1.6 0,0.815999 -0.32,1.424 -0.912,1.696 -0.495999,0.224 -1.008001,0.304 -2.08,0.304 l -1.44,0"
-       style="font-size:16px;font-variant:normal;font-stretch:normal;fill:#e6e6e6;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       style="font-size:16px;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        id="path3257" />
     <path
        d="m 41.986185,83.343994 1.184,0 0,-10.528 4.432,10.528 1.024,0 4.448,-10.528 0,10.528 1.184,0 0,-11.824 -1.84,0 -4.288,10.064 -4.304,-10.064 -1.84,0 0,11.824"
-       style="font-size:16px;font-variant:normal;font-stretch:normal;fill:#e6e6e6;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       style="font-size:16px;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        id="path3259" />
     <path
        d="m 56.704935,83.343994 1.184,0 0,-4.784 2.272,0 c 1.599999,0 2.464001,-0.208 3.184,-0.736 0.768,-0.559999 1.184,-1.536001 1.184,-2.72 0,-1.359998 -0.512,-2.432 -1.408,-2.96 -0.735999,-0.447999 -1.632001,-0.624 -3.152,-0.624 l -3.264,0 0,11.824 m 1.184,-5.856 0,-4.896 1.68,0 c 1.359999,0 2.208001,0.112 2.688,0.352 0.688,0.352 1.072,1.104001 1.072,2.16 0,0.911999 -0.368,1.648 -0.976,1.984 -0.495999,0.288 -1.184001,0.4 -2.272,0.4 l -2.192,0"
-       style="font-size:16px;font-variant:normal;font-stretch:normal;fill:#e6e6e6;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       style="font-size:16px;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        id="path3261" />
   </g>
 </svg>

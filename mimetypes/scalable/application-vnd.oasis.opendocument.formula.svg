@@ -15,7 +15,7 @@
    width="96"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gnome-mime-application-vnd.oasis.opendocument.formula.svg">
+   sodipodi:docname="application-vnd.oasis.opendocument.formula.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="717"
      id="namedview8776"
      showgrid="false"
-     inkscape:zoom="0.86915209"
-     inkscape:cx="-281.66652"
-     inkscape:cy="-13.554038"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="76.795913"
+     inkscape:cy="-1.5917364"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11037" />
   <defs
@@ -68,16 +68,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient11642-75"
-       id="linearGradient3070"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.75124994,-955.88444)"
-       x1="53.057766"
-       y1="1042.4381"
-       x2="50.4524"
-       y2="965.4649" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3742"
        id="linearGradient3153"
        gradientUnits="userSpaceOnUse"
@@ -100,34 +90,17 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.98999999;fill:url(#linearGradient3070);fill-opacity:1;stroke:none"
+     style="opacity:0.98999999;fill:#e6e6e6;fill-opacity:1;stroke:none"
      id="rect2985"
      width="80"
      height="80"
-     x="8.0000067"
-     y="8.2547255"
+     x="8"
+     y="8"
      rx="10.769231"
      ry="10.769231" />
-  <path
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#8a9bb4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 18.781254,8.2547251 C 12.8151,8.2547251 8,13.069821 8,19.035975 l 0,58.4375 c 0,5.966154 4.8151,10.78125 10.781254,10.78125 l 6,0 0,-79.9999999 -6,0 z"
-     id="rect17289" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 8,75.450945 0,2.0133 c 0,5.966 4.793067,10.7905 10.75895,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 C 12.793067,86.241345 8,81.416845 8,75.450945 z"
-     id="rect3755"
-     inkscape:connector-curvature="0" />
-  <rect
-     id="rect6091-4"
-     style="opacity:0.5;color:#000000;fill:#ffffff"
-     height="80"
-     width="0.95238096"
-     y="7.7452545"
-     x="24.309036" />
   <g
      id="g3144"
-     transform="matrix(0.98918404,0,0,0.98918404,-0.9269072,0.48246228)">
+     transform="matrix(0.98918404,0,0,0.98918404,-4.9269139,0.22773683)">
     <path
        id="path4431"
        style="opacity:0.8;fill:url(#linearGradient3153)"

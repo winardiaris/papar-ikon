@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="2.8284271"
      inkscape:cx="48.388496"
-     inkscape:cy="-17.368918"
+     inkscape:cy="53.341761"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11037" />
   <defs
@@ -284,15 +284,6 @@
          offset="1"
          style="stop-color:#44484c;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       y2="13.771237"
-       x2="48.809082"
-       y1="85.680405"
-       x1="49.779648"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4109"
-       xlink:href="#linearGradient4159"
-       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata11042">
@@ -307,7 +298,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.98999999000000005;fill:#e6aa27;fill-opacity:1;stroke:none"
+     style="opacity:0.98999999000000005;fill:#ffcc00;fill-opacity:1;stroke:none"
      id="rect2985"
      width="80"
      height="80"
@@ -316,14 +307,9 @@
      rx="10.769231"
      ry="10.769231" />
   <path
-     style="fill:url(#linearGradient4109);fill-opacity:1;stroke:none"
+     style="fill:#1a1a1a;fill-opacity:1;stroke:none"
      d="m 40,8 0,2 6,0 0,2.000001 2,0 0,2 -2,0 0,2 -6,0 L 40,18 l 6,0 0,2 2,0 0,2 -2,0 0,2 -6,0 0,2 6,0 0,2 2,0 0,2 -2,0 0,2 -6,0 0,2 6,0 0,2 2,0 0,2 -2,0 0,2 -6,0 0,2 6,0 0,2 2,0 0,2 -2,0 0,2 -6,0 0,40 16,0 0,-44 -6,0 0,-2 -2,0 0,-2 2,0 0,-2 6,0 0,-2 -6,0 0,-2 -2,0 0,-2 2,0 0,-2 6,0 0,-2 -6,0 0,-2 -2,0 0,-2 2,0 0,-2 6,0 0,-2 -6,0 0,-2 -2,0 0,-1.999999 2,0 0,-2 6,0 L 56,8 40,8 z m 4,42 8,0 0,8 -2,0 0,8 -4,0 0,-8 -2,0 0,-8 z m 2,2 0,4 4,0 0,-4 -4,0 z"
      id="rect4149"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 7.9999999,75.19622 0,2.0133 c 0,5.966 4.7930631,10.7905 10.7589461,10.7905 l 58.450649,0 C 83.175478,88.00002 88,83.17552 88,77.20952 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.7589461,-4.8245 -10.7589461,-10.7904 z"
-     id="rect3755"
      inkscape:connector-curvature="0" />
   <g
      id="layer2-9"

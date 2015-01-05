@@ -15,7 +15,7 @@
    width="96"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gnome-mime-x-font-afm.svg">
+   sodipodi:docname="preferences-desktop-font.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      id="namedview49"
      showgrid="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="0.40677966"
-     inkscape:cy="47.389831"
+     inkscape:cx="0.40677965"
+     inkscape:cy="47.38983"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11037" />
   <defs
@@ -97,81 +97,54 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g3045"
-     transform="translate(113.89831,12.20339)">
-    <rect
-       ry="10.769231"
-       rx="10.769231"
-       y="-4.2034097"
-       x="-105.89831"
-       height="80"
-       width="80"
-       id="rect2985"
-       style="fill:url(#linearGradient3096);fill-opacity:1;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect3755"
-       d="m -105.89831,62.99283 0,2.0133 c 0,5.966 4.79307,10.7905 10.758951,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965881,0 -10.758951,-4.8245 -10.758951,-10.7904 z"
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none" />
-  </g>
-  <g
-     id="g13552"
-     transform="matrix(0.92307692,0,0,0.92307692,96,-895.75218)"
-     style="fill:#2f4b7b;fill-opacity:1">
-    <text
-       sodipodi:linespacing="125%"
-       id="text3717"
-       style="font-size:65.84300232px;font-style:italic;line-height:125%;opacity:0.6;fill:#2f4b7b;fill-opacity:1;stroke:#ffffff;stroke-width:2;filter:url(#filter3733-3-8);font-family:DejaVu Serif"
-       clip-path="url(#clipPath3729-0-1)"
-       xml:space="preserve"
-       transform="matrix(0.8125,0,0,0.8125,-9.75,983.3982)"
-       y="72"
-       x="-71.563293"><tspan
-         id="tspan3719"
-         y="72"
-         x="-71.563293"
-         style="fill:#2f4b7b;fill-opacity:1;stroke:#ffffff;stroke-width:2">A</tspan></text>
-    <rect
-       id="rect2902"
-       style="opacity:0.2;color:#000000;fill:#2f4b7b;fill-opacity:1"
-       height="0.8125"
-       width="58.5"
-       y="1041.0857"
-       x="-84.5" />
-    <rect
-       id="rect3690"
-       style="opacity:0.12000002;color:#000000;fill:#2f4b7b;fill-opacity:1"
-       height="0.8125"
-       width="45.5"
-       y="1002.0857"
-       x="-65" />
-    <rect
-       id="rect3694"
-       style="opacity:0.15;color:#000000;fill:#2f4b7b;fill-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)"
-       height="0.8125"
-       width="26"
-       y="71.5"
-       x="1022.3982" />
-    <rect
-       id="rect3698"
-       style="opacity:0.15;color:#000000;fill:#2f4b7b;fill-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)"
-       height="0.8125"
-       width="65"
-       y="31.6875"
-       x="989.89819" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2907"
-       style="font-size:53.49744034px;font-style:italic;line-height:125%;fill:#2f4b7b;fill-opacity:1;font-family:DejaVu Serif"
-       y="1041.8982"
-       x="-67.89518"
-       xml:space="preserve"><tspan
-         id="tspan2909"
-         y="1041.8982"
-         x="-67.89518"
-         style="fill:#2f4b7b;fill-opacity:1">A</tspan></text>
-  </g>
+  <rect
+     style="fill:#006680;fill-opacity:1;stroke:none"
+     id="rect2985"
+     width="80"
+     height="80"
+     x="8.0000019"
+     y="7.9999804"
+     rx="10.769231"
+     ry="10.769231" />
+  <rect
+     x="18"
+     y="65.249992"
+     width="54"
+     height="0.75"
+     style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1"
+     id="rect2902" />
+  <rect
+     x="36"
+     y="29.249996"
+     width="42"
+     height="0.75"
+     style="opacity:0.12000002;color:#000000;fill:#ffffff;fill-opacity:1"
+     id="rect3690" />
+  <rect
+     x="47.999996"
+     y="-30"
+     width="24"
+     height="0.75"
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:0.15;color:#000000;fill:#ffffff;fill-opacity:1"
+     id="rect3694" />
+  <rect
+     x="17.999996"
+     y="-66.75"
+     width="60"
+     height="0.75"
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:0.15;color:#000000;fill:#ffffff;fill-opacity:1"
+     id="rect3698" />
+  <text
+     xml:space="preserve"
+     x="33.327526"
+     y="65.999992"
+     style="font-size:49.38225174px;font-style:italic;line-height:125%;fill:#ffffff;fill-opacity:1;font-family:DejaVu Serif"
+     id="text2907"
+     sodipodi:linespacing="125%"><tspan
+       style="fill:#ffffff;fill-opacity:1"
+       x="33.327526"
+       y="65.999992"
+       id="tspan2909">A</tspan></text>
 </svg>

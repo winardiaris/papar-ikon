@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="postr.svg">
+   sodipodi:docname="flickr.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -179,15 +179,6 @@
          id="stop3752-3" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11642"
-       id="linearGradient5160"
-       x1="53.057766"
-       y1="1042.4381"
-       x2="50.4524"
-       y2="965.4649"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        x1="48"
        x2="48"
        gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
@@ -297,9 +288,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -319,7 +310,7 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <rect
-       style="fill:url(#linearGradient5160);fill-opacity:1;stroke:none"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect2985"
        width="80"
        height="80"
@@ -327,11 +318,6 @@
        y="964.13916"
        rx="10.769231"
        ry="10.769231" />
-    <path
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 8.75125,1031.3354 0,2.0133 c 0,5.966 4.793063,10.7905 10.758946,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.758946,-4.8245 -10.758946,-10.7904 z"
-       id="rect3755"
-       inkscape:connector-curvature="0" />
     <g
        id="layer2-9"
        style="display:none"

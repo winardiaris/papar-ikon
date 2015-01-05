@@ -179,15 +179,6 @@
          id="stop3752-3" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11642"
-       id="linearGradient5160"
-       x1="53.057766"
-       y1="1042.4381"
-       x2="50.4524"
-       y2="965.4649"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        x1="48"
        x2="48"
        gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
@@ -240,16 +231,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="26.594095"
-     inkscape:cy="50.905858"
+     inkscape:zoom="4"
+     inkscape:cx="47.366113"
+     inkscape:cy="36.947355"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -269,7 +260,7 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <rect
-       style="fill:url(#linearGradient5160);fill-opacity:1;stroke:none"
+       style="fill:#005544;fill-opacity:1;stroke:none"
        id="rect2985"
        width="80"
        height="80"
@@ -277,11 +268,6 @@
        y="964.13916"
        rx="10.769231"
        ry="10.769231" />
-    <path
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 8.75125,1031.3354 0,2.0133 c 0,5.966 4.793063,10.7905 10.758946,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.758946,-4.8245 -10.758946,-10.7904 z"
-       id="rect3755"
-       inkscape:connector-curvature="0" />
     <g
        id="layer2-9"
        style="display:none"
@@ -344,49 +330,49 @@
     <g
        id="g15258"
        transform="matrix(0.7319678,0,0,0.7319678,13.616738,966.78529)"
-       style="fill:#4d4d4d">
+       style="fill:#ffffff">
       <g
          id="g4472-4"
          transform="translate(-0.17236,0)"
-         style="fill:#4d4d4d">
+         style="fill:#ffffff">
         <g
            id="g4369-9"
            transform="matrix(0.90427,0,0,0.90427,-0.64027,16.006)"
-           style="fill:#4d4d4d">
+           style="fill:#ffffff">
           <text
              sodipodi:linespacing="125%"
              id="text4308-3"
-             style="font-size:60.29800034px;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;font-family:Times New Roman"
+             style="font-size:60.29800034000000153px;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;font-family:Times New Roman"
              y="63.561573"
              x="33.876759"
              xml:space="preserve"><tspan
                id="tspan4310-9"
                y="63.561573"
                x="33.876759"
-               style="fill:#4d4d4d">A</tspan></text>
+               style="fill:#ffffff">A</tspan></text>
           <path
              inkscape:connector-curvature="0"
              id="path4316-4"
              transform="matrix(1.1059,0,0,1.1059,0.70805,-17.7)"
              d="m 34.625,74.188 c -2.4884,0.25121 -4.4375,2.3494 -4.4375,4.9062 v 10.906 h 35.625 v -10.906 c 0,-2.7273 -2.2102,-4.9062 -4.9375,-4.9062 h -25.75 c -0.17046,0 -0.3341,-0.01675 -0.5,0 z M 7.187,75.781 24.499,90 h 3.875 v -9.9062 c 0,-1.7554 0.80844,-3.3221 2.0938,-4.3125 H 7.1868 z m 58.344,0 c 1.2853,0.99043 2.0938,2.5571 2.0938,4.3125 v 9.9062 h 3.875 l 17.312,-14.219 h -23.281 z"
-             style="fill:#4d4d4d" />
+             style="fill:#ffffff" />
         </g>
         <g
            id="g4347-2"
            transform="matrix(0.40839,-0.50141,0.50141,0.40839,-110.23,69.976)"
-           style="fill:#4d4d4d">
+           style="fill:#ffffff">
           <rect
              id="rect4349-5"
              height="45.687"
              width="9.6000004"
              y="166.2"
              x="218.48"
-             style="fill:#4d4d4d" />
+             style="fill:#ffffff" />
           <path
              inkscape:connector-curvature="0"
              id="path4351-2"
              d="m 229.77,148.19 h -24.89 v 16.313 h 38.467 v -7.5419 c -5.0873,-0.34198 -12.216,1.924 -13.576,-8.771 z"
-             style="fill:#4d4d4d" />
+             style="fill:#ffffff" />
         </g>
       </g>
     </g>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="screenie.svg">
+   sodipodi:docname="gnome-screenshot.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -190,16 +190,6 @@
          id="stop3752-3" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11642"
-       id="linearGradient5160"
-       x1="53.057766"
-       y1="1042.4381"
-       x2="50.4524"
-       y2="965.4649"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.22457515,0)" />
-    <linearGradient
        x1="48"
        x2="48"
        gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
@@ -359,6 +349,26 @@
        y1="1075.4626"
        x2="157.74492"
        y2="1042.3417" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3409"
+       id="linearGradient3765"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.626423,0.626423,-0.626423,0.626423,47.28278,947.16596)"
+       x1="16.162"
+       y1="44.482"
+       x2="76.772"
+       y2="44.482" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3409"
+       id="linearGradient3777"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.626423,0.626423,-0.626423,0.626423,47.28278,947.16596)"
+       x1="16.162"
+       y1="44.482"
+       x2="76.772"
+       y2="44.482" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -367,16 +377,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2630208"
-     inkscape:cx="155.73849"
-     inkscape:cy="-9.8927372"
+     inkscape:zoom="6.4007894"
+     inkscape:cx="73.953627"
+     inkscape:cy="48.467762"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -396,19 +406,14 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <rect
-       style="fill:url(#linearGradient5160);fill-opacity:1;stroke:none"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect2985"
        width="80"
        height="80"
-       x="8.5266752"
-       y="964.13916"
+       x="8"
+       y="964.36218"
        rx="10.769231"
        ry="10.769231" />
-    <path
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 8.5266751,1031.3354 0,2.0133 c 0,5.966 4.7930629,10.7905 10.7589459,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.7589459,-4.8245 -10.7589459,-10.7904 z"
-       id="rect3755"
-       inkscape:connector-curvature="0" />
     <g
        id="layer2-9"
        style="display:none"
@@ -468,43 +473,45 @@
       <g
          id="g1886" />
     </g>
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.42492302999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3767"
+       width="64.887726"
+       height="38.322422"
+       x="15.556137"
+       y="985.20099" />
     <g
-       transform="translate(111.98027,913.12945)"
-       id="layer5">
-      <rect
-         x="15"
-         y="15"
-         width="66"
-         height="66"
-         ry="12"
-         rx="12"
-         clip-path="url(#clipPath3613-34)"
-         style="opacity:0.5;fill:url(#linearGradient21014);stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;filter:url(#filter3794-58)"
-         id="rect3171" />
-    </g>
-    <g
-       id="g21147"
-       transform="translate(-109.60444,-54.13894)">
+       id="g3769"
+       transform="matrix(0.74274053,0,0,0.74274053,11.957272,258.68992)">
       <path
-         style="fill:url(#linearGradient21153)"
-         d="m 177.11442,1077.2614 a 26.8467,26.8467 0 1 1 -37.96661,-37.9666 26.8467,26.8467 0 1 1 37.96661,37.9666 z"
+         style="fill:url(#linearGradient3777)"
+         d="M 67.50998,1023.1225 A 26.8467,26.8467 0 1 1 29.54337,985.15586 26.8467,26.8467 0 1 1 67.50998,1023.1225 z"
          id="path3648"
          inkscape:connector-curvature="0" />
       <path
          style="fill:#1a1a1a;stroke:#000000;stroke-width:0.44744501"
-         d="m 158.13022,1084.9002 a 26.623,26.623 0 1 1 0,-53.246 26.623,26.623 0 0 1 0,53.246 z"
+         d="m 48.52578,1030.7613 a 26.62302,26.62302 0 1 1 0,-53.24604 26.62302,26.62302 0 0 1 0,53.24604 z"
          id="path3672"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:url(#linearGradient21155)"
-         d="m 158.13111,1082.4392 a 24.16203,24.16203 0 1 1 0,-48.324 24.16203,24.16203 0 0 1 0,48.324 z"
+         style="fill:#4d4d4d"
+         d="m 48.52667,1028.3003 a 24.16203,24.16203 0 1 1 0,-48.32404 24.16203,24.16203 0 0 1 0,48.32404 z"
          id="path3697"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:url(#linearGradient21157);fill-opacity:1;stroke:#1a1a1a;stroke-width:0.89486319"
-         d="m 158.13022,1075.8797 a 17.6025,17.6025 0 1 1 0,-35.205 17.6025,17.6025 0 0 1 0,35.205 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.89486319"
+         d="m 48.52578,1021.7408 a 17.60252,17.60252 0 1 1 0,-35.20504 17.60252,17.60252 0 0 1 0,35.20504 z"
          id="path3742"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="color:#000000;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3781"
+       width="7.1866136"
+       height="3.5933068"
+       x="67.022987"
+       y="987.68268"
+       rx="2"
+       ry="2" />
   </g>
 </svg>

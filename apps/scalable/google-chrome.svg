@@ -264,9 +264,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -295,22 +295,22 @@
        rx="10.769231"
        ry="10.769231" />
     <path
-       style="fill:#e6423a;fill-opacity:1"
+       style="fill:#ff2a2a;fill-opacity:1"
        d="M 19.53125 7.78125 C 13.565096 7.78125 8.75 12.565096 8.75 18.53125 L 8.75 20.4375 L 30.34375 57.78125 C 28.73137 54.81275 27.8125 51.39755 27.8125 47.78125 C 27.8125 36.20998 37.17863 26.8125 48.75 26.8125 L 88.75 26.8125 L 88.75 18.53125 C 88.75 12.565096 83.934904 7.78125 77.96875 7.78125 L 19.53125 7.78125 z "
        transform="translate(0,956.36218)"
        id="path3824" />
     <path
-       style="fill:#e5c22d;fill-opacity:1"
+       style="fill:#ffd42a;fill-opacity:1"
        d="M 48.75 26.8125 C 60.32136 26.8125 69.71875 36.20968 69.71875 47.78125 C 69.71875 51.59485 68.68663 55.1698 66.90625 58.25 C 66.82965 58.3826 66.73569 58.4943 66.65625 58.625 L 49.84375 87.78125 L 77.96875 87.78125 C 83.934904 87.78125 88.75 82.966154 88.75 77 L 88.75 26.8125 L 48.75 26.8125 z "
        id="path3847"
        transform="translate(0,956.36218)" />
     <path
-       style="fill:#4fae4c;fill-opacity:1"
+       style="fill:#44aa00;fill-opacity:1"
        d="M 8.75 20.4375 L 8.75 77 C 8.75 82.966154 13.565096 87.78125 19.53125 87.78125 L 49.84375 87.78125 L 66.65625 58.625 C 62.98199 64.6735 56.34423 68.71875 48.75 68.71875 C 40.99194 68.71875 34.21468 64.5166 30.59375 58.25 C 30.50135 58.091 30.43231 57.94315 30.34375 57.78125 L 8.75 20.4375 z "
        transform="translate(0,956.36218)"
        id="path3849" />
     <path
-       style="color:#000000;fill:#4f89bb;fill-opacity:1"
+       style="color:#000000;fill:#0066ff;fill-opacity:1"
        d="m 66.84615,1004.139 a 18.09514,18.09514 0 0 1 -36.19028,0 18.09514,18.09514 0 1 1 36.19028,0 z"
        id="path3822"
        inkscape:connector-curvature="0" />

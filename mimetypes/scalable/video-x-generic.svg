@@ -15,7 +15,7 @@
    width="96"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="video-x-generic.svg">
+   sodipodi:docname="gnome-mime-video-x-ms-wmv.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="2.8284271"
      inkscape:cx="-59.053851"
-     inkscape:cy="32.753819"
+     inkscape:cy="46.895955"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11037" />
   <defs
@@ -281,7 +281,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.98999999000000005;fill:#f28f2b;fill-opacity:1;stroke:none"
+     style="opacity:0.98999999000000005;fill:#ff6600;fill-opacity:1;stroke:none"
      id="rect2985"
      width="80"
      height="80"
@@ -347,7 +347,7 @@
      transform="matrix(2.3438,0,0,2.2539,349.28228,14.906354)" />
   <path
      d="M 23,23 V 73 H 73 V 23 H 23 z m 3.333333,3.333333 H 33 V 33 h -6.666667 v -6.666667 z m 8.333334,0 H 61.333333 V 44.666667 H 34.666667 V 26.333333 z m 28.333333,0 h 6.666667 V 33 H 63 V 26.333333 z M 26.333333,35.5 H 33 v 6.666667 H 26.333333 V 35.5 z M 63,35.5 h 6.666667 v 6.666667 H 63 V 35.5 z M 26.333333,44.666667 H 33 v 6.666666 h -6.666667 v -6.666666 z m 36.666667,0 h 6.666667 v 6.666666 H 63 V 44.666667 z M 34.666667,51.333333 H 61.333333 V 69.666667 H 34.666667 V 51.333333 z m -8.333334,2.5 H 33 V 60.5 h -6.666667 v -6.666667 z m 36.666667,0 h 6.666667 V 60.5 H 63 V 53.833333 z M 26.333333,63 H 33 v 6.666667 H 26.333333 V 63 z M 63,63 h 6.666667 v 6.666667 H 63 V 63 z"
-     style="fill:#1a1a1a"
+     style="fill:#ffffff"
      id="rect4123"
      inkscape:connector-curvature="0" />
   <g

@@ -15,7 +15,7 @@
    width="96"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="pdf.svg">
+   sodipodi:docname="application-pdf.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="717"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="2"
      inkscape:cx="101.88173"
      inkscape:cy="49.414563"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11037" />
   <defs
@@ -292,7 +292,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.98999999000000005;fill:#cccccc;fill-opacity:1;stroke:none"
+     style="opacity:0.98999999000000005;fill:#e6e6e6;fill-opacity:1;stroke:none"
      id="rect2985"
      width="80"
      height="80"
@@ -300,11 +300,6 @@
      y="8"
      rx="10.769231"
      ry="10.769231" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 7.9999999,75.19622 0,2.0133 c 0,5.966 4.7930631,10.7905 10.7589461,10.7905 l 58.450649,0 C 83.175478,88.00002 88,83.17552 88,77.20952 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.7589461,-4.8245 -10.7589461,-10.7904 z"
-     id="rect3755"
-     inkscape:connector-curvature="0" />
   <g
      id="layer2-9"
      style="display:none"
