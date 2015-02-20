@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gmailwatcher.svg">
+   sodipodi:docname="gmail.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -178,32 +178,6 @@
          style="stop-opacity:.58824"
          id="stop3752-3" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11642"
-       id="linearGradient5160"
-       x1="53.057766"
-       y1="1042.4381"
-       x2="50.4524"
-       y2="965.4649"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="48"
-       x2="48"
-       gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
-       y1="962.62"
-       gradientUnits="userSpaceOnUse"
-       y2="1046.1"
-       id="linearGradient11642">
-      <stop
-         offset="0"
-         style="stop-color:#bcb5ac"
-         id="stop3189" />
-      <stop
-         offset="1"
-         style="stop-color:#e9e7e4"
-         id="stop3191" />
-    </linearGradient>
     <mask
        id="XMLID_23_-9">
       <g
@@ -233,22 +207,6 @@
       </g>
     </mask>
     <linearGradient
-       x1="48"
-       y1="88"
-       x2="48"
-       gradientUnits="userSpaceOnUse"
-       y2="36"
-       id="linearGradient3268">
-      <stop
-         offset="0"
-         style="stop-color:#d5d5d5"
-         id="stop3729-6" />
-      <stop
-         offset="1"
-         style="stop-color:#f1f1f1"
-         id="stop3731" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient3700-5">
       <stop
          offset="0"
@@ -269,16 +227,6 @@
        y1="88"
        x2="48"
        y2="32" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3268"
-       id="linearGradient9123"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.95238099,0,0,0.95238099,3.036961,2.06273)"
-       x1="48"
-       y1="88"
-       x2="48"
-       y2="36" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -316,7 +264,7 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <rect
-       style="fill:url(#linearGradient5160);fill-opacity:1;stroke:none"
+       style="fill:#ccc;fill-opacity:1;stroke:none"
        id="rect2985"
        width="80"
        height="80"
@@ -389,10 +337,10 @@
        style="fill:#b3b3b3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:url(#linearGradient9123)"
+       style="fill:#e6e6e6"
        d="M 48.75 36.34375 L 9.71875 75.40625 L 9.71875 81.46875 C 10.793388 83.842684 12.688566 85.737862 15.0625 86.8125 L 20.1875 86.8125 L 20.1875 87.78125 L 77.3125 87.78125 L 77.3125 86.8125 L 82.4375 86.8125 C 84.831818 85.728634 86.743118 83.808589 87.8125 81.40625 L 87.8125 75.40625 L 48.75 36.34375 z "
-       transform="translate(0,956.36218)"
-       id="path3619" />
+       id="path3619"
+       transform="translate(0,956.36218)" />
     <path
        id="path9136"
        d="m 19.53125,966.14343 c -5.966154,0 -10.78125,4.78385 -10.78125,10.75 l 0,0.6875 40,39.99997 40,-39.99997 0,-0.6875 c 0,-5.96615 -4.815096,-10.75 -10.78125,-10.75 l -58.4375,0 z"
@@ -404,14 +352,9 @@
        transform="translate(0,956.36218)"
        id="path3613" />
     <path
-       style="color:#000000;fill:#ff2a2a"
+       style="color:#000000;fill:#f55"
        d="M 19.53125 7.78125 C 13.565096 7.78125 8.75 12.565096 8.75 18.53125 L 8.75 77 C 8.75 82.966154 13.565096 87.78125 19.53125 87.78125 L 20.1875 87.78125 L 20.1875 23.28125 L 48.625 51.71875 L 77.3125 23 L 77.3125 87.78125 L 77.96875 87.78125 C 83.934904 87.78125 88.75 82.966154 88.75 77 L 88.75 18.53125 C 88.75 12.565096 83.934904 7.78125 77.96875 7.78125 L 77.3125 7.78125 L 48.75 36.34375 L 20.1875 7.78125 L 19.53125 7.78125 z "
        transform="translate(0,956.36218)"
        id="rect2903" />
-    <path
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 8.75125,1031.3354 0,2.0133 c 0,5.966 4.793063,10.7905 10.758946,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.758946,-4.8245 -10.758946,-10.7904 z"
-       id="rect3755"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>

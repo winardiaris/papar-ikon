@@ -178,32 +178,6 @@
          style="stop-opacity:.58824"
          id="stop3752-3" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11642"
-       id="linearGradient5160"
-       x1="53.057766"
-       y1="1042.4381"
-       x2="50.4524"
-       y2="965.4649"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="48"
-       x2="48"
-       gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
-       y1="962.62"
-       gradientUnits="userSpaceOnUse"
-       y2="1046.1"
-       id="linearGradient11642">
-      <stop
-         offset="0"
-         style="stop-color:#bcb5ac"
-         id="stop3189" />
-      <stop
-         offset="1"
-         style="stop-color:#e9e7e4"
-         id="stop3191" />
-    </linearGradient>
     <mask
        id="XMLID_23_-9">
       <g
@@ -241,7 +215,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6632652"
-     inkscape:cx="92.940884"
+     inkscape:cx="46.756974"
      inkscape:cy="66.0836"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -269,19 +243,14 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <rect
-       style="fill:url(#linearGradient5160);fill-opacity:1;stroke:none"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect2985"
        width="80"
        height="80"
-       x="8.7512503"
-       y="964.13916"
+       x="8"
+       y="964.36218"
        rx="10.769231"
        ry="10.769231" />
-    <path
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 8.75125,1031.3354 0,2.0133 c 0,5.966 4.793063,10.7905 10.758946,10.7905 l 58.450649,0 c 5.965883,0 10.790405,-4.8245 10.790405,-10.7905 l 0,-2.0133 c 0,5.9659 -4.824522,10.7904 -10.790405,10.7904 l -58.450649,0 c -5.965883,0 -10.758946,-4.8245 -10.758946,-10.7904 z"
-       id="rect3755"
-       inkscape:connector-curvature="0" />
     <g
        id="layer2-9"
        style="display:none"
@@ -333,7 +302,7 @@
          d="M 14.969,8.8029 C 13.329,8.8029 12,10.085 12,11.678 V 19 c -3.324,0 -7,2.676 -7,6 v 61 c 0,3.324 2.676,6 6,6 h 74 c 3.324,0 6,-2.676 6,-6 V 25 c 0,-3.324 -3.7474,-6 -7.0714,-6 v -0.13461 c 0,-2.3891 -1.9777,-4.3125 -4.4375,-4.3125 h -43.335 l -1.4688,-2.875 c -0.734,-1.424 -1.329,-2.8741 -2.969,-2.8741 h -16.75 z" />
     </g>
     <g
-       transform="matrix(0.86787939,0,0,0.86787939,-136.93953,152.68134)"
+       transform="matrix(0.86787939,0,0,0.86787939,-137.69078,152.90436)"
        id="layer1-1">
       <path
          inkscape:connector-curvature="0"
