@@ -52,10 +52,10 @@
   <g
      id="layer1"
      transform="translate(0,-6)"
-     style="fill:#ffffff">
+     style="fill:#999999">
     <path
        id="rect3088"
-       style="color:#000000;fill:#ffffff"
+       style="color:#000000;fill:#999999"
        d="m3.5 6s-0.5 0.223-0.5 0.5v14.5c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1h-7v-1.5c0-0.277-0.5-0.5-0.5-0.5zm1 4h7c0.277 0 0.5 0.223 0.5 0.5v3c0 0.277-0.223 0.5-0.5 0.5h-7c-0.277 0-0.5-0.223-0.5-0.5v-3c0-0.277 0.223-0.5 0.5-0.5zm-0.5 5h2v1h-2zm3 0h2v1h-2zm3 0h2v1h-2zm-6 2h2v1h-2zm3 0h2v1h-2zm3 0h2v1h-2zm-6 2h2v1h-2zm3 0h2v1h-2zm3 0h2v1h-2z" />
   </g>
 </svg>

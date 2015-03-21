@@ -52,15 +52,15 @@
   <g
      id="layer1"
      transform="translate(0,-6)"
-     style="fill:#ffffff">
+     style="fill:#999999">
     <path
        id="rect3085"
        d="m1 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-14zm2 2h1v3h3v4c0 0.554-0.446 1-1 1h-1v-3h-3v-4c0-0.554 0.446-1 1-1zm5.5 0h5c0.277 0 0.5 0.223 0.5 0.5v1.5h-4v4h2v-1h-1v-2h3v4.5c0 0.277-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5v-7c0-0.277 0.223-0.5 0.5-0.5z"
-       style="color:#000000;fill:#ffffff"
+       style="color:#000000;fill:#999999"
        transform="translate(0,6)" />
     <rect
        id="rect3879"
-       style="color:#000000;fill:#ffffff"
+       style="color:#000000;fill:#999999"
        rx="1"
        height="12"
        width="16"
@@ -68,11 +68,11 @@
        x="-20" />
     <path
        id="path3883"
-       style="color:#000000;fill:#ffffff"
+       style="color:#000000;fill:#999999"
        d="m-11.5 10c-0.277 0-0.5 0.223-0.5 0.5v7c0 0.277 0.223 0.5 0.5 0.5h5c0.277 0 0.5-0.223 0.5-0.5v-4.5h-3v2h1v1h-2v-4h4v-1.5c0-0.277-0.223-0.5-0.5-0.5h-5z" />
     <path
        id="rect3906"
-       style="color:#000000;fill:#ffffff"
+       style="color:#000000;fill:#999999"
        d="m-17 10c-0.554 0-1 0.446-1 1v4h3v3h1c0.554 0 1-0.446 1-1v-4h-3v-3z" />
   </g>
 </svg>

@@ -51,10 +51,10 @@
   </metadata>
   <g
      id="layer1"
-     style="fill:#ffffff">
+     style="fill:#999999">
     <rect
        id="rect2979"
-       style="opacity:0.45000000000000001;color:#000000;fill:#ffffff"
+       style="opacity:0.45000000000000001;color:#000000;fill:#999999"
        rx="1"
        height="13"
        width="3"
@@ -62,7 +62,7 @@
        x="12" />
     <rect
        id="rect2981"
-       style="opacity:0.45000000000000001;color:#000000;fill:#ffffff"
+       style="opacity:0.45000000000000001;color:#000000;fill:#999999"
        rx="1"
        height="10"
        width="3"
@@ -70,7 +70,7 @@
        x="8" />
     <rect
        id="rect2983"
-       style="opacity:0.45000000000000001;color:#000000;fill:#ffffff"
+       style="opacity:0.45000000000000001;color:#000000;fill:#999999"
        rx="1"
        height="7"
        width="3"
@@ -78,7 +78,7 @@
        x="4" />
     <rect
        id="rect2985"
-       style="color:#000000;fill:#ffffff"
+       style="color:#000000;fill:#999999"
        rx="1"
        height="4"
        width="3"
