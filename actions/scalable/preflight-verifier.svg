@@ -1,57 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3760"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="preflight-verifier.svg">
-  <defs
-     id="defs14905" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview14903" />
-  <metadata
-     id="metadata3765">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-551.29 -607.65)">
-    <path
-       id="rect4144"
-       style="fill:#4d4d4d"
-       d="m4 3v16h9v-1h-8v-14h12v9h1v-10h-14zm2 2v5h5v-5h-5zm6 0v1h4v-1h-4zm0 2v1h4v-1h-4zm0 2v1h4v-1h-4zm-6 2v1h10v-1h-10zm0 2v1h7v-1h-7zm0 2v1h7v-1h-7z"
-       transform="translate(551.29 607.65)" />
-    <path
-       id="rect4166"
-       style="fill:#4d4d4d"
-       d="m571.73 620.65-4.5918 4.5918-1.1465-1.1465-0.70703 0.70703 1.8457 1.8477 0.006-0.008 0.008 0.008 5.293-5.293-0.70703-0.70703z" />
-  </g>
+<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g transform="matrix(1 0 0 1 -551.29 -607.65)">
+  <path d="m4 3v16h9v-1h-8v-14h12v9h1v-10h-14zm2 2v5h5v-5h-5zm6 0v1h4v-1h-4zm0 2v1h4v-1h-4zm0 2v1h4v-1h-4zm-6 2v1h10v-1h-10zm0 2v1h7v-1h-7zm0 2v1h7v-1h-7z" fill="#4d4d4d" transform="matrix(1 0 0 1 551.29 607.65)"/>
+  <path d="m571.73 620.65-4.5918 4.5918-1.1465-1.1465-0.70703 0.70703 1.8457 1.8477 0.006-0.008 0.008 0.008 5.293-5.293-0.70703-0.70703z" fill="#4d4d4d"/>
+ </g>
 </svg>

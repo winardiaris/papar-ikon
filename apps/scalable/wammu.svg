@@ -1,124 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg11037"
-   height="96"
-   width="96"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="wammu.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview71336" />
-  <defs
-     id="defs11039">
-    <clipPath
-       id="clipPath3009"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path3011"
-         style="opacity:.15;fill:#fff"
-         d="m-2 956.36h-96v33.562l96 25.687v-59.25z" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient3085"
-       y2="5.9877"
-       gradientUnits="userSpaceOnUse"
-       y1="90"
-       gradientTransform="matrix(1.1429 0 0 1.1429 -6.8571 949.51)"
-       x2="48"
-       x1="48">
-      <stop
-         id="stop3702"
-         style="stop-color:#eec00f"
-         offset="0" />
-      <stop
-         id="stop3704"
-         style="stop-color:#fff8a0"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath3018"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect3020"
-         style="opacity:.6"
-         rx="25"
-         ry="25"
-         height="92"
-         width="92"
-         y="958.36"
-         x="2" />
-    </clipPath>
-  </defs>
-  <metadata
-     id="metadata11042">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(0 -956.36)">
-    <rect
-       id="rect2419"
-       style="fill:url(#linearGradient3085)"
-       clip-path="url(#clipPath3018)"
-       rx="6.8571"
-       ry="6.8571"
-       height="96"
-       width="96"
-       y="956.36"
-       x="0" />
-    <g
-       id="g2168"
-       transform="matrix(.45760 0 0 .44745 2.3585 962.2)">
-      <path
-         id="path11"
-         style="stroke-linejoin:round;stroke:#000;stroke-width:6;fill:#fff"
-         d="m78.294 23.015s-36.426 0.42524-35.953 29.767c0.47321 29.341 7.0961 55.281 17.977 69.739 10.88 14.459 38.791 52.305 70.488 48.478 0 0 15.611-2.977 27.437-9.7813l-38.318-26.789s-11.354 6.3792-18.45-2.1255-29.33-48.053-29.33-48.053-6.1498-12.757 7.569-18.285l-1.415-42.952z" />
-      <path
-         id="path12"
-         style="stroke-linejoin:round;stroke:#000;stroke-width:6.2551;fill:#fff"
-         d="m78.543 23.068s3.1013-0.83024 8.7963 1.7344 5.7 4.6782 5.7 4.6782l0.58542 29.172s-1.5476 1.6833-3.6124 3.3638c-2.0648 1.6808-8.7825 4.1838-9.8208 2.4879-1.0382-1.6962-1.6485-41.436-1.6485-41.436z" />
-      <path
-         id="path13"
-         style="stroke-linejoin:round;stroke:#000;stroke-width:6.2281;fill:#fff"
-         d="m121.07 134.37 11.938-3.0727s2.0588-0.38393 5.3522 1.5358c3.2921 1.9208 20.582 14.594 20.582 14.594s2.8806 2.3048 2.0576 4.9935c-0.82306 2.6876-2.8819 8.449-2.8819 8.449l-37.047-26.5z" />
-    </g>
-    <rect
-       id="rect3003"
-       style="opacity:.15;fill:#fff"
-       transform="translate(98)"
-       clip-path="url(#clipPath3009)"
-       rx="25"
-       ry="25"
-       height="92"
-       width="92"
-       y="958.36"
-       x="-96" />
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009">
+   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <linearGradient x2="0" y1="90" y2="5.988" gradientUnits="userSpaceOnUse" id="linearGradient3085" gradientTransform="matrix(1.1429 0 0 1.1429 -6.857 949.51)">
+   <stop stop-color="#eec00f"/>
+   <stop stop-color="#fff8a0" offset="1"/>
+  </linearGradient>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3018">
+   <rect x="2" rx="25" y="958.36" height="92" width="92"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <rect rx="6.857" y="956.36" clip-path="url(#clipPath3018)" fill="url(#linearGradient3085)" height="96" width="96"/>
+  <g transform="matrix(0.4576 0 0 0.44745 2.358 962.2)">
+   <path d="m78.294 23.015s-36.426 0.42524-35.953 29.767c0.47321 29.341 7.0961 55.281 17.977 69.739 10.88 14.459 38.791 52.305 70.488 48.478 0 0 15.611-2.977 27.437-9.7813l-38.318-26.789s-11.354 6.3792-18.45-2.1255-29.33-48.053-29.33-48.053-6.1498-12.757 7.569-18.285l-1.415-42.952z" stroke-width="6" fill="#fff" stroke="#000" stroke-linejoin="round"/>
+   <path d="m78.543 23.068s3.1013-0.83024 8.7963 1.7344 5.7 4.6782 5.7 4.6782l0.58542 29.172s-1.5476 1.6833-3.6124 3.3638c-2.0648 1.6808-8.7825 4.1838-9.8208 2.4879-1.0382-1.6962-1.6485-41.436-1.6485-41.436z" stroke-width="6.255" fill="#fff" stroke="#000" stroke-linejoin="round"/>
+   <path d="m121.07 134.37 11.938-3.0727s2.0588-0.38393 5.3522 1.5358c3.2921 1.9208 20.582 14.594 20.582 14.594s2.8806 2.3048 2.0576 4.9935c-0.82306 2.6876-2.8819 8.449-2.8819 8.449l-37.047-26.5z" stroke-width="6.228" fill="#fff" stroke="#000" stroke-linejoin="round"/>
   </g>
+  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1 0 0 1 98 0)"/>
+ </g>
 </svg>

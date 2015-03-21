@@ -1,197 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3815"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="grayscaleconvert.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview6384" />
-  <defs
-     id="defs3817">
-    <filter
-       id="filter3174"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3176"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3794"
-       height="1.384"
-       width="1.384"
-       color-interpolation-filters="sRGB"
-       y="-.192"
-       x="-.192">
-      <feGaussianBlur
-         id="feGaussianBlur3796"
-         stdDeviation="5.28" />
-    </filter>
-    <clipPath
-       id="clipPath4355">
-      <rect
-         id="rect4357"
-         style="fill:#fff"
-         rx="6"
-         ry="6"
-         height="80"
-         width="84"
-         y="6"
-         x="6" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient3775"
-       y2="24"
-       gradientUnits="userSpaceOnUse"
-       y1="24"
-       gradientTransform="matrix(.77288 0 0 .49492 2.0441 4.5458)"
-       x2="39"
-       x1="9">
-      <stop
-         id="stop3771"
-         style="stop-color:#1a1a1a"
-         offset="0" />
-      <stop
-         id="stop3773"
-         style="stop-color:#1a1a1a;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-  </defs>
-  <metadata
-     id="metadata3820">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-461.71 -525.79)">
-    <rect
-       id="rect3745"
-       style="opacity:.9;filter:url(#filter3174);display:none;fill:#4d4d4d"
-       transform="matrix(.36331 0 0 .36331 536.21 442.45)"
-       rx="6"
-       ry="6"
-       height="85"
-       width="86"
-       y="7"
-       x="5" />
-    <rect
-       id="rect3171"
-       style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#4d4d4d"
-       transform="matrix(.36331 0 0 .36331 536.21 442.45)"
-       clip-path="url(#clipPath4355)"
-       rx="12"
-       ry="12"
-       height="62"
-       width="66"
-       y="15"
-       x="15" />
-    <rect
-       id="rect3777"
-       style="stroke-width:.78364;fill-opacity:0;color:#000000;stroke:#4d4d4d;stroke-dasharray:1.56728482, 0.78364242"
-       rx="0"
-       ry="0"
-       height="15.216"
-       width="15.216"
-       y="529.18"
-       x="465.11" />
-    <g
-       id="g11783"
-       transform="matrix(.47527 0 0 .47146 461.44 525.55)">
-      <rect
-         id="rect2991-4"
-         style="color:#000000;fill:url(#linearGradient3775)"
-         rx="0"
-         ry="0"
-         height="14.847"
-         width="23.186"
-         y="9"
-         x="9" />
-      <g
-         id="g3812"
-         transform="matrix(.96181 0 0 1 .58838 0)">
-        <rect
-           id="rect3798"
-           style="color:#000000;fill:#d40000"
-           rx="0"
-           ry="0"
-           height="14.847"
-           width="3.9661"
-           y="23.847"
-           x="15.407" />
-        <rect
-           id="rect3802"
-           style="color:#000000;fill:#ff7f2a"
-           rx="0"
-           ry="0"
-           height="14.847"
-           width="3.9661"
-           y="23.847"
-           x="19.407" />
-        <rect
-           id="rect3804"
-           style="color:#000000;fill:#ffd42a"
-           rx="0"
-           ry="0"
-           height="14.847"
-           width="3.9661"
-           y="23.847"
-           x="23.407" />
-        <rect
-           id="rect3806"
-           style="color:#000000;fill:#008000"
-           rx="0"
-           ry="0"
-           height="14.847"
-           width="3.9661"
-           y="23.847"
-           x="27.407" />
-        <rect
-           id="rect3808"
-           style="color:#000000;fill:#6969e3"
-           rx="0"
-           ry="0"
-           height="14.847"
-           width="3.9661"
-           y="23.847"
-           x="31.407" />
-        <rect
-           id="rect3810"
-           style="color:#000000;fill:#3e3efd"
-           rx="0"
-           ry="0"
-           height="14.847"
-           width="3.9661"
-           y="23.847"
-           x="35.407" />
-      </g>
-    </g>
+<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <linearGradient x1="9" x2="39" gradientUnits="userSpaceOnUse" id="linearGradient3775" gradientTransform="matrix(0.77288 0 0 0.49492 2.044 4.546)">
+   <stop stop-color="#1a1a1a"/>
+   <stop stop-color="#1a1a1a" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(1 0 0 1 -461.71 -525.79)">
+  <rect x="465.11" stroke-width="0.784" rx="0" y="529.18" fill-opacity="0" color="#000000" stroke="#4d4d4d" height="15.216" stroke-dasharray="1.56728 0.783642" width="15.216"/>
+  <g transform="matrix(0.47527 0 0 0.47146 461.44 525.55)">
+   <rect x="9" rx="0" y="9" fill="url(#linearGradient3775)" color="#000000" height="14.847" width="23.19"/>
+   <g transform="matrix(0.96181 0 0 1 0.588 0)">
+    <rect x="15.407" rx="0" y="23.847" fill="#d40000" color="#000000" height="14.847" width="3.966"/>
+    <rect x="19.407" rx="0" y="23.847" fill="#ff7f2a" color="#000000" height="14.847" width="3.966"/>
+    <rect x="23.407" rx="0" y="23.847" fill="#ffd42a" color="#000000" height="14.847" width="3.966"/>
+    <rect x="27.407" rx="0" y="23.847" fill="#008000" color="#000000" height="14.847" width="3.966"/>
+    <rect x="31.407" rx="0" y="23.847" fill="#6969e3" color="#000000" height="14.847" width="3.966"/>
+    <rect x="35.407" rx="0" y="23.847" fill="#3e3efd" color="#000000" height="14.847" width="3.966"/>
+   </g>
   </g>
+ </g>
 </svg>

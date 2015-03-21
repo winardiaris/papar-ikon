@@ -38,17 +38,6 @@
      inkscape:current-layer="svg11037" />
   <defs
      id="defs11039">
-    <linearGradient
-       id="linearGradient3688">
-      <stop
-         id="stop3690"
-         style="stop-color:#333"
-         offset="0" />
-      <stop
-         id="stop3692"
-         style="stop-color:#595959"
-         offset="1" />
-    </linearGradient>
     <mask
        id="XMLID_23_-9-2">
       <g
@@ -105,23 +94,6 @@
            ry="349.11" />
       </g>
     </mask>
-    <linearGradient
-       id="linearGradient11642"
-       y2="1046.1"
-       gradientUnits="userSpaceOnUse"
-       y1="962.62"
-       gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
-       x2="48"
-       x1="48">
-      <stop
-         id="stop3189"
-         style="stop-color:#bcb5ac"
-         offset="0" />
-      <stop
-         id="stop3191"
-         style="stop-color:#e9e7e4"
-         offset="1" />
-    </linearGradient>
     <linearGradient
        id="ButtonShadow-3"
        y2="7.0165"

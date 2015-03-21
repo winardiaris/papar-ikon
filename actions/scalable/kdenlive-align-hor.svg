@@ -1,82 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4359"
-   height="48px"
-   width="48px"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="kdenlive-align-hor.svg">
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4359" />
-  <metadata
-     id="metadata4364">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     style="fill:#4d4d4d">
-    <rect
-       id="rect3242"
-       style="fill:#4d4d4d"
-       transform="rotate(90)"
-       height="4"
-       width="30"
-       y="-26"
-       x="9" />
-    <g
-       id="layer1-5"
-       transform="translate(-236.95 -699.79)"
-       style="fill:#4d4d4d">
-      <path
-         id="path90-8"
-         style="fill:#4d4d4d"
-         d="m256.93 723.79-11-10.004v20l11-9.996z" />
-    </g>
-    <g
-       id="g4072"
-       transform="matrix(-1 0 0 1 284.98 -699.79)"
-       style="fill:#4d4d4d">
-      <path
-         id="path4074"
-         d="m256.93 723.79-11-10.004v20l11-9.996z"
-         style="fill:#4d4d4d" />
-    </g>
-  </g>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <path d="m256.93 723.79-11-10.004v20l11-9.996z" id="SVGCleanerId_0"/>
+ </defs>
+ <g fill="#4d4d4d">
+  <rect x="9" y="-26" height="4" width="30" transform="matrix(0 1 -1 0 0 0)"/>
+  <use xlink:href="#SVGCleanerId_0" transform="matrix(1 0 0 1 -236.95 -699.79)"/>
+  <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 284.98 -699.79)"/>
+ </g>
 </svg>

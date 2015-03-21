@@ -1,268 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:memaker="http://launchpad.net/memaker"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg11037"
-   version="1.1"
-   height="96"
-   width="96"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="memaker.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview43591" />
-  <defs
-     id="defs11039">
-    <clipPath
-       id="clipPath3009"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path3011"
-         style="opacity:.15;fill:#fff"
-         d="m-2 956.36h-96v33.562l96 25.687v-59.25z" />
-    </clipPath>
-    <clipPath
-       id="clipPath4146-5"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect4148-1"
-         style="fill:#e9b96e"
-         rx="17.805"
-         ry="17.805"
-         transform="scale(1,-1)"
-         width="249.27"
-         y="-330.04"
-         x="74.6"
-         height="249.27" />
-    </clipPath>
-    <clipPath
-       id="clipPath3234"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect3236"
-         style="opacity:.6"
-         rx="21.875"
-         ry="21.875"
-         height="80.5"
-         width="80.5"
-         y="7.75"
-         x="7.75" />
-    </clipPath>
-  </defs>
-  <metadata
-     id="metadata11042">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(0 -956.36)">
-    <g
-       id="g3231"
-       clip-path="url(#clipPath3234)"
-       transform="matrix(1.1429 0 0 1.1429 -6.8571 949.51)">
-      <rect
-         id="rect2419"
-         style="fill:#e9b96e"
-         transform="scale(1,-1)"
-         rx="6"
-         ry="6"
-         height="84"
-         width="84"
-         y="-90"
-         x="6" />
-      <rect
-         id="rect4150"
-         style="fill:#dba44d"
-         rx="5.4675"
-         ry="5.4675"
-         transform="scale(1,-1)"
-         width="40.947"
-         y="-86.272"
-         x="45.325"
-         height="76.545" />
-      <g
-         id="g4070"
-         clip-path="url(#clipPath4146-5)"
-         transform="matrix(.33699 0 0 .33699 -19.139 -21.218)"
-         memaker:file="hair">
-        <metadata
-           id="metadata4074">
-          <rdf:RDF>
-            <cc:Work
-               rdf:about="">
-              <dc:format>image/svg+xml</dc:format>
-              <dc:type
-                 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            </cc:Work>
-            <cc:Work
-               rdf:about="">
-              <dc:format>image/svg+xml</dc:format>
-              <dc:type
-                 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            </cc:Work>
-          </rdf:RDF>
-        </metadata>
-        <g
-           id="g4078">
-          <g
-             id="g3428"
-             transform="translate(0 23.74)">
-            <path
-               id="path4080"
-               style="stroke-linejoin:round;stroke:#242424;stroke-linecap:round;stroke-width:5;fill:#242424"
-               d="m200.78 1.2812c-20.963 0-41.058 2.3295-59.438 7.875-18.38 5.5458-35.06 14.329-49.09 27.156-14.034 12.828-25.384 29.683-33.156 51.157-7.7722 21.473-12 47.557-12 79a3.8521 3.8521 0 0 0 6.531 2.78l39.031-37.719 30.188 37.344a3.8521 3.8521 0 0 0 6 0l31.625-39.438 37.5 39.688a3.8521 3.8521 0 0 0 5.9062 -0.34375l32.25-42.875 36.625 43.062a3.8521 3.8521 0 0 0 6.25 -0.5625l26.406-45.312 42.344 45.969a3.8521 3.8521 0 0 0 6.6875 -2.5938c0-31.443-4.2278-57.527-12-79-7.77-21.495-19.11-38.35-33.15-51.178-14.03-12.827-30.71-21.61-49.09-27.156-18.38-5.5449-38.45-7.8747-59.41-7.8748z"
-               transform="matrix(.95754 0 0 .95754 6.9923 -16.057)" />
-            <path
-               id="path4082"
-               style="opacity:.5;stroke-linejoin:round;stroke:#000;stroke-linecap:round;stroke-width:4.7877"
-               d="m251.16 30.031a4.5982 4.5982 0 0 0 -4.1875 2.75l-53.38 121.97a4.5982 4.5982 0 0 0 8 4.4688l25.5-36.625c1.1703-1.5534 2.9538-2.5047 4.9062-2.5625 1.9442-0.0576 3.8329 0.76772 5.0938 2.25l28 32.938a4.5982 4.5982 0 0 0 7.4688 -0.65625l19.94-34.29c1.0185-1.7528 2.838-2.9349 4.875-3.1562 2.0293-0.2205 4.0177 0.5504 5.4062 2.0625l23.031 24.969a4.5982 4.5982 0 0 0 7.94 -3.66c-1.77-15.62-4.76-29.52-9.09-41.5-6.95-19.189-16.85-33.861-29.04-45-12.18-11.139-26.73-18.835-43.12-23.781a4.5982 4.5982 0 0 0 -1.3438 -0.1875z"
-               transform="translate(.79945 -27.127)" />
-          </g>
-        </g>
-      </g>
-      <g
-         id="g3432"
-         style="stroke:#c17d11;stroke-width:1.349"
-         transform="matrix(1.0024 0 0 .76839 -.12293 21.711)">
-        <rect
-           id="rect3408"
-           style="stroke-linejoin:round;stroke:#c17d11;stroke-linecap:square;stroke-width:1.349;fill:#fff"
-           rx="10.287"
-           ry="10.287"
-           height="26.383"
-           width="58.676"
-           y="59.89"
-           x="18.662" />
-        <path
-           id="rect3410"
-           d="m18.662 53.89s19.439 6 29.338 6c9.8988 0 29.338-6 29.338-6v17.992h-58.676z"
-           style="stroke-linejoin:round;stroke:#c17d11;stroke-linecap:square;stroke-width:1.349;fill:#fff" />
-      </g>
-      <g
-         id="g4012"
-         memaker:file="nose"
-         transform="matrix(.31051 0 0 .31051 -14.203 -43.835)">
-        <metadata
-           id="metadata4016">
-          <rdf:RDF>
-            <cc:Work
-               rdf:about="">
-              <dc:format>image/svg+xml</dc:format>
-              <dc:type
-                 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            </cc:Work>
-            <cc:Work
-               rdf:about="">
-              <dc:format>image/svg+xml</dc:format>
-              <dc:type
-                 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            </cc:Work>
-          </rdf:RDF>
-        </metadata>
-        <g
-           id="g4020">
-          <g
-             id="g4152">
-            <path
-               id="path4022"
-               style="stroke-linejoin:round;stroke:#c17d11;stroke-linecap:round;stroke-width:4.7877;fill:#e9b96e"
-               d="m221.68 294.24c5.4228 4.2124 8.7614 10.008 8.7275 16.388-0.0678 12.758-13.6 23.041-30.206 22.953-16.606-0.0883-30.028-10.515-29.96-23.273 0.0339-6.3791 3.434-12.139 8.9013-16.294" />
-            <path
-               id="path4024"
-               style="opacity:.35808;stroke-linejoin:round;stroke:#c17d11;stroke-linecap:round;stroke-width:5;fill:#c17d11"
-               d="m182.84 259.75c-1.8396 1.9282-2.6877 3.9345-2.7812 5.9688-0.12856 2.7957 1.1205 5.7103 4.5312 8.5938 3.4107 2.8834 8.8718 5.2067 15.25 5.5 6.3826 0.29352 12.05-1.537 15.719-4.0938 3.6687-2.5567 5.1844-5.307 5.3125-8.0938 0.0932-2.0272-0.59804-4.1222-2.25-6.2188l-35.78-1.66z"
-               transform="matrix(.74349 -.35751 .35751 .74349 -38.51 186.84)" />
-          </g>
-        </g>
-      </g>
-      <g
-         id="g3412"
-         transform="matrix(.66837 0 0 .66837 18.236 8.889)">
-        <g
-           id="g3186"
-           transform="translate(2)">
-          <path
-             id="path4038"
-             style="fill:#eeeeec"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.54301 0 0 .54301 59.697 -60.38)" />
-          <path
-             id="path4040"
-             style="fill:#3465a4"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.31570 0 0 .31570 50.3 -13.786)" />
-          <path
-             id="path4042"
-             style="fill:#2e3436"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.15121 0 0 .15121 41.287 19.933)" />
-          <path
-             id="path4050"
-             style="fill:#eeeeec"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.10701 0 0 .10701 40.344 27.287)" />
-        </g>
-        <g
-           id="g3192"
-           transform="translate(-2)">
-          <path
-             id="path4044"
-             style="fill:#eeeeec"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.54301 0 0 .54301 88.869 -60.38)" />
-          <path
-             id="path4046"
-             style="fill:#3465a4"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.31570 0 0 .31570 73.358 -13.786)" />
-          <path
-             id="path4048"
-             style="fill:#2e3436"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.15121 0 0 .15121 64.345 19.933)" />
-          <path
-             id="path4052"
-             style="fill:#eeeeec"
-             d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z"
-             transform="matrix(.10701 0 0 .10701 63.402 27.287)" />
-        </g>
-      </g>
-    </g>
-    <rect
-       id="rect3003"
-       style="opacity:.15;fill:#fff"
-       transform="translate(98)"
-       clip-path="url(#clipPath3009)"
-       rx="25"
-       ry="25"
-       height="92"
-       width="92"
-       y="958.36"
-       x="-96" />
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009">
+   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4146-5">
+   <rect x="74.6" rx="17.805" y="-330.04" height="249.27" width="249.27" transform="matrix(1 0 0 -1 0 0)"/>
+  </clipPath>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3234">
+   <rect x="7.75" rx="21.875" y="7.75" height="80.5" width="80.5"/>
+  </clipPath>
+  <path d="m-36.782 204.98c0 9.9454-8.0623 18.008-18.008 18.008-9.9454 0-18.008-8.0623-18.008-18.008 0-9.9454 8.0623-18.008 18.008-18.008 9.9454 0 18.008 8.0623 18.008 18.008z" id="SVGCleanerId_0"/>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <g clip-path="url(#clipPath3234)" transform="matrix(1.1429 0 0 1.1429 -6.857 949.51)">
+   <rect x="6" rx="6" y="-90" fill="#e9b96e" height="84" width="84" transform="matrix(1 0 0 -1 0 0)"/>
+   <rect x="45.33" rx="5.468" y="-86.27" fill="#dba44d" height="76.55" width="40.947" transform="matrix(1 0 0 -1 0 0)"/>
+   <g clip-path="url(#clipPath4146-5)" memaker:file="hair" transform="matrix(0.33699 0 0 0.33699 -19.14 -21.22)">
+    <path d="m200.78 1.2812c-20.963 0-41.058 2.3295-59.438 7.875-18.38 5.5458-35.06 14.329-49.09 27.156-14.034 12.828-25.384 29.683-33.156 51.157-7.7722 21.473-12 47.557-12 79a3.8521 3.8521 0 0 0 6.531 2.78l39.031-37.719 30.188 37.344a3.8521 3.8521 0 0 0 6 0l31.625-39.438 37.5 39.688a3.8521 3.8521 0 0 0 5.9062 -0.34375l32.25-42.875 36.625 43.062a3.8521 3.8521 0 0 0 6.25 -0.5625l26.406-45.312 42.344 45.969a3.8521 3.8521 0 0 0 6.6875 -2.5938c0-31.443-4.2278-57.527-12-79-7.77-21.495-19.11-38.35-33.15-51.178-14.03-12.827-30.71-21.61-49.09-27.156-18.38-5.5449-38.45-7.8747-59.41-7.8748z" stroke-width="5" fill="#242424" stroke="#242424" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.95754 0 0 0.95754 6.992 7.683)"/>
+    <path d="m251.16 30.031a4.5982 4.5982 0 0 0 -4.1875 2.75l-53.38 121.97a4.5982 4.5982 0 0 0 8 4.4688l25.5-36.625c1.1703-1.5534 2.9538-2.5047 4.9062-2.5625 1.9442-0.0576 3.8329 0.76772 5.0938 2.25l28 32.938a4.5982 4.5982 0 0 0 7.4688 -0.65625l19.94-34.29c1.0185-1.7528 2.838-2.9349 4.875-3.1562 2.0293-0.2205 4.0177 0.5504 5.4062 2.0625l23.031 24.969a4.5982 4.5982 0 0 0 7.94 -3.66c-1.77-15.62-4.76-29.52-9.09-41.5-6.95-19.189-16.85-33.861-29.04-45-12.18-11.139-26.73-18.835-43.12-23.781a4.5982 4.5982 0 0 0 -1.3438 -0.1875z" stroke-width="4.788" stroke="#000" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 0.799 -3.387)"/>
+   </g>
+   <g stroke-width="1.349" stroke="#c17d11" transform="matrix(1.0024 0 0 0.76839 -0.123 21.711)">
+    <rect x="18.662" rx="10.287" y="59.89" fill="#fff" height="26.383" width="58.676" stroke-linecap="square" stroke-linejoin="round"/>
+    <path d="m18.662 53.89s19.439 6 29.338 6c9.8988 0 29.338-6 29.338-6v17.992h-58.676z" fill="#fff" stroke-linecap="square" stroke-linejoin="round"/>
+   </g>
+   <g memaker:file="nose" transform="matrix(0.31051 0 0 0.31051 -14.203 -43.835)">
+    <path d="m221.68 294.24c5.4228 4.2124 8.7614 10.008 8.7275 16.388-0.0678 12.758-13.6 23.041-30.206 22.953-16.606-0.0883-30.028-10.515-29.96-23.273 0.0339-6.3791 3.434-12.139 8.9013-16.294" stroke-width="4.788" fill="#e9b96e" stroke="#c17d11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m182.84 259.75c-1.8396 1.9282-2.6877 3.9345-2.7812 5.9688-0.12856 2.7957 1.1205 5.7103 4.5312 8.5938 3.4107 2.8834 8.8718 5.2067 15.25 5.5 6.3826 0.29352 12.05-1.537 15.719-4.0938 3.6687-2.5567 5.1844-5.307 5.3125-8.0938 0.0932-2.0272-0.59804-4.1222-2.25-6.2188l-35.78-1.66z" stroke-width="5" fill="#c17d11" stroke="#c17d11" opacity="0.358" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.74349 -0.35751 0.35751 0.74349 -38.51 186.84)"/>
+   </g>
+   <use xlink:href="#SVGCleanerId_0" fill="#eeeeec" transform="matrix(0.36293 0 0 0.36293 59.47 -31.467)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#3465a4" transform="matrix(0.211 0 0 0.211 53.19 -0.325)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#2e3436" transform="matrix(0.10106 0 0 0.10106 47.17 22.21)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#eeeeec" transform="matrix(0.07152 0 0 0.07152 46.537 27.13)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#eeeeec" transform="matrix(0.36293 0 0 0.36293 76.3 -31.467)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#3465a4" transform="matrix(0.211 0 0 0.211 65.93 -0.325)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#2e3436" transform="matrix(0.10106 0 0 0.10106 59.906 22.21)"/>
+   <use xlink:href="#SVGCleanerId_0" fill="#eeeeec" transform="matrix(0.07152 0 0 0.07152 59.28 27.13)"/>
   </g>
+  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1 0 0 1 98 0)"/>
+ </g>
 </svg>

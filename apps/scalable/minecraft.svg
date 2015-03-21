@@ -1,1315 +1,228 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg11037"
-   height="96"
-   width="96"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="minecraft.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview44136" />
-  <defs
-     id="defs11039">
-    <clipPath
-       id="clipPath3009"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path3011"
-         style="opacity:.15;fill:#fff"
-         d="m-2 956.36h-96v33.562l96 25.687v-59.25z" />
-    </clipPath>
-    <radialGradient
-       id="radialGradient4480"
-       gradientUnits="userSpaceOnUse"
-       cy="11.685"
-       cx="47.706"
-       gradientTransform="matrix(1.5319 .011796 -.013753 1.7861 -25.008 -10.949)"
-       r="43.796">
-      <stop
-         id="stop4137"
-         style="stop-color:#fff"
-         offset="0" />
-      <stop
-         id="stop4139"
-         style="stop-color:#3e9f30"
-         offset="1" />
-    </radialGradient>
-    <clipPath
-       id="clipPath3332"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect3334"
-         style="opacity:.6"
-         rx="22.811"
-         ry="22.824"
-         height="83.991"
-         width="83.943"
-         y="4.6942"
-         x="5.9386" />
-    </clipPath>
-  </defs>
-  <metadata
-     id="metadata11042">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(0 -956.36)">
-    <g
-       id="g3303"
-       clip-path="url(#clipPath3332)"
-       transform="matrix(1.096 0 0 1.0954 -4.5086 953.22)">
-      <rect
-         id="rect2419-3"
-         style="fill:url(#radialGradient4480)"
-         rx="6.2566"
-         ry="6.3253"
-         height="88.555"
-         width="87.593"
-         y="1.9561"
-         x="4.1138" />
-      <g
-         id="g4762"
-         style="opacity:.55714"
-         transform="matrix(1.1275 0 0 1.6458 -126.48 -60.125)">
-        <g
-           id="g4572"
-           transform="matrix(.6 0 0 0.68 98 31.52)">
-          <g
-             id="g4536"
-             transform="matrix(.57201 0 0 .61037 53.58 -6.7817)">
-            <rect
-               id="rect4538"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4540"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4542"
-             transform="matrix(.64872 0 0 .65473 54.731 15.109)">
-            <rect
-               id="rect4544"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4546"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4548"
-             transform="matrix(-.64872 0 0 -.65473 35.269 56.891)">
-            <rect
-               id="rect4550"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4552"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4554"
-             transform="matrix(.57201 0 0 .60793 53.58 41.602)">
-            <rect
-               id="rect4556"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4558"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4560"
-             transform="matrix(-.64872 0 0 -.65473 35.269 81.891)">
-            <rect
-               id="rect4562"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4564"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4566"
-             transform="matrix(-.64872 0 0 -.65473 35.269 106.89)">
-            <rect
-               id="rect4568"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4570"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-        </g>
-        <g
-           id="g4648"
-           transform="matrix(.6 0 0 0.68 113 31.52)">
-          <g
-             id="g4650"
-             transform="matrix(.64872 0 0 .65473 54.731 -9.8912)">
-            <rect
-               id="rect4652"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4654"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4656"
-             transform="matrix(.64872 0 0 .65473 54.731 15.109)">
-            <rect
-               id="rect4658"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4660"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4662"
-             transform="matrix(-.64872 0 0 -.65473 35.269 56.891)">
-            <rect
-               id="rect4664"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4666"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4668"
-             transform="matrix(.64872 0 0 .65473 54.731 40.109)">
-            <rect
-               id="rect4670"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4672"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4674"
-             transform="matrix(-.64872 0 0 -.65473 35.269 81.891)">
-            <rect
-               id="rect4676"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4678"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4680"
-             transform="matrix(-.64872 0 0 -.65473 35.269 106.89)">
-            <rect
-               id="rect4682"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4684"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-        </g>
-        <g
-           id="g4686"
-           transform="matrix(.6 0 0 0.68 128 31.52)">
-          <g
-             id="g4688"
-             transform="matrix(.64872 0 0 .65473 54.731 -9.8912)">
-            <rect
-               id="rect4690"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4692"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4694"
-             transform="matrix(.64872 0 0 .65473 54.731 15.109)">
-            <rect
-               id="rect4696"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4698"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4700"
-             transform="matrix(-.64872 0 0 -.65473 35.269 56.891)">
-            <rect
-               id="rect4702"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4704"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4706"
-             transform="matrix(.64872 0 0 .65473 54.731 40.109)">
-            <rect
-               id="rect4708"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4710"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4712"
-             transform="matrix(-.64872 0 0 -.65473 35.269 81.891)">
-            <rect
-               id="rect4714"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4716"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4718"
-             transform="matrix(-.64872 0 0 -.65473 35.269 106.89)">
-            <rect
-               id="rect4720"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4722"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-        </g>
-        <g
-           id="g4724"
-           transform="matrix(.6 0 0 0.68 143 31.52)">
-          <g
-             id="g4726"
-             transform="matrix(.64872 0 0 .65473 54.731 -9.8912)">
-            <rect
-               id="rect4728"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4730"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4732"
-             transform="matrix(.64872 0 0 .65473 54.731 15.109)">
-            <rect
-               id="rect4734"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4736"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4738"
-             transform="matrix(-.64872 0 0 -.65473 35.269 56.891)">
-            <rect
-               id="rect4740"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4742"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4744"
-             transform="matrix(.64872 0 0 .65473 54.731 40.109)">
-            <rect
-               id="rect4746"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4748"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4750"
-             transform="matrix(-.64872 0 0 -.65473 35.269 81.891)">
-            <rect
-               id="rect4752"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4754"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4756"
-             transform="matrix(-.64872 0 0 -.65473 35.269 106.89)">
-            <rect
-               id="rect4758"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4760"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-        </g>
-        <g
-           id="g4878"
-           transform="matrix(.6 0 0 0.68 157.5 31.52)">
-          <g
-             id="g4880"
-             transform="matrix(.64872 0 0 .65473 54.731 -9.8912)">
-            <rect
-               id="rect4882"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4884"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4886"
-             transform="matrix(.64872 0 0 .65473 54.731 15.109)">
-            <rect
-               id="rect4888"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4890"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4892"
-             transform="matrix(-.64872 0 0 -.65473 35.269 56.891)">
-            <rect
-               id="rect4894"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4896"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="1.237"
-               height="16.448"
-               width="16.99"
-               y="51"
-               x="-31.99" />
-          </g>
-          <g
-             id="g4898"
-             transform="matrix(.64872 0 0 .65473 54.731 40.109)">
-            <rect
-               id="rect4900"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4902"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4904"
-             transform="matrix(-.64872 0 0 -.65473 35.269 81.891)">
-            <rect
-               id="rect4906"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="31.908"
-               x="-34.269" />
-            <rect
-               id="rect4908"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-          <g
-             id="g4910"
-             transform="matrix(-.64872 0 0 -.65473 35.269 106.89)">
-            <rect
-               id="rect4912"
-               style="fill:#b6e7af;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="16.362"
-               width="14.711"
-               y="34.638"
-               x="-29.711" />
-            <rect
-               id="rect4914"
-               style="fill:#fff;fill-opacity:.56684"
-               rx="0"
-               ry="0"
-               height="19.092"
-               width="19.269"
-               y="51"
-               x="-34.269" />
-          </g>
-        </g>
-      </g>
-      <g
-         id="g4276"
-         transform="matrix(1 0 0 .99287 43.378 .073370)">
-        <rect
-           id="rect4278"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4280"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4282"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4284"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4266"
-         transform="matrix(-1 0 0 .99287 52.275 .25015)">
-        <rect
-           id="rect4268"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4270"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4272"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4274"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4236"
-         transform="matrix(1 0 0 .87876 1.8352 52.378)">
-        <rect
-           id="rect4238"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4240"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4242"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4244"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4226"
-         transform="matrix(-1 0 0 .85871 92.871 53.139)">
-        <rect
-           id="rect4228"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4230"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4232"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4234"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4216"
-         transform="matrix(1 0 0 1.4564 34.91 32.28)">
-        <rect
-           id="rect4218"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4220"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4222"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4224"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4196"
-         transform="translate(21.75,25.25)">
-        <rect
-           id="rect4198"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4200"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4202"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4204"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4186"
-         transform="matrix(-1 0 0 1 73.665 24.75)">
-        <rect
-           id="rect4188"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4190"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4192"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4194"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <g
-         id="g4180"
-         transform="matrix(-1 0 0 1 95.415 .125)">
-        <rect
-           id="rect4172"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4174"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4176"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4178"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
-      <rect
-         id="rect4164"
-         style="fill-opacity:.51337"
-         rx=".21391"
-         ry="0"
-         transform="scale(-1,1)"
-         width="3.1051"
-         y="10.11"
-         x="-39.594"
-         height="24.786" />
-      <rect
-         id="rect4156"
-         style="fill:#fff;fill-opacity:.83957"
-         rx="1.0545"
-         ry="0"
-         height="32.13"
-         width="15.306"
-         y="50.995"
-         x="56.401" />
-      <rect
-         id="rect4154"
-         style="fill:#fff;fill-opacity:.83957"
-         rx="1.0588"
-         ry="0"
-         height="32.88"
-         width="15.369"
-         y="50.12"
-         x="23.026" />
-      <rect
-         id="rect4158"
-         style="fill:#fff;fill-opacity:.78610"
-         rx="1.4635"
-         ry="0"
-         height="31.643"
-         width="21.244"
-         y="35.712"
-         x="37.02" />
-      <rect
-         id="rect4150"
-         style="fill:#fff;fill-opacity:.82353"
-         rx="1.5223"
-         ry="0"
-         height="20.911"
-         width="22.097"
-         y="13.954"
-         x="15.63" />
-      <rect
-         id="rect4162"
-         style="fill:#fff;fill-opacity:.93048"
-         rx=".26105"
-         ry="0"
-         height="9.7628"
-         width="3.7892"
-         y="25.134"
-         x="14.669" />
-      <rect
-         id="rect4106"
-         rx="1.5223"
-         ry="0"
-         height="21.036"
-         width="22.097"
-         y="10.079"
-         x="15.63" />
-      <rect
-         id="rect4160"
-         style="fill:#fff;fill-opacity:.94652"
-         rx=".24752"
-         ry="0"
-         height="9.7943"
-         width="3.5928"
-         y="25.112"
-         x="77.501" />
-      <rect
-         id="rect4152"
-         style="fill:#fff;fill-opacity:.83422"
-         rx="1.5223"
-         ry="0"
-         height="20.558"
-         width="22.097"
-         y="14.329"
-         x="58.255" />
-      <rect
-         id="rect4108"
-         rx="1.4979"
-         ry="0"
-         height="31.643"
-         width="21.744"
-         y="30.585"
-         x="36.843" />
-      <rect
-         id="rect4110"
-         rx="1.5223"
-         ry="0"
-         height="21.302"
-         width="22.097"
-         y="10.168"
-         x="58.233" />
-      <rect
-         id="rect4112"
-         rx="1.0631"
-         ry="0"
-         height="32.527"
-         width="15.431"
-         y="46.974"
-         x="56.327" />
-      <rect
-         id="rect4114"
-         rx="1.0588"
-         ry="0"
-         height="32.88"
-         width="15.369"
-         y="46.37"
-         x="23.026" />
-      <rect
-         id="rect4166"
-         style="fill-opacity:.26738"
-         rx=".14535"
-         ry="0"
-         height="24.786"
-         width="2.1098"
-         y="10.11"
-         x="39.594" />
-      <rect
-         id="rect4168"
-         style="fill-opacity:.11765"
-         rx=".15302"
-         ry="0"
-         transform="scale(-1,1)"
-         width="2.2212"
-         y="10.11"
-         x="-43.925"
-         height="24.786" />
-      <rect
-         id="rect4170"
-         style="fill-opacity:.032086"
-         rx=".16362"
-         ry="0"
-         height="24.786"
-         width="2.375"
-         y="10.11"
-         x="43.925" />
-      <g
-         id="g4206"
-         transform="matrix(-1 0 0 1.4841 59.54 31.293)">
-        <rect
-           id="rect4208"
-           style="fill-opacity:.51337"
-           rx=".21391"
-           ry="0"
-           transform="scale(-1,1)"
-           width="3.1051"
-           y="10.11"
-           x="-39.594"
-           height="24.786" />
-        <rect
-           id="rect4210"
-           style="fill-opacity:.26738"
-           rx=".14535"
-           ry="0"
-           height="24.786"
-           width="2.1098"
-           y="10.11"
-           x="39.594" />
-        <rect
-           id="rect4212"
-           style="fill-opacity:.11765"
-           rx=".15302"
-           ry="0"
-           transform="scale(-1,1)"
-           width="2.2212"
-           y="10.11"
-           x="-43.925"
-           height="24.786" />
-        <rect
-           id="rect4214"
-           style="fill-opacity:.032086"
-           rx=".16362"
-           ry="0"
-           height="24.786"
-           width="2.375"
-           y="10.11"
-           x="43.925" />
-      </g>
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009">
+   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <radialGradient cy="11.685" r="43.796" gradientUnits="userSpaceOnUse" id="radialGradient4480" cx="47.706" gradientTransform="matrix(1.5319 0.0118 -0.01375 1.7861 -25.01 -10.949)">
+   <stop stop-color="#fff"/>
+   <stop stop-color="#3e9f30" offset="1"/>
+  </radialGradient>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3332">
+   <rect x="5.939" rx="22.811" ry="22.824" y="4.694" height="83.991" width="83.943"/>
+  </clipPath>
+  <rect x="-39.594" rx="0.214" y="10.11" ry="0" fill-opacity="0.513" height="24.786" id="SVGCleanerId_0" width="3.105"/>
+  <rect x="39.594" rx="0.145" y="10.11" ry="0" fill-opacity="0.267" height="24.786" id="SVGCleanerId_1" width="2.11"/>
+  <rect x="-43.925" rx="0.153" y="10.11" ry="0" fill-opacity="0.118" height="24.786" id="SVGCleanerId_2" width="2.221"/>
+  <rect x="43.925" rx="0.164" y="10.11" ry="0" fill-opacity="0.032" height="24.786" id="SVGCleanerId_3" width="2.375"/>
+  <rect x="-34.27" rx="0" y="31.908" fill="#b6e7af" fill-opacity="0.567" height="19.09" id="SVGCleanerId_4" width="19.269"/>
+  <rect x="-34.27" rx="0" y="51" fill="#fff" fill-opacity="0.567" height="19.09" id="SVGCleanerId_5" width="19.269"/>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <g clip-path="url(#clipPath3332)" transform="matrix(1.096 0 0 1.0954 -4.509 953.22)">
+   <rect x="4.114" rx="6.257" ry="6.325" y="1.956" fill="url(#radialGradient4480)" height="88.56" width="87.59"/>
+   <g opacity="0.557" transform="matrix(1.1275 0 0 1.6458 -126.48 -60.12)">
+    <g transform="matrix(0.6 0 0 0.68 98 31.52)">
+     <g transform="matrix(0.57201 0 0 0.61037 53.58 -6.782)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 15.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 56.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.57201 0 0 0.60793 53.58 41.602)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 81.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 106.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
     </g>
-    <rect
-       id="rect3003"
-       style="opacity:.15;fill:#fff"
-       transform="translate(98)"
-       clip-path="url(#clipPath3009)"
-       rx="25"
-       ry="25"
-       height="92"
-       width="92"
-       y="958.36"
-       x="-96" />
+    <g transform="matrix(0.6 0 0 0.68 113 31.52)">
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 -9.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 15.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 56.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 40.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 81.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 106.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+    </g>
+    <g transform="matrix(0.6 0 0 0.68 128 31.52)">
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 -9.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 15.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 56.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 40.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 81.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 106.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+    </g>
+    <g transform="matrix(0.6 0 0 0.68 143 31.52)">
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 -9.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 15.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 56.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 40.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 81.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 106.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+    </g>
+    <g transform="matrix(0.6 0 0 0.68 157.5 31.52)">
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 -9.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 15.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 56.891)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <rect x="-31.99" rx="0" ry="1.237" y="51" fill="#fff" fill-opacity="0.567" height="16.448" width="16.99"/>
+     </g>
+     <g transform="matrix(0.64872 0 0 0.65473 54.731 40.11)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 81.89)">
+      <use xlink:href="#SVGCleanerId_4"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+     <g transform="matrix(-0.64872 0 0 -0.65473 35.27 106.89)">
+      <rect x="-29.711" rx="0" y="34.638" fill="#b6e7af" fill-opacity="0.567" height="16.362" width="14.711"/>
+      <use xlink:href="#SVGCleanerId_5"/>
+     </g>
+    </g>
+   </g>
+   <g transform="matrix(1 0 0 0.99287 43.38 0.073)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(-1 0 0 0.99287 52.27 0.25)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(1 0 0 0.87876 1.835 52.38)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(-1 0 0 0.85871 92.87 53.14)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(1 0 0 1.4564 34.91 32.28)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(1 0 0 1 21.75 25.25)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(-1 0 0 1 73.67 24.75)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <g transform="matrix(-1 0 0 1 95.42 0.125)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
+   <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+   <rect x="56.4" rx="1.054" ry="0" y="50.995" fill="#fff" fill-opacity="0.84" height="32.13" width="15.306"/>
+   <rect x="23.03" rx="1.059" ry="0" y="50.12" fill="#fff" fill-opacity="0.84" height="32.88" width="15.369"/>
+   <rect x="37.02" rx="1.464" ry="0" y="35.712" fill="#fff" fill-opacity="0.786" height="31.643" width="21.244"/>
+   <rect x="15.63" rx="1.522" ry="0" y="13.954" fill="#fff" fill-opacity="0.824" height="20.911" width="22.1"/>
+   <rect x="14.669" rx="0.261" ry="0" y="25.13" fill="#fff" fill-opacity="0.93" height="9.763" width="3.789"/>
+   <rect x="15.63" rx="1.522" ry="0" y="10.08" height="21.04" width="22.1"/>
+   <rect x="77.5" rx="0.248" ry="0" y="25.11" fill="#fff" fill-opacity="0.947" height="9.794" width="3.593"/>
+   <rect x="58.26" rx="1.522" ry="0" y="14.329" fill="#fff" fill-opacity="0.834" height="20.558" width="22.1"/>
+   <rect x="36.843" rx="1.498" ry="0" y="30.585" height="31.643" width="21.744"/>
+   <rect x="58.23" rx="1.522" ry="0" y="10.168" height="21.302" width="22.1"/>
+   <rect x="56.33" rx="1.063" ry="0" y="46.974" height="32.527" width="15.431"/>
+   <rect x="23.03" rx="1.059" ry="0" y="46.37" height="32.88" width="15.369"/>
+   <use xlink:href="#SVGCleanerId_1"/>
+   <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+   <use xlink:href="#SVGCleanerId_3"/>
+   <g transform="matrix(-1 0 0 1.4841 59.54 31.29)">
+    <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_1"/>
+    <use xlink:href="#SVGCleanerId_2" transform="matrix(-1 0 0 1 0 0)"/>
+    <use xlink:href="#SVGCleanerId_3"/>
+   </g>
   </g>
+  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1 0 0 1 98 0)"/>
+ </g>
 </svg>

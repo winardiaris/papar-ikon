@@ -1,142 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg11037"
-   height="96"
-   width="96"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="monodoc-browser.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview44683" />
-  <defs
-     id="defs11039">
-    <clipPath
-       id="clipPath3009"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path3011"
-         style="opacity:.15;fill:#fff"
-         d="m-2 956.36h-96v33.562l96 25.687v-59.25z" />
-    </clipPath>
-    <clipPath
-       id="clipPath3849"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect3851"
-         style="fill:url(#radialGradient3853)"
-         rx="6"
-         ry="6"
-         height="84"
-         width="84"
-         y="6"
-         x="6" />
-    </clipPath>
-    <radialGradient
-       id="radialGradient3074"
-       gradientUnits="userSpaceOnUse"
-       cx="32.58"
-       cy="46.61"
-       r="34.269"
-       gradientTransform="matrix(.78226 1.3549 -1.7089 .98666 91.499 -54.568)">
-      <stop
-         id="stop3857"
-         style="stop-color:#fff"
-         offset="0" />
-      <stop
-         id="stop3859"
-         style="stop-color:#aaaaa7"
-         offset="1" />
-    </radialGradient>
-    <radialGradient
-       id="radialGradient3055-4"
-       gradientUnits="userSpaceOnUse"
-       cx="52.988"
-       cy="85.095"
-       r="42"
-       gradientTransform="matrix(1.4264 0 0 1.781 -20.078 896.26)">
-      <stop
-         id="stop3690-6"
-         style="stop-color:#7e8388"
-         offset="0" />
-      <stop
-         id="stop3692-3"
-         style="stop-color:#3d424a"
-         offset="1" />
-    </radialGradient>
-    <clipPath
-       id="clipPath3086"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect3088"
-         style="opacity:.6"
-         rx="25"
-         ry="25"
-         height="92"
-         width="92"
-         y="958.36"
-         x="2" />
-    </clipPath>
-  </defs>
-  <metadata
-     id="metadata11042">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(0 -956.36)">
-    <rect
-       id="rect2419-3"
-       style="fill:url(#radialGradient3055-4)"
-       clip-path="url(#clipPath3086)"
-       rx="6.8571"
-       ry="6.8571"
-       height="96"
-       width="96"
-       y="956.36"
-       x="0" />
-    <path
-       id="path3062"
-       style="fill:url(#radialGradient3074)"
-       d="m42.586 14.565c-1.1237 0.0034-2.11 0.06887-2.9794 0.15961-3.0067 0.31384-6.1135 1.0242-7.0761 1.6493-0.27131 0.17619 1.6626 0.66295 5.0012 1.2769 2.9971 0.55115 5.1692 1.0533 4.8415 1.1173-0.32768 0.06402-4.9995-0.42073-10.428-1.1173-9.53-1.2229-9.9238-1.2924-10.588-0.69165-1.3839 1.2525-3.3675 4.7123-3.7775 6.5441-0.39689 1.7735-0.35098 1.9727 0.53204 3.7775 1.5051 3.0763 4.2723 5.2915 10.641 8.5126 3.0114 1.5231 5.4096 2.837 5.3204 2.9262-0.08922 0.08925-2.641-0.86614-5.6928-2.1282l-5.5332-2.2878-8.1402 2.2878c-4.4782 1.2532-8.5195 2.2878-8.7033 2.2878l-0.12939 51.766h7.2366c0-0.53414 17.872-22.267 18.249-22.185 0.21518 0.04655 8.1788 3.4579 17.717 7.5549 16.29 6.9972 17.383 7.4003 17.823 6.8101 0.66613-0.89264 2.9895-5.6861 4.2031-8.7254l1.0109-2.5538-1.7557-0.95767c-2.4582-1.3443-6.0421-4.3449-8.2998-6.9165-2.0602-2.3466-5.7992-8.0393-5.7992-8.8318 0-0.26233 1.217 0.94011 2.6602 2.6602 4.0537 4.8315 13.406 12.408 13.993 11.332 0.69614-1.2767 1.1396-5.0497 1.1173-9.4171-0.02723-5.3317-0.77174-9.487-2.607-15.216l-1.0109-3.1922-5.0544-1.5961-6.2248-1.9685c-2.1967-0.69056-0.87504-0.66493 2.341 0.05319 3.8453 0.85866 7.7965 1.6109 10.215 1.9153 2.1295 0.26804 2.5921-0.18383 2.8198-2.5538 0.29-3.023-1.651-11.382-3.619-15.537-0.785-1.658-1.141-1.993-2.713-2.713-4.579-2.096-17.725-4.068-25.591-4.044z"
-       clip-path="url(#clipPath3849)"
-       transform="matrix(.94839 0 0 .94839 -3.6903 947.01)" />
-    <rect
-       id="rect3003"
-       style="opacity:.15;fill:#fff"
-       transform="translate(98)"
-       clip-path="url(#clipPath3009)"
-       rx="25"
-       ry="25"
-       height="92"
-       width="92"
-       y="958.36"
-       x="-96" />
-  </g>
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009">
+   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
+  </clipPath>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3849">
+   <rect x="6" rx="6" y="6" height="84" width="84"/>
+  </clipPath>
+  <radialGradient cy="46.61" r="34.27" gradientUnits="userSpaceOnUse" id="radialGradient3074" cx="32.58" gradientTransform="matrix(0.78226 1.3549 -1.7089 0.98666 91.5 -54.57)">
+   <stop stop-color="#fff"/>
+   <stop stop-color="#aaaaa7" offset="1"/>
+  </radialGradient>
+  <radialGradient cy="85.09" r="42" gradientUnits="userSpaceOnUse" id="radialGradient3055-4" cx="52.988" gradientTransform="matrix(1.4264 0 0 1.781 -20.08 896.26)">
+   <stop stop-color="#7e8388"/>
+   <stop stop-color="#3d424a" offset="1"/>
+  </radialGradient>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3086">
+   <rect x="2" rx="25" y="958.36" height="92" width="92"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <rect rx="6.857" y="956.36" clip-path="url(#clipPath3086)" fill="url(#radialGradient3055-4)" height="96" width="96"/>
+  <path d="m42.586 14.565c-1.1237 0.0034-2.11 0.06887-2.9794 0.15961-3.0067 0.31384-6.1135 1.0242-7.0761 1.6493-0.27131 0.17619 1.6626 0.66295 5.0012 1.2769 2.9971 0.55115 5.1692 1.0533 4.8415 1.1173-0.32768 0.06402-4.9995-0.42073-10.428-1.1173-9.53-1.2229-9.9238-1.2924-10.588-0.69165-1.3839 1.2525-3.3675 4.7123-3.7775 6.5441-0.39689 1.7735-0.35098 1.9727 0.53204 3.7775 1.5051 3.0763 4.2723 5.2915 10.641 8.5126 3.0114 1.5231 5.4096 2.837 5.3204 2.9262-0.08922 0.08925-2.641-0.86614-5.6928-2.1282l-5.5332-2.2878-8.1402 2.2878c-4.4782 1.2532-8.5195 2.2878-8.7033 2.2878l-0.12939 51.766h7.2366c0-0.53414 17.872-22.267 18.249-22.185 0.21518 0.04655 8.1788 3.4579 17.717 7.5549 16.29 6.9972 17.383 7.4003 17.823 6.8101 0.66613-0.89264 2.9895-5.6861 4.2031-8.7254l1.0109-2.5538-1.7557-0.95767c-2.4582-1.3443-6.0421-4.3449-8.2998-6.9165-2.0602-2.3466-5.7992-8.0393-5.7992-8.8318 0-0.26233 1.217 0.94011 2.6602 2.6602 4.0537 4.8315 13.406 12.408 13.993 11.332 0.69614-1.2767 1.1396-5.0497 1.1173-9.4171-0.02723-5.3317-0.77174-9.487-2.607-15.216l-1.0109-3.1922-5.0544-1.5961-6.2248-1.9685c-2.1967-0.69056-0.87504-0.66493 2.341 0.05319 3.8453 0.85866 7.7965 1.6109 10.215 1.9153 2.1295 0.26804 2.5921-0.18383 2.8198-2.5538 0.29-3.023-1.651-11.382-3.619-15.537-0.785-1.658-1.141-1.993-2.713-2.713-4.579-2.096-17.725-4.068-25.591-4.044z" clip-path="url(#clipPath3849)" fill="url(#radialGradient3074)" transform="matrix(0.94839 0 0 0.94839 -3.69 947.01)"/>
+  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1 0 0 1 98 0)"/>
+ </g>
 </svg>

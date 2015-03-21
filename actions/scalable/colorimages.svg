@@ -1,68 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3381"
-   height="48"
-   width="48"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="colorimages.svg">
-  <defs
-     id="defs1144" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview1142" />
-  <metadata
-     id="metadata3386">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-364.57 -499.79)">
-    <path
-       id="path2991"
-       style="stroke:#000;fill:none"
-       d="m41.137 23.914c0 8.2369-7.1941 14.914-16.068 14.914-8.8744 0-16.068-6.6773-16.068-14.914 0-8.2369 7.1941-14.914 16.068-14.914 8.8744 0 16.068 6.6773 16.068 14.914z"
-       transform="matrix(.93674 0 0 1.0089 365.14 499.71)" />
-    <path
-       id="path3980"
-       style="fill:#f00;fill-rule:evenodd"
-       d="m21.744 18.169a3.7565 3.7565 0 1 1 -7.513 0 3.7565 3.7565 0 1 1 7.513 0z"
-       transform="matrix(1.2824 0 0 1.2824 360.64 497.14)" />
-    <path
-       id="path3982"
-       style="fill:#00f;fill-rule:evenodd"
-       d="m21.744 18.169a3.7565 3.7565 0 1 1 -7.513 0 3.7565 3.7565 0 1 1 7.513 0z"
-       transform="matrix(1.3059 0 0 1.3059 370.19 496.62)" />
-    <path
-       id="path3984"
-       style="fill:#ffd42a;fill-rule:evenodd"
-       d="m21.744 18.169a3.7565 3.7565 0 1 1 -7.513 0 3.7565 3.7565 0 1 1 7.513 0z"
-       transform="matrix(1.2353 0 0 1.2353 366.53 506.03)" />
-  </g>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <path d="m21.744 18.169a3.7565 3.7565 0 1 1 -7.513 0 3.7565 3.7565 0 1 1 7.513 0z" fill-rule="evenodd" id="SVGCleanerId_0"/>
+ </defs>
+ <path d="m41.137 23.914c0 8.2369-7.1941 14.914-16.068 14.914-8.8744 0-16.068-6.6773-16.068-14.914 0-8.2369 7.1941-14.914 16.068-14.914 8.8744 0 16.068 6.6773 16.068 14.914z" fill="none" stroke="#000" transform="matrix(0.93674 0 0 1.0089 0.57 -0.08)"/>
+ <use xlink:href="#SVGCleanerId_0" fill="#f00" transform="matrix(1.2824 0 0 1.2824 -3.93 -2.65)"/>
+ <use xlink:href="#SVGCleanerId_0" fill="#00f" transform="matrix(1.3059 0 0 1.3059 5.62 -3.17)"/>
+ <use xlink:href="#SVGCleanerId_0" fill="#ffd42a" transform="matrix(1.2353 0 0 1.2353 1.96 6.24)"/>
 </svg>
