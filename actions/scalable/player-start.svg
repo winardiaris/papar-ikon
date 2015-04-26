@@ -1,3 +1,1 @@
-<svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path d="m 17.453314,3.204626 a 0.76187689,0.86268218 0 0 1 0.711184,0.8692243 l 0,13.4334677 a 0.76187689,0.86268218 0 0 1 -1.145796,0.750693 l -9.8116993,-6.413822 0,4.846584 c 0,0.466958 -0.3759263,0.842885 -0.8428842,0.842885 l -1.6857684,0 c -0.4669579,0 -0.8428843,-0.375927 -0.8428843,-0.842885 l 0,-11.8003786 c 0,-0.4669578 0.3759264,-0.8428842 0.8428843,-0.8428842 l 1.6857684,0 c 0.4669579,0 0.8428842,0.3759264 0.8428842,0.8428842 l 0,4.8465843 9.8116993,-6.4138221 A 0.76187689,0.86268218 0 0 1 17.453314,3.204626 z" stroke-width="2" display="inline" fill="#4d4d4d" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" opacity="1" visibility="visible" inkscape:connector-curvature="0"/>
-</svg>
+player_start.svg

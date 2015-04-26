@@ -84,7 +84,7 @@
        id="g3092"
        transform="matrix(0.87634099,0,0,0.87634099,0.98927211,4.4882601)">
       <path
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 8.5,11.874521 C 8.5,12.522552 8.0604763,13 7.5000004,13 6.9356517,13 6.5,12.526117 6.5,11.874523 6.5,10.98275 7.4999997,10 7.4999997,10 7.4999997,10 8.5,10.983027 8.5,11.874521 z"
          id="path3878"
          inkscape:connector-curvature="0"
@@ -94,11 +94,11 @@
          inkscape:connector-curvature="0"
          id="path3901"
          d="M 7.5,0 C 5.164201,0 3.253781,1.785153 3.03125,4.0625 1.877066,4.283877 1,5.281256 1,6.5 1,7.880712 2.119288,9 3.5,9 l 4,0 4,0 C 13.432997,9 15,7.432997 15,5.5 15,3.567003 13.432997,2 11.5,2 11.41568,2 11.332827,2.02539 11.25,2.03125 10.446562,0.802689 9.077518,0 7.5,0 z"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          id="path3085"
          d="M 6.96875,-5.0045449 C 3.6800742,-4.9850098 1,-2.2973651 1,0.99545506 1,1.9869026 1.2274277,2.9200538 1.65625,3.7454551 1.8281384,3.6396601 2.0007752,3.5459821 2.1875,3.4642051 2.2822718,2.9851286 2.4493497,2.5489598 2.65625,2.1204551 2.5628783,1.758166 2.5,1.3878222 2.5,0.99545506 c 0,-1.9849083 1.2864763,-3.58597816 3.0625,-4.18749996 -0.1900434,0.5321346 -0.3125,1.0881198 -0.3125,1.6875 0,0.331316 0.034256,0.65481376 0.09375,0.96874996 0.4590553,-0.2061437 0.9506151,-0.3384289 1.46875,-0.40625 C 6.7840541,-1.1292046 6.75,-1.3091012 6.75,-1.5045449 c 0,-0.8556545 0.3123457,-1.6362376 0.8125,-2.28125 l 0.9375,-1.21875 -1.53125,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          inkscape:connector-curvature="0" />
     </g>
   </g>

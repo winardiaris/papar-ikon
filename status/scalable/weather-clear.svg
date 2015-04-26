@@ -80,7 +80,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 36.625,0 c 0,0 -0.157901,2.7769489 -0.875,3.125 -0.717099,0.3480511 -2.9375,-1.375 -2.9375,-1.375 0,0 1.303876,2.5373311 0.8125,3.15625 -0.491376,0.6189189 -3.25,0.28125 -3.25,0.28125 0,0 2.325974,1.4730732 2.28125,2.3125 C 32.611526,8.3394268 30,9.375 30,9.375 c 0,0 2.750221,0.1846294 3.125,0.875 0.374779,0.690371 -1.375,2.9375 -1.375,2.9375 0,0 2.510603,-1.303876 3.15625,-0.8125 0.645647,0.491376 0.28125,3.25 0.28125,3.25 0,0 1.446345,-2.352704 2.3125,-2.28125 C 38.366155,13.415202 39.375,16 39.375,16 c 0,0 0.104445,-2.776949 0.875,-3.125 0.770555,-0.348051 2.9375,1.375 2.9375,1.375 0,0 -1.330604,-2.510603 -0.8125,-3.15625 0.518104,-0.645647 3.25,-0.28125 3.25,-0.28125 0,0 -2.325979,-1.5799856 -2.28125,-2.3125 C 43.388474,7.7674856 46,6.625 46,6.625 46,6.625 43.223051,6.4938271 42.875,5.75 42.526949,5.0061729 44.25,2.8125 44.25,2.8125 c 0,0 -2.590787,1.2504196 -3.15625,0.8125 -0.565463,-0.4379196 -0.28125,-3.25 -0.28125,-3.25 0,0 -1.526529,2.3527018 -2.3125,2.28125 C 37.714029,2.5847981 36.625,0 36.625,0 z"
        id="path4639"
        inkscape:connector-curvature="0" />
@@ -98,7 +98,7 @@
        sodipodi:cx="8"
        sodipodi:sides="12"
        id="path3084"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="star" />
     <path
        style="color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"

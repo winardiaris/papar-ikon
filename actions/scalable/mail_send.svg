@@ -1,7 +1,1 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g transform="matrix(1 0 0 1 -326 -534.36)">
-  <path d="m6 3v1h13.537l-7.537 7.537-6-5.9999v1.4141l3.0234 3.0254-3.0234 3.0234v1.414l3.7305-3.73 2.2695 2.267 2.27-2.267 6.267 6.267 0.463 0.463v0.586h-15v1h16v-0.586-0.414-1-14h-0.049-0.951-15zm14.951 1h0.049v12l-6.023-6.0234 5.974-5.9766z" fill="#4d4d4d" transform="matrix(1 0 0 1 326 534.36)"/>
-  <rect x="326" y="543.36" fill="#4d4d4d" height="1" width="5"/>
-  <rect x="328" y="546.36" fill="#4d4d4d" height="1" width="3"/>
- </g>
-</svg>
+mail-send.svg

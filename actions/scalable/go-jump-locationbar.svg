@@ -1,6 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g display="inline" inkscape:label="Arrow" inkscape:groupmode="layer">
-  <path d="M 5.7501199,2 11.21887,7.5 5.7501199,13 l -2.125,-2.125 1.875,-1.875 -4.5,0 0,-3 4.5,0 -1.875,-1.875 z" stroke-width="0.8" fill="#4d4d4d" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" sodipodi:nodetypes="cccccccccc" inkscape:connector-curvature="0"/>
-  <path d="m 13.53125,6.51585 c 0.543531,0 0.98415,0.4406189 0.98415,0.98415 0,0.5435311 -0.440619,0.98415 -0.98415,0.98415 -0.543531,0 -0.98415,-0.4406189 -0.98415,-0.98415 0,-0.5435311 0.440619,-0.98415 0.98415,-0.98415 z" stroke-width="0.8" fill="#4d4d4d" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" sodipodi:nodetypes="sssss" inkscape:connector-curvature="0"/>
- </g>
-</svg>
+go-jump.svg

@@ -1,3 +1,22 @@
-<svg viewBox="0 0 16 16.0176" height="16.02" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path stroke="none" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" color="#000000" stroke-miterlimit="4" stroke-opacity="1" color-interpolation="sRGB" image-rendering="auto" stroke-width="1" color-interpolation-filters="linearRGB" color-rendering="auto" d="M 3 2.0175781 L 3 4.109375 C 2.4180774 4.3153807 2 4.8633379 2 5.5175781 C 2 6.1718183 2.4180774 6.7197755 3 6.9257812 L 3 14.017578 L 4 14.017578 L 4 6.9257812 C 4.5819226 6.7197755 5 6.1718183 5 5.5175781 C 5 4.8633379 4.5819226 4.3153807 4 4.109375 L 4 2.0175781 L 3 2.0175781 z M 9 2.0175781 L 9 3.109375 C 8.4180774 3.3153807 8 3.8633379 8 4.5175781 C 8 5.1718183 8.4180774 5.7197755 9 5.9257812 L 9 8.0175781 L 10 8.0175781 L 10 5.9257812 C 10.581922 5.7197755 11 5.1718183 11 4.5175781 C 11 3.8633379 10.581922 3.3153807 10 3.109375 L 10 2.0175781 L 9 2.0175781 z M 12 2.0175781 L 12 8.109375 C 11.418077 8.3153807 11 8.8633382 11 9.5175781 C 11 10.171818 11.418077 10.719776 12 10.925781 L 12 14.017578 L 13 14.017578 L 13 10.925781 C 13.581923 10.719776 14 10.171818 14 9.5175781 C 14 8.8633382 13.581923 8.3153807 13 8.109375 L 13 2.0175781 L 12 2.0175781 z M 9.5 4.0175781 C 9.777 4.0175781 10 4.2405781 10 4.5175781 C 10 4.7945781 9.777 5.0175781 9.5 5.0175781 C 9.223 5.0175781 9 4.7945781 9 4.5175781 C 9 4.2405781 9.223 4.0175781 9.5 4.0175781 z M 3.5 5.0175781 C 3.777 5.0175781 4 5.2405781 4 5.5175781 C 4 5.7945781 3.777 6.0175781 3.5 6.0175781 C 3.223 6.0175781 3 5.7945781 3 5.5175781 C 3 5.2405781 3.223 5.0175781 3.5 5.0175781 z M 6 8.0175781 L 6 10.109375 C 5.4180774 10.315381 5 10.863338 5 11.517578 C 5 12.171818 5.4180774 12.719776 6 12.925781 L 6 14.017578 L 7 14.017578 L 7 12.925781 C 7.5819226 12.719776 8 12.171818 8 11.517578 C 8 10.863338 7.5819226 10.315381 7 10.109375 L 7 8.0175781 L 6 8.0175781 z M 12.5 9.0175781 C 12.777 9.0175781 13 9.2405781 13 9.5175781 C 13 9.7945781 12.777 10.017578 12.5 10.017578 C 12.223 10.017578 12 9.7945781 12 9.5175781 C 12 9.2405781 12.223 9.0175781 12.5 9.0175781 z M 6.5 11.017578 C 6.777 11.017578 7 11.240578 7 11.517578 C 7 11.794578 6.777 12.017578 6.5 12.017578 C 6.223 12.017578 6 11.794578 6 11.517578 C 6 11.240578 6.223 11.017578 6.5 11.017578 z " text-rendering="auto" display="inline" visibility="visible" fill="#bebebe" fill-opacity="1" opacity="1" fill-rule="nonzero" shape-rendering="auto"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-505 19.003)">
+  <path id="path6807" style="fill:#666666;fill-rule:evenodd" d="m513-16c-1.5508 0.0151-3.1121 0.36936-4.4629 1.1348-0.5384 0.35062-1.1848 0.80348-1.6719 1.2598-0.76649 0.75042-1.4225 1.626-1.8652 2.6055 1.2149 2.6796 3.8859 4.6435 6.8242 4.9336 1.9274 0.21811 3.9444-0.11491 5.6387-1.0684 0.5384-0.35062 1.1848-0.80348 1.6719-1.2598 0.76649-0.75042 1.4225-1.626 1.8652-2.6055-1.215-2.6794-3.8858-4.6438-6.8242-4.9336-0.38988-0.04547-0.78329-0.06642-1.1758-0.06641zm0 2c1.607-0.0356 3.0303 1.4018 3 3 0.0515 1.7664-1.709 3.2909-3.4492 2.9609-1.7576-0.20634-2.9921-2.1778-2.4141-3.8477 0.36916-1.2294 1.5758-2.1286 2.8633-2.1133zm0 2a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1z"/>
+ </g>
 </svg>

@@ -1,3 +1,22 @@
-<svg viewBox="0 0 16 16" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path stroke="none" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" color="#000000" stroke-miterlimit="4" stroke-opacity="1" color-interpolation="sRGB" image-rendering="auto" stroke-width="1" color-interpolation-filters="linearRGB" color-rendering="auto" d="M 2 2 L 2 3 L 2 8 L 3 8 L 3 3 L 13 3 L 13 9.2929688 L 9.7070312 6 L 9.6992188 6.0078125 L 9.6933594 6 L 7.3476562 8.3476562 L 8.0546875 9.0546875 L 9.7011719 7.4082031 L 13 10.707031 L 13 13 L 8 13 L 8 14 L 14 14 L 14 13 L 14 11.707031 L 14 10.292969 L 14 2 L 3 2 L 2 2 z M 5.5 4 C 4.669 4 4 4.6690001 4 5.5 C 4 6.331 4.669 7 5.5 7 C 6.331 7 7 6.331 7 5.5 C 7 4.6690001 6.331 4 5.5 4 z M 5.5 5 C 5.777 5 6 5.223 6 5.5 C 6 5.777 5.777 6 5.5 6 C 5.223 6 5 5.777 5 5.5 C 5 5.223 5.223 5 5.5 5 z M 2 9 L 2 10 L 7 10 L 7 9 L 2 9 z M 2 11 L 2 12 L 7 12 L 7 11 L 2 11 z M 2 13 L 2 14 L 7 14 L 7 13 L 2 13 z " text-rendering="auto" display="inline" visibility="visible" fill="#bebebe" fill-opacity="1" opacity="1" fill-rule="nonzero" shape-rendering="auto"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-405 -80.997)">
+  <path id="rect5238-4" style="color:#bebebe;enable-background:accumulate;fill:#666666" d="m410 83-1 1h-1c-2 0-2 2-2 2v7c0 2 2 2 2 2h10c2 0 2-2 2-2v-7c0-2-2-2-2-2h-1l-1-1zm3 3c1.6568 0 3 1.3432 3 3s-1.3432 3-3 3-3-1.3432-3-3 1.3432-3 3-3z"/>
+ </g>
 </svg>

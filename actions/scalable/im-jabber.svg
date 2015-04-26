@@ -1,4 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path d="m12 4v0.002c-2.9996 0-4.5 1.9861-4.5 4.3984 0 2.5996 2.914 7.5996 2.914 7.5996l3.172-0.004s2.914-4.996 2.914-7.5956c0-2.4122-1.5-4.4004-4.5-4.4004zm0 1.002c2.334 0 3.5 1.6557 3.5 3.666 0 2.166-2.266 6.33-2.266 6.33l-2.468 0.004s-2.266-4.168-2.266-6.334c0-2.0103 1.167-3.6641 3.5-3.6641v-0.0019z" fill="#4d4d4d" transform="matrix(1 0 0 1 0 0)"/>
- <path d="m10 17v1.5c0 0.831 0.669 1.5 1.5 1.5h1c0.831 0 1.5-0.669 1.5-1.5v-1.5h-1.5-1-1.5z" fill="#4d4d4d" transform="matrix(1 0 0 1 0 0)"/>
-</svg>
+games-hint.svg

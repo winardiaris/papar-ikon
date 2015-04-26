@@ -1,70 +1,12 @@
 <svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs>
-  <linearGradient id="linearGradient3688-2">
-   <stop/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <radialGradient cy="43.5" r="2.5" xlink:href="#linearGradient3688-2" gradientUnits="userSpaceOnUse" id="radialGradient3071" cx="4.993" gradientTransform="matrix(2.0038 0 0 1.4 27.988 -17.4)"/>
-  <radialGradient cy="43.5" r="2.5" xlink:href="#linearGradient3688-2" gradientUnits="userSpaceOnUse" id="radialGradient3073" cx="4.993" gradientTransform="matrix(2.0038 0 0 1.4 -20.01 -104.4)"/>
-  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3151">
-   <rect x="-143.62" rx="29.07" y="-5.787" height="106.96" width="106.96"/>
-  </clipPath>
-  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009-1">
-   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
-  </clipPath>
-  <filter x="-0.112" y="-0.129" height="1.258" id="filter3979" width="1.224">
-   <feGaussianBlur stdDeviation="2.5974"/>
-  </filter>
-  <linearGradient x2="0" y1="47.03" y2="39.999" gradientUnits="userSpaceOnUse" id="linearGradient4040">
-   <stop stop-opacity="0"/>
-   <stop offset="0.5"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <radialGradient cy="13.195" r="20" gradientUnits="userSpaceOnUse" id="radialGradient4042" cx="12.01" gradientTransform="matrix(0 1.6801 -2.4235 0 51.25 962.75)">
-   <stop stop-color="#f89b7e"/>
-   <stop stop-color="#e35d4f" offset="0.262"/>
-   <stop stop-color="#c6262e" offset="0.661"/>
-   <stop stop-color="#690b2c" offset="1"/>
-  </radialGradient>
-  <linearGradient x2="0" y1="44" y2="3.899" gradientUnits="userSpaceOnUse" id="linearGradient4044" gradientTransform="matrix(1 0 0 1 6.773 969.65)">
-   <stop stop-color="#791235"/>
-   <stop stop-color="#dd3b27" offset="1"/>
-  </linearGradient>
-  <linearGradient x2="0" y1="3.981" y2="44.02" gradientUnits="userSpaceOnUse" id="linearGradient4046" gradientTransform="matrix(1 0 0 1 6.773 969.65)">
-   <stop stop-color="#fff"/>
-   <stop stop-color="#dcdcdc" offset="1"/>
-  </linearGradient>
-  <linearGradient x2="0" y1="5" y2="43" gradientUnits="userSpaceOnUse" id="linearGradient4048" gradientTransform="matrix(1 0 0 1 6.773 969.65)">
-   <stop stop-color="#fff"/>
-   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
-  </linearGradient>
   <path d="m65.43 47.529c0 12.426-10.073 22.499-22.499 22.499s-22.499-10.073-22.499-22.499 10.073-22.499 22.499-22.499 22.499 10.073 22.499 22.499z" stroke-width="11.554" fill="none" stroke="#000" id="SVGCleanerId_0"/>
   <path d="m75.511 24.695h0.5281v48.289h-0.528z" stroke-width="9.397" fill="#a00" stroke="#f00" id="SVGCleanerId_1" stroke-linecap="round" stroke-linejoin="round"/>
  </defs>
- <g clip-path="url(#clipPath3151)" transform="matrix(0.86011 0 0 0.86011 125.78 6.73)">
-  <g transform="matrix(2.9067 0 0 2.9067 -179.87 -2841.7)">
-   <g opacity="0.4" transform="matrix(1.15786 0 0 0.57142 2.983 987.82)">
-    <rect x="38" y="40" fill="url(#radialGradient3071)" height="7" width="5"/>
-    <rect x="-10" y="-47" fill="url(#radialGradient3073)" height="7" width="5" transform="matrix(-1 0 0 -1 0 0)"/>
-    <rect x="10" y="40" fill="url(#linearGradient4040)" height="7" width="28"/>
-   </g>
-   <rect x="11.273" rx="2.232" y="974.15" fill="url(#radialGradient4042)" stroke="url(#linearGradient4044)" height="39" width="39" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m34.585 974.65c-12.952 11.131-20.351 12.702-22.812 12.875v4c1.8577-0.25977 6.5271-1.1618 11.5-4.2812 6.3767-4 14-11.594 14-11.594-2.0908 4.1074-2.6996 18.271-2.74 37h13.365c1.0464 0 1.875-0.8286 1.875-1.875-2.4777-5.1179-4.0969-12.517-5.3125-19.125-1.0375-7.885 0.4945-14.779 1.0625-17h-10.938zm-22.812 19.394v4.4302c5.3772 0 13.644 6.4622 17.643 14.176h3.359c-1.879-7.0127-16.899-18.606-21.002-18.606z" fill="url(#linearGradient4046)" fill-rule="evenodd"/>
-   <path d="m11.773 994.65s30 4.5 39-5v-13.018c0-1.6013-0.71416-2.9643-2.9821-2.9643 0 0-21.018 13.839-36.018 12.411v8.5714z" fill-rule="evenodd" opacity="0.15"/>
-   <path d="m50.773 998.65c-3.6296 3.2222-8.0847 9.588-11.209 15.033l-3.9112-0.027c3.6497-7.655 9.5514-15.174 15.12-20.506v5.5z" fill-rule="evenodd" opacity="0.15"/>
-   <rect x="12.273" rx="1.365" y="975.15" fill="none" stroke="url(#linearGradient4048)" height="37" opacity="0.4" width="37" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+ <rect x="8" rx="10.769" y="8" fill="#1589ea" fill-opacity="1" stroke="none" height="80" width="80"/>
+ <g transform="matrix(0.68097 0 0 0.68097 6.57 9.412)">
+  <use xlink:href="#SVGCleanerId_0" height="96" width="96"/>
+  <use xlink:href="#SVGCleanerId_1" height="96" width="96"/>
  </g>
- <rect x="-101.25" rx="14.13" y="978.36" fill="#fff" height="52" opacity="0.6" width="52" transform="matrix(1 0 0 1 123.25 -956.36)"/>
- <g transform="matrix(0.5795 0 0 0.5795 -65.46 -2.63)">
-  <g filter="url(#filter3979)" transform="matrix(1.1751 0 0 1.1751 139.74 30.607)">
-   <use xlink:href="#SVGCleanerId_0"/>
-   <use xlink:href="#SVGCleanerId_1"/>
-  </g>
-  <g transform="matrix(1.1751 0 0 1.1751 139.74 30.607)">
-   <use xlink:href="#SVGCleanerId_0"/>
-   <use xlink:href="#SVGCleanerId_1"/>
-  </g>
-  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009-1)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1.7256 0 0 1.7256 282.07 -1645.8)"/>
- </g>
+ <path d="m 73.815509,51.654001 c -0.589649,-1.57e-4 -1.668393,1.12865 -1.668393,1.12865 l -1.668323,1.668324 10.01017,10.009945 1.668456,-1.668481 c 0,0 1.128642,-1.128494 1.128647,-1.717471 2.2e-5,-0.589762 -1.128651,-1.619177 -1.128651,-1.619177 l -6.673516,-6.673296 c 0,0 -1.079221,-1.128651 -1.66839,-1.128494 z m -4.465167,3.925311 -16.064928,16.064587 -9.7e-5,10.010102 10.010156,0 16.064982,-16.064588 z" fill="white" fill-opacity="1" fill-rule="nonzero" stroke="none" sodipodi:nodetypes="ccccccccccccccc" inkscape:connector-curvature="0"/>
 </svg>

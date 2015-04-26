@@ -5,6 +5,6 @@
    <stop stop-color="#f5f5f5" offset="1"/>
   </linearGradient>
  </defs>
- <rect x="8" rx="10.769" y="-88" fill="#a70000" fill-opacity="1" stroke="none" height="80" width="80" transform="matrix(0 1 -1 0 0 0)"/>
+ <rect x="8" rx="10.769" y="-88" fill="#CF4551" fill-opacity="1" stroke="none" height="80" width="80" transform="matrix(0 1 -1 0 0 0)"/>
  <path d="m 68.000252,22.985968 v 10.058 c -10.043,0.17646 -12.511,9.9702 -12.511,9.9702 h 7.5745 v 10.058 h -11.745 c -7.064003,21.8 -23.319003,19.9 -23.319003,19.9 v -10.058 c 0,0 10.315,1.9135 15.574,-17.293 6.580003,-23.99 24.426003,-22.55 24.426003,-22.55 z" fill="url(#linearGradient3016)" inkscape:connector-curvature="0"/>
 </svg>

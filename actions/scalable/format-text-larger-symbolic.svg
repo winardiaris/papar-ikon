@@ -1,3 +1,22 @@
-<svg viewBox="0 0 16 16" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path stroke-opacity="1" d="m 12.671875,-13.273438 -5.3515625,14.5117192 10.7226565,0 -5.371094,-14.5117192 z m -2.226562,-3.886718 4.472656,0 L 26.03125,12 l -4.101563,0 -2.65625,-7.4804688 -13.1445308,0 L 3.4726563,12 -0.6875,12 10.445313,-17.160156 Z" stroke-width="1" fill="#bebebe" fill-opacity="1" stroke="none" stroke-linecap="butt" stroke-linejoin="miter" inkscape:connector-curvature="0" transform="matrix(0.41152 0 0 0.41152 2.785 9.06)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-385 -121)">
+  <path id="path6087" style="fill:#666666" d="m392 122-5 14h2.5l1.0625-3h4.875l1.0625 3h2.7812l-5.2812-14h-2zm1 4 1.75 5h-3.5l1.75-5z"/>
+ </g>
 </svg>

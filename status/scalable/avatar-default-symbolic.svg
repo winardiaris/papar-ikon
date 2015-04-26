@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,28 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
+   id="svg7384"
    style="enable-background:new"
-   id="svg2"
+   height="16"
+   width="16"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="avatar-default-symbolic.svg">
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs14" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,57 +25,45 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     id="namedview12"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="13.419664"
-     inkscape:cy="10.045018"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4145" />
-    <sodipodi:guide
-       position="0,21.999999"
-       orientation="21.999999,0"
-       id="guide4151" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,22"
-       id="guide4153" />
-    <sodipodi:guide
-       position="22,0"
-       orientation="-21.999999,0"
-       id="guide4155" />
-    <sodipodi:guide
-       position="22,21.999999"
-       orientation="0,-22"
-       id="guide4157" />
-    <sodipodi:guide
-       position="3,18.999999"
-       orientation="15.999999,0"
-       id="guide4159" />
-    <sodipodi:guide
-       position="3,3"
-       orientation="0,16"
-       id="guide4161" />
-    <sodipodi:guide
-       position="19,3"
-       orientation="-15.999999,0"
-       id="guide4163" />
-    <sodipodi:guide
-       position="19,18.999999"
-       orientation="0,-16"
-       id="guide4165" />
-  </sodipodi:namedview>
+     inkscape:window-width="704"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-1.220339"
+     inkscape:cy="8"
+     inkscape:window-x="78"
+     inkscape:window-y="102"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
   <path
-     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#424854;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 11 3 C 8.7840005 3 7 4.7840005 7 7 C 7 9.2159995 8.7840005 11 11 11 C 13.215999 11 15 9.2159995 15 7 C 15 4.7840005 13.215999 3 11 3 z M 11 4 C 12.662 4 14 5.3380004 14 7 C 14 8.6619996 12.662 10 11 10 C 9.3380004 10 8 8.6619996 8 7 C 8 5.3380004 9.3380004 4 11 4 z M 11 12 C 6.9074628 12 3.5584191 15.044327 3.0683594 19 L 4.078125 19 C 4.5619413 15.600642 7.462784 13 11 13 C 14.537216 13 17.438059 15.600642 17.921875 19 L 18.931641 19 C 18.441581 15.044327 15.092537 12 11 12 z "
-     id="rect4205" />
+     inkscape:connector-curvature="0"
+     d="M 8,2 C 9.6569,2 11,3.3432 11,5 11,6.6568 9.6569,8 8,8 6.3431,8 5,6.6568 5,5 5,3.3432 6.3431,2 8,2 Z m 0,8 c 5.9998,-0.003 5.9998,4.0034 5.9998,4.0034 l 0,1 -12,0 0,-1 c 0,0 0,-4 6.0002,-4.0034 z"
+     style="color:black;text-indent:0;text-decoration:none;text-decoration-line:none;text-transform:none;block-progression:tb;fill:#666666;enable-background:accumulate"
+     id="path6174-8" />
 </svg>

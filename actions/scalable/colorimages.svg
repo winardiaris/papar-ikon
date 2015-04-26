@@ -1,9 +1,0 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <defs>
-  <path d="m21.744 18.169a3.7565 3.7565 0 1 1 -7.513 0 3.7565 3.7565 0 1 1 7.513 0z" fill-rule="evenodd" id="SVGCleanerId_0"/>
- </defs>
- <path d="m41.137 23.914c0 8.2369-7.1941 14.914-16.068 14.914-8.8744 0-16.068-6.6773-16.068-14.914 0-8.2369 7.1941-14.914 16.068-14.914 8.8744 0 16.068 6.6773 16.068 14.914z" fill="none" stroke="#000" transform="matrix(0.93674 0 0 1.0089 0.57 -0.08)"/>
- <use xlink:href="#SVGCleanerId_0" fill="#f00" transform="matrix(1.2824 0 0 1.2824 -3.93 -2.65)"/>
- <use xlink:href="#SVGCleanerId_0" fill="#00f" transform="matrix(1.3059 0 0 1.3059 5.62 -3.17)"/>
- <use xlink:href="#SVGCleanerId_0" fill="#ffd42a" transform="matrix(1.2353 0 0 1.2353 1.96 6.24)"/>
-</svg>

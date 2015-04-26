@@ -1,53 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="dialog-error-symbolic.svg">
-  <defs
-     id="defs209174" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview209172" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer3"
-     transform="translate(-.46426 -3)">
-    <path
-       id="path3620"
-       class="error"
-       style="fill:#d40000"
-       d="m8.4643 4c-4.4183 0-8 2.9163-8 6.5312 0 2.3027 1.4592 4.3333 3.6562 5.5-0.08355 0.60818-0.4801 2.1159-2.2812 2.625 2.3328 0.25353 3.8963-0.89153 4.7188-1.75 0.61176 0.12255 1.2483 0.1875 1.9062 0.1875 4.4183 0 8-2.9475 8-6.5625s-3.5817-6.5312-8-6.5312zm-2 2.5 2 2 2-2 2 2-2 2 2 2-2 2-2-2-2 2-2-2 2-2-2-2 2-2z" />
-  </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-565 355)">
+  <path id="path24" d="m573-354c-3.866 0-7 3.1341-7 7 0 3.866 3.134 7 7 7s7-3.134 7-7c0-3.8659-3.134-7-7-7zm-1 2h2v6.0039h-2v-6.0039zm0 8.0039h2v1.9961h-2v-1.9961z" style="fill:#e74c3c" class="error"/>
+ </g>
 </svg>

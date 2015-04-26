@@ -80,13 +80,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 7.5,0 C 5.164201,0 3.253781,1.785153 3.03125,4.0625 1.877066,4.283877 1,5.281256 1,6.5 1,7.880712 2.119288,9 3.5,9 l 4,0 4,0 C 13.432997,9 15,7.432997 15,5.5 15,3.567003 13.432997,2 11.5,2 11.41568,2 11.332827,2.02539 11.25,2.03125 10.446562,0.802689 9.077518,0 7.5,0 z"
        id="path3901"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3085"
        sodipodi:cx="7.5"
        sodipodi:cy="11"
@@ -96,7 +96,7 @@
        transform="matrix(1,0,0,0.5,-0.98012683,5.2317925)" />
     <path
        sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3085-3"
        sodipodi:cx="7.5"
        sodipodi:cy="11"
@@ -106,7 +106,7 @@
        transform="matrix(1,0,0,0.5,2.9146933,7.3638087)" />
     <path
        sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3085-30"
        sodipodi:cx="7.5"
        sodipodi:cy="11"
@@ -116,7 +116,7 @@
        transform="matrix(1,0,0,0.5,-2.3774755,8.7615908)" />
     <path
        sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3085-9"
        sodipodi:cx="7.5"
        sodipodi:cy="11"
@@ -126,7 +126,7 @@
        transform="matrix(1,0,0,0.5,1.1980953,8.1934719)" />
     <path
        sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3085-7"
        sodipodi:cx="7.5"
        sodipodi:cy="11"
@@ -136,7 +136,7 @@
        transform="matrix(1,0,0,0.5,2.274658,5.165367)" />
     <path
        sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3085-38"
        sodipodi:cx="7.5"
        sodipodi:cy="11"
@@ -145,7 +145,7 @@
        d="m 8,11 a 0.5,1 0 1 1 -1,0 0.5,1 0 1 1 1,0 z"
        transform="matrix(1,0,0,0.5,-1.2800706,7.2670263)" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="rect3268"
        width="1"
        height="1"
@@ -153,7 +153,7 @@
        y="4.7206402"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="rect3268-0"
        width="1"
        height="1"
@@ -161,7 +161,7 @@
        y="0.92020732"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="rect3268-3"
        width="1"
        height="1"
@@ -169,7 +169,7 @@
        y="4.8265996"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="rect3268-30"
        width="1"
        height="1"
@@ -177,7 +177,7 @@
        y="2.3079309"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="rect3268-9"
        width="1"
        height="1"
@@ -185,7 +185,7 @@
        y="-0.95458305"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="rect3268-2"
        width="1"
        height="1"

@@ -1,25 +1,12 @@
 <svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs>
-  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009">
-   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
-  </clipPath>
-  <linearGradient x2="0" y1="6" y2="105.68" gradientUnits="userSpaceOnUse" id="linearGradient3134" gradientTransform="matrix(1.1429 0 0 1.1429 -6.857 949.51)">
-   <stop stop-color="#121212"/>
-   <stop stop-color="#9f9f9f" offset="1"/>
-  </linearGradient>
-  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3018">
-   <rect x="2" rx="25" y="958.36" height="92" width="92"/>
-  </clipPath>
   <linearGradient x1="253.75" x2="188" y1="412.83" y2="542.33" gradientUnits="userSpaceOnUse" id="linearGradient4262">
    <stop stop-color="#0084dd"/>
    <stop stop-color="#fff" offset="1"/>
   </linearGradient>
   <path d="m294.47 523.45c-9.0804 8.8134-45.575-17.77-58.101-15.977-12.527 1.7928-40.099 37.545-51.287 31.633-11.188-5.9125 2.8168-48.836-2.7592-60.195s-48.099-26.535-45.933-39.002c2.1659-12.467 47.316-12.412 56.396-21.225 9.0804-8.8134 10.372-53.945 22.899-55.738 12.527-1.7928 26.426 41.164 37.614 47.077 11.188 5.9125 54.51-6.805 60.086 4.5544s-30.984 37.853-33.149 50.321c-2.1659 12.467 23.316 49.739 14.236 58.552z" fill="url(#linearGradient4262)" stroke="#fff" id="SVGCleanerId_0"/>
  </defs>
- <g transform="matrix(1 0 0 1 0 -956.36)">
-  <rect rx="6.857" y="956.36" clip-path="url(#clipPath3018)" fill="url(#linearGradient3134)" height="96" width="96"/>
-  <use stroke-width="12.921" xlink:href="#SVGCleanerId_0" transform="matrix(0.23218 0.00136 -0.00136 0.23218 -18.979 914.87)"/>
-  <use stroke-width="18.338" xlink:href="#SVGCleanerId_0" transform="matrix(0.1274 -0.10262 0.10262 0.1274 -9.08 948.81)"/>
-  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1 0 0 1 98 0)"/>
- </g>
+ <rect x="8" rx="10.769" y="8" fill="#e6e6e6" fill-opacity="1" stroke="none" height="80" width="80"/>
+ <use stroke-width="12.921" xlink:href="#SVGCleanerId_0" height="96" width="96" transform="matrix(0.23218 0.00136 -0.00136 0.23218 -18.09 -42.04)"/>
+ <use stroke-width="18.338" xlink:href="#SVGCleanerId_0" height="96" width="96" transform="matrix(0.1274 -0.10262 0.10262 0.1274 -8.194 -8.105)"/>
 </svg>

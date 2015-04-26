@@ -1,10 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <defs>
-  <path d="m256.93 723.79-11-10.004v20l11-9.996z" id="SVGCleanerId_0"/>
- </defs>
- <g fill="#4d4d4d">
-  <rect x="9" y="-26" height="4" width="30" transform="matrix(0 1 -1 0 0 0)"/>
-  <use xlink:href="#SVGCleanerId_0" transform="matrix(1 0 0 1 -236.95 -699.79)"/>
-  <use xlink:href="#SVGCleanerId_0" transform="matrix(-1 0 0 1 284.98 -699.79)"/>
- </g>
-</svg>
+kdenlive-align-hor.svg

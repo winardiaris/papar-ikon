@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,15 +9,64 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
-   id="svg2"
+   width="24"
+   height="24"
+   id="svg27665"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="battery-000-charging.svg">
+  <defs
+     id="defs27667" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627418"
+     inkscape:cx="10.168465"
+     inkscape:cy="11.942823"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3070"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-47.999653px"
+       originy="-0.00031276823px" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata12">
+     id="metadata27670">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,79 +77,23 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
-     id="namedview8"
-     showgrid="true"
-     inkscape:zoom="17.096617"
-     inkscape:cx="0.49972403"
-     inkscape:cy="10.023413"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:showpageshadow="false"
-     borderlayer="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4201" />
-    <sodipodi:guide
-       position="0,22"
-       orientation="22,0"
-       id="guide4207" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,22"
-       id="guide4209" />
-    <sodipodi:guide
-       position="22,0"
-       orientation="-22,0"
-       id="guide4211" />
-    <sodipodi:guide
-       position="22,22"
-       orientation="0,-22"
-       id="guide4213" />
-    <sodipodi:guide
-       position="3,19"
-       orientation="16,0"
-       id="guide4215" />
-    <sodipodi:guide
-       position="3,3"
-       orientation="0,16"
-       id="guide4217" />
-    <sodipodi:guide
-       position="19,3"
-       orientation="-16,0"
-       id="guide4219" />
-    <sodipodi:guide
-       position="19,19"
-       orientation="0,-16"
-       id="guide4221" />
-  </sodipodi:namedview>
   <g
-     id="g3095"
-     transform="matrix(0,-1,1.2499988,0,-2.7499869,22)">
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3316.4171,-2092.7186)">
     <path
-       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       style="color:#000000;fill:#BFBFBF;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -3298.4168,2102.7189 -2,0 0,-3 -16,0 0,10 16,0 0,-3 2,0 z m -4,-1 0,6 -12,0 0,-6 z"
+       id="path3006"
        inkscape:connector-curvature="0"
-       style="fill:#f92d36;fill-opacity:1;stroke:none"
-       d="m 3,6.9999961 0,8.0000079 1,0 13,0 0,-0.999999 0,-1 1,0 1,0 0,-4.0000089 -1,0 -1,0 0,-1 0,-1 -1,0 -12,0 z m 1,1 12,0 0,6.0000089 -12,0 z m 13,2 1,0 0,2.0000089 -1,0 z"
-       id="rect4236" />
+       sodipodi:nodetypes="cccccccccccccc" />
     <path
+       style="fill:#b71c1c;fill-opacity:1;stroke:none"
+       d="m 19.000347,11.000313 1,2 L 19,18 l 4.000347,-4.999687 -1,-2 L 23,6 z"
+       id="rect3752"
        inkscape:connector-curvature="0"
-       id="rect4164"
-       d="m 10.000283,7.9990421 -0.544921,1 -1.455078,2.6660159 1.999999,0 0,1.333984 0,1 0.544922,-1 1.455078,-2.666015 -2,0 0,-1.3339849 0,-1 z"
-       style="text-decoration:none;color:black;fill:#f92d36;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       sodipodi:nodetypes="ccccccc"
+       transform="translate(-3316.4171,2092.7186)" />
   </g>
 </svg>

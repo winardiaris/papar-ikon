@@ -1,74 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="weather-snow-symbolic.svg">
-  <defs
-     id="defs220186" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview220184" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1">
-    <path
-       id="path3798"
-       style="color:#000000;fill:#f00"
-       d="m7.5 19c-1.4497 0-2.6874 0.869-3.2188 2.125-0.2474-0.082-0.5062-0.125-0.7812-0.125-1.3807 0-2.5 1.119-2.5 2.5s1.1193 2.5 2.5 2.5h9.5c1.1046 0 2-0.89543 2-2s-0.89543-2-2-2h-0.09375c0.054-0.154 0.094-0.327 0.094-0.5 0-0.828-0.672-1.5-1.5-1.5-0.446 0-0.85 0.191-1.125 0.5-0.632-0.91-1.6829-1.5-2.875-1.5z" />
-    <path
-       id="path3805"
-       style="color:#000000;fill:#bebebe"
-       d="m7 1c-1.8769 0-3.4437 1.2876-3.875 3.0312-1.201 0.1826-2.125 1.2169-2.125 2.4688 0 1.3807 1.1193 2.5 2.5 2.5h1.7812c0.3461-0.5969 0.9792-1 1.7188-1s1.3727 0.4031 1.7188 1h3.7812c1.381 0 2.5-1.1193 2.5-2.5 0-1.2081-0.861-2.2044-2-2.4375 0.001-0.021 0-0.0414 0-0.0625 0-1.1046-0.895-2-2-2-0.38 0-0.729 0.1286-1.0312 0.3125-0.732-0.8099-1.7912-1.3125-2.9688-1.3125z" />
-    <path
-       id="path3854"
-       d="m6 14a1 1 0 1 1 -2 0 1 1 0 1 1 2 0z"
-       style="color:#000000;fill:#bebebe"
-       transform="matrix(1.372 0 0 1.372 -.85984 -5.2075)" />
-    <path
-       id="path3856"
-       d="m6 14a1 1 0 1 1 -2 0 1 1 0 1 1 2 0z"
-       style="color:#000000;fill:#bebebe"
-       transform="matrix(1.372 0 0 1.372 3.1402 -7.2075)" />
-    <path
-       id="path3859"
-       d="m6 14a1 1 0 1 1 -2 0 1 1 0 1 1 2 0z"
-       style="color:#000000;fill:#bebebe"
-       transform="matrix(1.372 0 0 1.372 .14016 -9.2075)" />
-    <path
-       id="path3863"
-       style="color:#000000;fill:#6e6e6e"
-       d="m7-18c-1.8769 0-3.4437 1.2876-3.875 3.0312-1.201 0.183-2.125 1.217-2.125 2.469 0 1.3807 1.1193 2.5 2.5 2.5h9c1.3807 0 2.5-1.1193 2.5-2.5 0-1.2081-0.86079-2.2044-2-2.4375 0.00065-0.02096 0-0.04138 0-0.0625 0-1.1046-0.89543-2-2-2-0.37992 0-0.72874 0.12856-1.0312 0.3125-0.732-0.809-1.7912-1.312-2.9688-1.312z" />
-  </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-525 335)">
+  <path id="path6913" style="fill:#666666" d="m533-335c-2.0711 0-3.8347 1.2679-4.5938 3.0625-1.9278 0.2866-3.4062 1.9299-3.4062 3.9375 0 2.2091 1.7909 4 4 4h8.5c1.933 0 3.5-1.567 3.5-3.5 0-1.7965-1.3508-3.2687-3.0938-3.4688-0.46-2.29-2.48-4.03-4.91-4.03z"/>
+  <path id="rect6932" style="opacity:.35;fill:#666666" d="m528-323v1.1328l-0.98242-0.5664-0.5 0.86718 0.98047 0.56641-0.98047 0.56641 0.5 0.86718 0.98242-0.5664v1.1328h1v-1.1328l0.98242 0.5664 0.5-0.86718-0.98047-0.56641 0.98047-0.56641-0.5-0.86718-0.98242 0.5664v-1.1328h-1z"/>
+  <path id="path6939" style="opacity:.35;fill:#666666" d="m533-323v1.1328l-0.98242-0.5664-0.5 0.86718 0.98047 0.56641-0.98047 0.56641 0.5 0.86718 0.98242-0.5664v1.1328h1v-1.1328l0.98242 0.5664 0.5-0.86718-0.98047-0.56641 0.98047-0.56641-0.5-0.86718-0.98242 0.5664v-1.1328h-1z"/>
+  <path id="path6941" style="opacity:.35;fill:#666666" d="m538-323v1.1328l-0.98242-0.5664-0.5 0.86718 0.98047 0.56641-0.98047 0.56641 0.5 0.86718 0.98242-0.5664v1.1328h1v-1.1328l0.98242 0.5664 0.5-0.86718-0.98047-0.56641 0.98047-0.56641-0.5-0.86718-0.98242 0.5664v-1.1328h-1z"/>
+ </g>
 </svg>

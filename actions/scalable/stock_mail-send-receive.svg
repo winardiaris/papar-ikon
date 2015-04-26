@@ -1,9 +1,1 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g transform="matrix(1 0 0 1 -298 -541.36)">
-  <g transform="matrix(0.75 0 0 0.75 76.06 138.97)">
-   <path d="m332.76 541.02-0.70703-0.70703 4.9492-4.9492 4.9492 4.9492-0.70703 0.70703l-2.24-0.66 0.00001 2.5 0.00001 4.5v1h-4-0.00002v-1-4.5-2.5z" fill="#4d4d4d" transform="matrix(1 0 0 1 -24.05 3.722)"/>
-   <path d="m310.22 553.5 0.00001-2.5 0.00001-4.5v-1h-4-0.00002v1 4.5 2.5l-2.2422-0.65625-0.70703 0.70703 4.9492 4.9492 4.9492-4.9492-0.70703-0.70703z" fill="#4d4d4d"/>
-  </g>
-  <path d="m311 551.36h2.4688l3.4648 6h-2.9336l-1 2h-8l-1-2h-2.9336l3.4648-6h2.4688v-1h-1.8906-1.1543l-3.9551 6.8496v1.4609 2.6894h4 10 4v-2.6894-1.4609l-3.9551-6.8496h-0.0449-3z" fill="#4d4d4d"/>
- </g>
-</svg>
+mail-send-receive.svg

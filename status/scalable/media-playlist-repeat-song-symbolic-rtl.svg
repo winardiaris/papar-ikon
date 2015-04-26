@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-playlist-repeat-song-symbolic-rtl.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="704"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-1.220339"
+     inkscape:cy="8"
+     inkscape:window-x="78"
+     inkscape:window-y="102"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 4,3 C 2.3553,3 1,4.3553 1,6 L 1,8.6875 C 1.51709,8.04153 2.2055,7.5646 3,7.2813 L 3,6.0001 c 0,-0.5713 0.4287,-1 1,-1 l 1,0 0,-0.5 0,-1 0,-0.5 -1,0 z m 5,0 0,2 3,0 c 0.5713,0 1,0.4287 1,1 l 0,4 c 0,0.5713 -0.4287,1 -1,1 l -1,0 -0.65625,0 -1.4062,0 c 0.0187,0.16677 0.0625,0.32822 0.0625,0.5 0,0.53043 -0.11271,1.0274 -0.28125,1.5 l 1.625,0 0.65625,0 1,0 c 1.6447,0 3,-1.3553 3,-3 l 0,-4 c 0,-1.6447 -1.3553,-3 -3,-3 l -3,0 z"
+     style="color:black;text-indent:0;text-transform:none;block-progression:tb;fill:#666666"
+     id="path5096" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 6,4 4,-3 0,6 z"
+     style="fill:#666666"
+     id="path5098" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 4.5,8 C 2.567,8 1,9.567 1,11.5 1,13.433 2.567,15 4.5,15 6.433,15 8,13.433 8,11.5 8,9.567 6.433,8 4.5,8 Z M 4,9 5,9 5,14 4,14 4,10.5 3,10.5 3,10 C 4,10 4,9 4,9 Z"
+     style="color:#bebebe;fill:#666666;enable-background:accumulate"
+     id="path5102" />
+</svg>

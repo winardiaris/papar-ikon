@@ -1,28 +1,163 @@
-<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <defs>
-  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3009">
-   <path d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
-  </clipPath>
-  <radialGradient cy="-21.16" r="42" gradientUnits="userSpaceOnUse" id="radialGradient3229" cx="39.34" gradientTransform="matrix(0 3.2792 -2.92 0 -13.774 812.02)">
-   <stop stop-color="#fcb0b0"/>
-   <stop stop-color="#f86868" offset="0.2"/>
-   <stop stop-color="#a60808" offset="1"/>
-  </radialGradient>
-  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3020">
-   <rect x="2" rx="25" y="958.36" height="92" width="92"/>
-  </clipPath>
-  <filter color-interpolation-filters="sRGB" id="filter3847-2">
-   <feGaussianBlur stdDeviation="4" result="result8"/>
-   <feOffset dx="4" dy="4" result="result11"/>
-   <feComposite in="SourceGraphic" operator="in" in2="result11" result="result6"/>
-   <feFlood flood-color="rgb(0,0,0)" in="result6" result="result10"/>
-   <feBlend mode="normal" in="result6" in2="result10" result="result12"/>
-   <feComposite operator="in" in2="SourceGraphic" result="result2"/>
-  </filter>
- </defs>
- <g transform="matrix(1 0 0 1 0 -956.36)">
-  <rect rx="6.857" y="956.36" clip-path="url(#clipPath3020)" fill="url(#radialGradient3229)" height="96" width="96"/>
-  <path d="m-33.085-48.215c0.16094-1.4019 58.065-1.4557 58.197 0 2.6691 29.658 19.278 47.495 39.744 46.841 21.712-0.6994 16.262-11.488 19.872-26.614 0.6118-2.5635 46.718-1.7843 48.261 0 3.0507 3.528 2.5407 23.284-7.0972 30.873-9.0894 7.1564-33.347 4.2392-33.357 9.5812-0.01213 6.6179 50.035 23.683 50.035 67.068 0 1.3603-59.084 3.1479-59.084 0 0-23.521-24.031-51.227-47.551-51.455-31.812-0.312-28.872 27.134-32.813 29.808-2.7045 1.835-49.668 1.8442-49.68 0-0.07496-10.315 5.7283-20.169 13.485-26.969 13.079-11.467 49.781-11.198 49.68-17.743-0.11958-7.7532-53.921-24.276-49.68-61.391z" fill="#fff" filter="url(#filter3847-2)" transform="matrix(0.36105 0 0 0.36105 30.669 998.59)"/>
-  <rect x="-96" rx="25" y="958.36" clip-path="url(#clipPath3009)" fill="#fff" height="92" opacity="0.15" width="92" transform="matrix(1 0 0 1 98 0)"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="96"
+   width="96"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="brainstorming2.svg">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="-4.6779661"
+     inkscape:cy="48"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3009">
+      <path
+         d="m-2 956.36h-96v33.562l96 25.687v-59.25z"
+         id="path7" />
+    </clipPath>
+    <radialGradient
+       cy="-21.16"
+       r="42"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3229"
+       cx="39.34"
+       gradientTransform="matrix(0,3.2792,-2.92,0,-13.774,812.02)">
+      <stop
+         stop-color="#fcb0b0"
+         id="stop10" />
+      <stop
+         stop-color="#f86868"
+         offset="0.2"
+         id="stop12" />
+      <stop
+         stop-color="#a60808"
+         offset="1"
+         id="stop14" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3020">
+      <rect
+         x="2"
+         rx="25"
+         y="958.36"
+         height="92"
+         width="92"
+         id="rect17" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3847-2">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result8"
+         id="feGaussianBlur20" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="result11"
+         id="feOffset22" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result11"
+         result="result6"
+         id="feComposite24" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         in="result6"
+         result="result10"
+         id="feFlood26" />
+      <feBlend
+         mode="normal"
+         in="result6"
+         in2="result10"
+         result="result12"
+         id="feBlend28" />
+      <feComposite
+         operator="in"
+         in2="SourceGraphic"
+         result="result2"
+         id="feComposite30" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4192">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+         x="-62.782536"
+         rx="29.826895"
+         y="-94.787949"
+         height="221.57596"
+         width="221.57596"
+         id="rect4194" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4196">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+         x="8"
+         rx="10.769"
+         y="964.35999"
+         height="80"
+         width="80"
+         id="rect4198" />
+    </clipPath>
+  </defs>
+  <rect
+     x="0"
+     style="fill:#cc2e4d;fill-opacity:1"
+     id="rect34"
+     width="96"
+     height="96"
+     clip-path="url(#clipPath4196)"
+     y="956.35999"
+     rx="6.8569999"
+     transform="translate(0,-956.35999)" />
+  <path
+     style="fill:white;stroke:none;filter:url(#filter3847-2)"
+     inkscape:connector-curvature="0"
+     id="path36"
+     transform="matrix(0.30393558,0,0,0.30393558,33.409438,43.137021)"
+     d="m -33.085,-48.215 c 0.16094,-1.4019 58.065,-1.4557 58.197,0 2.6691,29.658 19.278,47.495 39.744,46.841 21.712,-0.6994 16.262,-11.488 19.872,-26.614 0.6118,-2.5635 46.718,-1.7843 48.261,0 3.0507,3.528 2.5407,23.284 -7.0972,30.873 -9.0894,7.1564 -33.347,4.2392 -33.357,9.5812 -0.01213,6.6179 50.035,23.683 50.035,67.068 0,1.3603 -59.084,3.1479 -59.084,0 0,-23.521 -24.031,-51.227 -47.551,-51.455 -31.812,-0.312 -28.872,27.134 -32.813,29.808 -2.7045,1.835 -49.668,1.8442 -49.68,0 -0.07496,-10.315 5.7283,-20.169 13.485,-26.969 13.079,-11.467 49.781,-11.198 49.68,-17.743 -0.11958,-7.7532 -53.921,-24.276 -49.68,-61.391 z"
+     clip-path="url(#clipPath4192)" />
 </svg>

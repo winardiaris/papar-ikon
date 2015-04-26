@@ -214,7 +214,7 @@
        x1="48">
       <stop
          id="stop3821"
-         style="stop-color:#969696"
+         style="stop-color:#666666"
          offset="0" />
       <stop
          id="stop3823"
@@ -1117,7 +1117,7 @@
            x="8" />
         <g
            id="text4082"
-           style="fill:#4d4d4d"
+           style="fill:#666666"
            transform="translate(0,-26)">
           <path
              id="path4110"
@@ -1150,7 +1150,7 @@
            x="8" />
         <g
            id="text4088"
-           style="fill:#4d4d4d"
+           style="fill:#666666"
            transform="translate(0,-26)">
           <path
              id="path4099"
@@ -1177,7 +1177,7 @@
            x="8" />
         <g
            id="text4094"
-           style="fill:#4d4d4d"
+           style="fill:#666666"
            transform="translate(0,-26)">
           <path
              id="path4125"

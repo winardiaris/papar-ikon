@@ -1,8 +1,1 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path d="m3 3v16h16v-16h-16zm1 1h14v14h-14v-14z" fill="#4d4d4d"/>
- <path d="m7.5 5c-1.385 0-2.5 1.115-2.5 2.5s1.115 2.5 2.5 2.5 2.5-1.115 2.5-2.5-1.115-2.5-2.5-2.5zm0 1c0.831 0 1.5 0.669 1.5 1.5s-0.669 1.5-1.5 1.5-1.5-0.669-1.5-1.5 0.669-1.5 1.5-1.5z" fill="#4d4d4d"/>
- <rect x="-7.985" rx="0" y="15.06" fill="#4d4d4d" height="1" width="6.071" transform="matrix(0.70711 -0.70711 0.70711 0.70711 0 0)"/>
- <path d="m9.3066 12l-0.707 0.707 2.0484 2.051 0.707-0.707-2.0484-2.051z" fill="#4d4d4d"/>
- <path d="m13.994 10l-4.0526 4.051 0.7066 0.707 4.053-4.051-0.707-0.707z" fill="#4d4d4d"/>
- <path d="m14.008 10-0.70703 0.70703 2.9922 2.9922l0.707-0.707z" fill="#4d4d4d"/>
-</svg>
+view-preview.svg

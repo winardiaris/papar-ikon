@@ -113,12 +113,12 @@
        transform="translate(553.72253,-447.24294)"
        id="layer1-8"
        inkscape:label="Capa 1"
-       style="fill:#424854;fill-opacity:1">
+       style="fill:#666666;fill-opacity:1">
       <path
          id="rect4136"
          transform="translate(0,1030.3622)"
          d="M 11,3 C 8.784,3 7,4.784 7,7 l 0,4 -2,0 0,1 0,7 1,0 10,0 1,0 0,-8 -1,0 -1,0 0,-4 C 15,4.784 13.216,3 11,3 Z m 0,1 c 1.662,0 3,1.561 3,3.5 L 14,11 8,11 8,7.5 C 8,5.561 9.338,4 11,4 Z m -5,8 10,0 0,6 -10,0 0,-6 z"
-         style="opacity:1;fill:#424854;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

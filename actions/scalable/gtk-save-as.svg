@@ -1,9 +1,1 @@
-<svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g transform="matrix(1 0 0 1 0 -1030.4)">
-  <circle cy="1036.4" r="1" fill="#4d4d4d" cx="21"/>
-  <circle cy="1041.4" r="1" fill="#4d4d4d" cx="21"/>
-  <circle cy="1046.4" r="1" fill="#4d4d4d" cx="21"/>
-  <path d="m0 1033.4v1 15h1 9v-1h-9v-8h3v-0.01l0.00781 0.01 2-2h8.9922v5h1v-8h-6.9922l-2-2-0.00781 0.01v-0.01h-6z" fill="#4d4d4d"/>
-  <path d="m13.5 1049.6-0.20703-0.207-3.293-3.293 0.70703-0.707 2.293 2.2929v-4.2929h1v4.2929l2.293-2.2929 0.70703 0.707-3.293 3.293-0.20703 0.207z" fill="#4d4d4d"/>
- </g>
-</svg>
+document-save.svg

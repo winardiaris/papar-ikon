@@ -1,3 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path d="M 3,5.7187499 8.5,11.1875 14,5.7187499 l -2.125,-2.125 -1.875,1.875 0,-4.49999995 -3,0 0,4.49999995 -1.875,-1.875 -2.125,2.125 z M 7,13.5 C 7,14.328427 7.6715729,15 8.5,15 9.3284271,15 10,14.328427 10,13.5 10,12.671573 9.3284271,12 8.5,12 7.6715729,12 7,12.671573 7,13.5 z" stroke-width="0.8" display="inline" fill="#4d4d4d" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" inkscape:label="Arrow" inkscape:groupmode="layer" inkscape:connector-curvature="0"/>
-</svg>
+./go-bottom.svg

@@ -1,3 +1,22 @@
-<svg viewBox="0 0 16 16" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path stroke="none" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" color="#000000" stroke-miterlimit="4" stroke-opacity="1" color-interpolation="sRGB" image-rendering="auto" stroke-width="1" color-interpolation-filters="linearRGB" color-rendering="auto" d="M 7 2 L 7 3 C 7 3.034625 7.0161294 3.0639575 7.0195312 3.0976562 C 5.0398073 3.4886443 3.4886443 5.0398073 3.0976562 7.0195312 C 3.0639575 7.0161294 3.034625 7 3 7 L 2 7 L 2 9 L 3 9 C 3.034625 9 3.0639575 8.9838706 3.0976562 8.9804688 C 3.4886443 10.960193 5.0398073 12.511356 7.0195312 12.902344 C 7.0161294 12.936042 7 12.965375 7 13 L 7 14 L 8 14 L 9 14 L 9 13 C 9 12.965375 8.9838706 12.936042 8.9804688 12.902344 C 10.960193 12.511356 12.511356 10.960193 12.902344 8.9804688 C 12.936042 8.9838706 12.965375 9 13 9 L 14 9 L 14 7 L 13 7 C 12.965375 7 12.936042 7.0161294 12.902344 7.0195312 C 12.511356 5.0398073 10.960193 3.4886443 8.9804688 3.0976562 C 8.9838706 3.0639575 9 3.034625 9 3 L 9 2 L 7 2 z M 8 4 C 10.216 4 12 5.784 12 8 C 12 10.216 10.216 12 8 12 C 5.784 12 4 10.216 4 8 C 4 5.784 5.784 4 8 4 z M 7 7 L 7 9 L 9 9 L 9 7 L 7 7 z " text-rendering="auto" display="inline" visibility="visible" fill="#bebebe" fill-opacity="1" opacity="1" fill-rule="nonzero" shape-rendering="auto"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-405 -19.997)">
+  <path id="rect5033" style="fill:#666666" d="m412 21.094v2c-1.9529 0.39963-3.5066 1.9533-3.9062 3.9062h-2.0938v2h2.0938c0.39963 1.9529 1.9533 3.5066 3.9062 3.9062v2.0938h2v-2.0938c1.9529-0.39963 3.5066-1.9533 3.9062-3.9062h2.0938v-2h-2.0938c-0.39963-1.9529-1.9533-3.5066-3.9062-3.9062v-2h-2zm1 4.9062c1.1046 0 2 0.89543 2 2s-0.89543 2-2 2-2-0.89543-2-2 0.89543-2 2-2z"/>
+ </g>
 </svg>

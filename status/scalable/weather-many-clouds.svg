@@ -80,14 +80,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 6.5 3 C 4.164201 3 2.2537814 4.7851525 2.03125 7.0625 C 0.8770657 7.2838766 0 8.2812563 0 9.5 C 0 10.880712 1.1192881 12 2.5 12 L 6.4375 12 C 6.3180913 11.708158 6.25 11.397323 6.25 11.0625 C 6.25 9.73622 7.28855 8.677242 8.59375 8.59375 C 9.148474 7.3931837 10.340611 6.5625 11.75 6.5625 C 12.321979 6.5625 12.83573 6.6942084 13.3125 6.9375 C 13.436329 6.9754624 13.567862 7.0118973 13.6875 7.0625 C 13.14124 5.8410281 11.924589 5 10.5 5 C 10.415681 5 10.332827 5.0253863 10.25 5.03125 C 9.446562 3.8026891 8.077518 3 6.5 3 z "
        id="path3110" />
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="0"
        inkscape:original="M 8.5 8 C 7.090611 8 5.898474 8.8306837 5.34375 10.03125 C 4.03855 10.114742 3 11.17372 3 12.5 C 3 13.880712 4.119288 15 5.5 15 L 8.5 15 C 10.432997 15 12 13.432997 12 11.5 C 12 9.567003 10.432997 8 8.5 8 z "
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3893-8"
        d="M 8.5,8 C 7.090611,8 5.898474,8.8306837 5.34375,10.03125 4.03855,10.114742 3,11.17372 3,12.5 3,13.880712 4.119288,15 5.5,15 l 3,0 C 10.432997,15 12,13.432997 12,11.5 12,9.567003 10.432997,8 8.5,8 z"
        transform="translate(3.7040953,-0.89874303)" />

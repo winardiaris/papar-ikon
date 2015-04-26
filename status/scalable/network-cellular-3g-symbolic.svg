@@ -1,57 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="network-cellular-3g-symbolic.svg">
-  <defs
-     id="defs213277" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview213275"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="3.5872331"
-     inkscape:cy="10.723981"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#999999"
-     d="M 1,2 C 0.446,2 0,2.446 0,3 v 10 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 3 C 16,2.446 15.554,2 15,2 H 1 z m 1.5,2 h 4 C 6.777,4 7,4.223 7,4.5 v 7 C 7,11.777 6.777,12 6.5,12 h -4 C 2.223,12 2,11.777 2,11.5 V 10 H 5 V 9 H 3 V 7 H 5 V 6 H 2 V 4.5 C 2,4.223 2.223,4 2.5,4 z m 6,0 h 5 C 13.777,4 14,4.223 14,4.5 V 6 h -4 v 4 h 2 V 9 H 11 V 7 h 3 v 4.5 c 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 8.223,12 8,11.777 8,11.5 v -7 C 8,4.223 8.223,4 8.5,4 z"
-     id="rect3085" />
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg height="16" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg" enable-background="new">
+ <metadata id="metadata90"/>
+ <defs id="defs7386">
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608"/>
+  </linearGradient>
+  <filter inkscape:collect="always" color-interpolation-filters="sRGB" id="filter7554">
+   <feBlend inkscape:collect="always" id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g inkscape:groupmode="layer" id="layer9" inkscape:label="status" transform="translate(-301.0002,283)">
+  <g id="layer9-23" transform="translate(220.0004,-520)" fill="#666666">
+   <path inkscape:connector-curvature="0" d="m 81.0003,240.06248 -5e-4,9.9375 c -1.01e-4,2 2,2 2,2 l 12,0 c 2,0 2,-2 2,-2 l 0,-10 c 0,0 1.2e-5,-2 -2,-2 l -12,0 c 0,0 -1.999396,4.3e-4 -1.9995,2.0625 z M 83,240 l 4,0 c 0.666386,0.0162 1.167229,0.83815 0.8755,1.4375 l -1.375,2.7812 c 0.35458,0.11552 0.74913,0.19557 0.96875,0.4375 0.33238,0.36614 0.53125,0.8102 0.53125,1.3438 l 0,2 c 0,1.1124 -0.90732,2 -2,2 l -3,0 -5e-4,-2 3,0 0,-2 -0.9995,0 c -0.666386,-0.0162 -1.166729,-0.83815 -0.875,-1.4375 l 1.25,-2.5625 -2.375,0 z m 10,0 c 2,0 2,2 2,2 l 0,1 -2,0 0,-1 -2,0 0,6 2,0 0,-2 -1,0 8e-4,-1.96875 L 94,244 l 1.0008,0.0312 0,1 0,2.9375 C 95.0008,247.96875 95,250 93,250 l -1.9992,-5e-5 C 91.0008,249.99995 89,250 89,248 l 0,-6 c 0,-2 2,-2 2,-2 z" id="path1244" sodipodi:nodetypes="sscsccscsccccsssscccccccccccccccccccccccccccccc" color="#666666"/>
+  </g>
+ </g>
 </svg>

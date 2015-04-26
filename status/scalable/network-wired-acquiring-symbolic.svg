@@ -1,77 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="network-wired-acquiring-symbolic.svg">
-  <defs
-     id="defs213581" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview213579"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     inkscape:connector-curvature="0"
-     d="M 5.8438,7 A 0.63313,0.63137 0 0 0 5.5625,7.1875 l -2.375,2.375 A 0.63313,0.63137 0 0 0 3,10 v 1.875 l -2.75,2.75 c -0.31442,0.314 -0.31442,0.811 0,1.125 0.31442,0.314 0.8106,0.314 1.125,0 L 4.125,13 H 6 a 0.63313,0.63137 0 0 0 0.4375,-0.188 l 2.375,-2.374 a 0.63313,0.63137 0 0 0 0,-0.8755 L 6.4375,7.1875 A 0.63313,0.63137 0 0 0 5.8438,7 z"
-     style="opacity:0.45000000000000001;fill:#999999"
-     id="path3708" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 10.16,8.9723 a 0.63313,0.63137 0 0 0 0.28125,-0.1875 l 2.375,-2.375 a 0.63313,0.63137 0 0 0 0.1875,-0.4375 v -1.875 l 2.75,-2.75 c 0.31442,-0.31442 0.31442,-0.81058 0,-1.125 -0.31442,-0.31442 -0.81058,-0.31442 -1.125,0 l -2.75,2.75 h -1.875 a 0.63313,0.63137 0 0 0 -0.4375,0.1875 l -2.375,2.375 a 0.63313,0.63137 0 0 0 0,0.875 l 2.375,2.375 A 0.63313,0.63137 0 0 0 10.16,8.9723 z"
-     style="opacity:0.45000000000000001;fill:#999999"
-     id="path3713" />
-  <path
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#999999"
-     d="m 12.009,15 a 1,1 0 0 1 -2,0 1,1 0 1 1 2,0 z"
-     id="path3106" />
-  <path
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#999999"
-     d="m 9.009,15 a 1,1 0 0 1 -2,0 1,1 0 1 1 2,0 z"
-     id="path3108" />
-  <path
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#999999"
-     d="m 6.009,15 a 1,1 0 0 1 -2,0 1,1 0 1 1 2,0 z"
-     id="path3110" />
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-485 455)">
+  <g id="g6549" transform="translate(40)">
+   <path id="path6552" style="opacity:.35;fill:#666666" transform="translate(201 -497)" d="m246 44s-1 0-1 1v2h2v-1h10v1h2v-2c0-1-1-1-1-1h-12zm-1 9v1c0 1 1 1 1 1h2l1 1h6l1-1h2s1 0.12994 1-1v-1h-2-2l-1 1h-4l-1-1h-2-2z"/>
+  </g>
+  <path id="rect8040-5-9" style="color:#000000;enable-background:new;fill:#666666" d="m488-449c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2z"/>
+ </g>
 </svg>

@@ -1,8 +1,1 @@
-<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path d="m 44.5722,23.9996 v 6.8572 h 6.8572 v -6.8572 h -6.8572 z m 0,20.5716 V 72 h 6.8572 V 44.5712 h -6.8572 z" fill="#4d4d4d" color="#bebebe" fill-opacity="9223372036.85" inkscape:connector-curvature="0"/>
- <path d="M 61.7152,23.9996 V 54.857 h 6.8572 V 23.9996 h -6.8572 z m 0,44.5718 V 72 h 6.8572 v -3.4286 h -6.8572 z" fill="#4d4d4d" color="#bebebe" fill-opacity="9223372036.85" inkscape:connector-curvature="0"/>
- <path d="m 27.4292,23.9996 v 24.0002 h 6.8572 V 23.9996 h -6.8572 z m 0,37.7146 V 72 h 6.8572 V 61.7142 h -6.8572 z" fill="#4d4d4d" color="#bebebe" fill-opacity="9223372036.85" inkscape:connector-curvature="0"/>
- <rect x="24" rx="1.714" y="51.43" fill="#4d4d4d" color="#bebebe" fill-opacity="9223372036.85" height="6.857" width="13.714"/>
- <rect x="41.14" rx="1.714" y="34.29" fill="#4d4d4d" color="#bebebe" fill-opacity="9223372036.85" height="6.857" width="13.714"/>
- <rect x="58.29" rx="1.714" y="58.29" fill="#4d4d4d" color="#bebebe" fill-opacity="9223372036.85" height="6.857" width="13.714"/>
-</svg>
+./mixer-digital.svg
