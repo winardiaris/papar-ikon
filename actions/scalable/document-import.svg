@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="16"
+   height="16"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="10.289024"
-     inkscape:cy="10.25869"
+     inkscape:zoom="45.254834"
+     inkscape:cx="3.6994946"
+     inkscape:cy="8.8497499"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -119,20 +119,21 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(9384.3076,-4838.1987)"
+     transform="translate(9384.3076,-4846.1987)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
-       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -9381.3077,4849.1989 8,0 0,-3 5,4 -5,4 0,-3 -8,0 z"
+       style="fill:#666666;fill-opacity:1;fill-rule:nonzero"
+       d="m -9368.3077,4847.1987 0,14 -10.9999,2e-4 0,-6 3.9999,0 0,3 5,-4 -5,-4 0,3 -3.9999,0 -10e-5,-6.0002 z"
+       id="path3789-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="color:#000000;fill:#616161;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -9383.3077,4853.1989 4,0 0,2 -4,0 z"
        id="rect3005"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -9364.3077,4842.1989 0,1 0,10 0,0.4375 -0.3125,0.2812 -4,4 -0.2813,0.2813 -0.4062,0 -6,0 -1,0 0,-1 0,-5 2,0 0,4 4,0 0,-3 0,-1 1,0 3,0 0,-8 -8,0 0,4 -2,0 0,-5 0,-1 1,0 10,0 1,0 z m -3.4063,12 -0.5937,0 0,0.5937 0.5937,-0.5937 z"
-       id="path3763"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

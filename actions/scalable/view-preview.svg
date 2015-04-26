@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg13094"
-   height="24"
-   width="24"
+   height="16"
+   width="16"
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="view-preview.svg">
@@ -30,20 +30,16 @@
      inkscape:window-height="744"
      id="namedview5"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="8.4836769"
-     inkscape:cy="6.3067459"
+     inkscape:zoom="41.7193"
+     inkscape:cx="7.6559967"
+     inkscape:cy="8.2377015"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094">
     <inkscape:grid
        type="xygrid"
-       id="grid3752"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3752" />
   </sodipodi:namedview>
   <metadata
      id="metadata13099">
@@ -59,7 +55,7 @@
   </metadata>
   <path
      id="rect2986"
-     d="M 3,4 3,20 21,20 21,4 z M 5,6 19,6 19,18 5,18 z M 8,7 C 7.171573,7 6.5,7.671573 6.5,8.5 6.5,9.328427 7.171573,10 8,10 8.828427,10 9.5,9.328427 9.5,8.5 9.5,7.671573 8.828427,7 8,7 z m 8,3 -4,4 -2,-2 -4,4 0,1 12,0 0,-5 z"
+     d="M 0,1 0,15 16,15 16,1 z M 2,3 14,3 14,13 2,13 z M 8,4 C 7.171573,4 6.5,4.671573 6.5,5.5 6.5,6.328427 7.171573,7 8,7 8.828427,7 9.5,6.328427 9.5,5.5 9.5,4.671573 8.828427,4 8,4 z m 5,5 -2,-2 -3,3 -2,-2 -3,3 0,1 10,0 z"
      style="fill:#666666;fill-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccssssscccccccc" />

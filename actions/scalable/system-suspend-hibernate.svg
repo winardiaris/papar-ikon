@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="15.999998"
+   height="15.999998"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="system-suspend-hibernate.svg">
+   sodipodi:docname="gnome-session-hibernate.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,8 +23,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627419"
-     inkscape:cx="8.6293515"
-     inkscape:cy="9.9948392"
+     inkscape:cx="2.9582987"
+     inkscape:cy="3.638526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -79,19 +79,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(9398.6161,-4989.8786)"
+     transform="translate(9398.6161,-4997.8786)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
        style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 12 4 C 7.5817 4 4 7.5817 4 12 C 4 16.4183 7.5817 20 12 20 C 16.4183 20 20 16.4183 20 12 C 20 7.5817 16.4183 4 12 4 z M 12 6 C 15.3137 6 18 8.6863 18 12 C 18 15.3137 15.3137 18 12 18 C 8.6863 18 6 15.3137 6 12 C 6 8.6863 8.6863 6 12 6 z "
-       transform="translate(-9398.6161,4989.8786)"
-       id="path2989" />
-    <path
-       style="fill:#666666;fill-opacity:1;stroke:none"
-       d="m -9389.616,4998.8786 0,2 3,0 -3,2 0,2 6,0 0,-2 -3,0 3,-2 0,-2 -6,0 z"
-       id="rect3760"
-       inkscape:connector-curvature="0" />
+       d="M 8 1 C 4.1340068 1 1 4.1340068 1 8 C 1 11.865993 4.1340068 15 8 15 C 11.865993 15 15 11.865993 15 8 C 15 4.1340068 11.865993 1 8 1 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z M 5 5 L 5 7 L 8 7 L 5 9 L 5 11 L 11 11 L 11 9 L 8 9 L 11 7 L 11 5 L 5 5 z "
+       transform="translate(-9398.6161,4997.8786)"
+       id="path3004" />
   </g>
 </svg>

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="15.999998"
+   height="15.999998"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="xfce-system-lock.svg">
+   sodipodi:docname="gnome-lockscreen.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000003"
-     inkscape:cx="2.0052734"
-     inkscape:cy="12.461066"
+     inkscape:zoom="26.82292"
+     inkscape:cx="1.2539028"
+     inkscape:cy="7.7781738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -79,19 +79,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(9398.6161,-4989.8786)"
+     transform="translate(9398.6161,-4997.8786)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
        style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m -9386.6161,4993.8786 c -4.4183,0 -8,3.5817 -8,8 0,4.4183 3.5817,8 8,8 4.4183,0 8,-3.5817 8,-8 0,-4.4183 -3.5817,-8 -8,-8 z m 0,2 c 3.3137,0 6,2.6863 6,6 0,3.3137 -2.6863,6 -6,6 -3.3137,0 -6,-2.6863 -6,-6 0,-3.3137 2.6863,-6 6,-6 z"
-       id="path3007"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m -9386.6161,4997.8786 c -1.1046,0 -2,0.8954 -2,2 0,0.7396 0.4031,1.3728 1,1.7187 l 0,3.2813 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-3.2813 c 0.5969,-0.3459 1,-0.9791 1,-1.7187 0,-1.1046 -0.8954,-2 -2,-2 z"
-       id="path3004"
-       inkscape:connector-curvature="0" />
+       d="M 8 1 C 4.1340068 1 1 4.1340068 1 8 C 1 11.865993 4.1340068 15 8 15 C 11.865993 15 15 11.865993 15 8 C 15 4.1340068 11.865993 1 8 1 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z M 8 5 C 6.8954305 5 6 5.8954305 6 7 C 6 7.7396043 6.4031044 8.3727074 7 8.71875 L 7 11 L 9 11 L 9 8.71875 C 9.5968956 8.3727074 10 7.7396043 10 7 C 10 5.8954305 9.1045695 5 8 5 z "
+       transform="translate(-9398.6161,4997.8786)"
+       id="path3004" />
   </g>
 </svg>

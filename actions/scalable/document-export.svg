@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="16"
+   height="16"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="12.253151"
-     inkscape:cy="11.354494"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.2919599"
+     inkscape:cy="5.1646243"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -119,20 +119,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(9384.3076,-4838.1987)"
+     transform="translate(9384.3076,-4846.1987)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
+       style="fill:#616161;fill-opacity:1;fill-rule:nonzero"
+       d="m 0,1 0,14 9.999889,1.6e-4 0,-5 -6,0 0,-4 6,0 L 10,1 z"
+       transform="translate(-9384.3076,4846.1987)"
+       id="path3789-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       transform="translate(-9384.3076,4846.1987)"
        style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -9375.3077,4849.1989 8,0 0,-3 5,4 -5,4 0,-3 -8,0 z"
+       d="m 4.9998889,7.0001602 6.0000001,-2e-7 0,-3 5,4 -5,4 0,-3 -6.0000001,2e-7 z"
        id="rect3005"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 4 4 L 4 5 L 4 15 L 4 15.4375 L 4.3125 15.71875 L 8.3125 19.71875 L 8.59375 20 L 9 20 L 15 20 L 16 20 L 16 19 L 16 14 L 14 14 L 14 18 L 10 18 L 10 15 L 10 14 L 9 14 L 6 14 L 6 6 L 14 6 L 14 10 L 16 10 L 16 5 L 16 4 L 15 4 L 5 4 L 4 4 z M 7.40625 16 L 8 16 L 8 16.59375 L 7.40625 16 z "
-       transform="translate(-9384.3076,4838.1987)"
-       id="path3763" />
   </g>
 </svg>

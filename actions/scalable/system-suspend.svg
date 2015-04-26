@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="16.000004"
+   height="16.000004"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="xfsm-suspend.svg">
+   sodipodi:docname="gnome-session-suspend.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="6.729798"
-     inkscape:cy="10.620712"
+     inkscape:zoom="32.000002"
+     inkscape:cx="9.5366835"
+     inkscape:cy="9.0194918"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -80,11 +80,6 @@
   </metadata>
   <path
      style="fill:#666666;fill-opacity:1;stroke:none"
-     d="M 12 4 C 7.581722 4 4 7.581722 4 12 C 4 16.418278 7.581722 20 12 20 C 16.418278 20 20 16.418278 20 12 C 20 7.581722 16.418278 4 12 4 z M 12 6 C 15.313708 6 18 8.6862915 18 12 C 18 15.313708 15.313708 18 12 18 C 8.6862915 18 6 15.313708 6 12 C 6 8.6862915 8.6862915 6 12 6 z "
+     d="M 8 1 C 4.1340068 1 1 4.1340068 1 8 C 1 11.865993 4.1340068 15 8 15 C 11.865993 15 15 11.865993 15 8 C 15 4.1340068 11.865993 1 8 1 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z M 5 7 L 5 9 L 11 9 L 11 7 L 5 7 z "
      id="path2989" />
-  <path
-     style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 8,11 0,2 8,0 0,-2 -8,0 z"
-     id="path2985"
-     inkscape:connector-curvature="0" />
 </svg>

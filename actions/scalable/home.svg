@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="16.000032"
+   height="15.999998"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="stock-home.svg">
+   sodipodi:docname="gohome.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="13.069648"
-     inkscape:cy="9.513591"
+     inkscape:zoom="32"
+     inkscape:cx="9.1723316"
+     inkscape:cy="8.1192454"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -119,29 +119,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(9379.308,-4835.1988)"
+     transform="translate(9379.308,-4843.1988)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -9367.308,4838.7925 -0.7188,0.6875 -8,8 1.4375,1.4375 7.2813,-7.2812 7.2812,7.2812 1.4375,-1.4375 -8,-8 -0.7187,-0.6875 z"
-       id="path2994"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -9373.3125,4849.1875 0,6 2,0 0,-6 -2,0 z"
-       id="path3764"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -9368.308,4845.1988 0,10 2,0 0,-10 -2,0 z"
-       id="path3766"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -9363.3125,4849.1875 0,6 2,0 0,-6 -2,0 z"
-       id="path3768"
-       inkscape:connector-curvature="0" />
+       d="M 8 0.59375 L 7.28125 1.28125 L 0.28125 8.28125 L 1.71875 9.71875 L 8 3.4375 L 14.28125 9.71875 L 15.71875 8.28125 L 8.71875 1.28125 L 8 0.59375 z M 7 7 L 7 15 L 9 15 L 9 7 L 7 7 z M 2 10 L 2 15 L 4 15 L 4 10 L 2 10 z M 12 10 L 12 15 L 14 15 L 14 10 L 12 10 z "
+       transform="translate(-9379.308,4843.1988)"
+       id="path2994" />
   </g>
 </svg>

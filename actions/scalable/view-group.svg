@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="16.000004"
+   height="16.000004"
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -80,14 +80,13 @@
   </metadata>
   <path
      style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 4,4.9999962 0,4 4,0 0,-4 -4,0 z m 6,0 0,4 4,0 0,-4 -4,0 z m 6,0 0,4 4,0 0,-4 -4,0 z m -12,9.9999998 0,4 4,0 0,-4 -4,0 z m 6,0 0,4 4,0 0,-4 -4,0 z m 6,0 0,4 4,0 0,-4 -4,0 z"
-     id="rect3783"
-     inkscape:connector-curvature="0" />
+     d="M 0 1 L 0 5 L 4 5 L 4 1 L 0 1 z M 6 1 L 6 5 L 10 5 L 10 1 L 6 1 z M 12 1 L 12 5 L 16 5 L 16 1 L 12 1 z M 0 11 L 0 15 L 4 15 L 4 11 L 0 11 z M 6 11 L 6 15 L 10 15 L 10 11 L 6 11 z M 12 11 L 12 15 L 16 15 L 16 11 L 12 11 z "
+     id="rect3783" />
   <rect
      style="fill:#616161;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="rect3789"
      width="13.999992"
      height="2"
-     x="5.0000076"
-     y="11.000002" />
+     x="1.0000079"
+     y="7.0000062" />
 </svg>
